@@ -16,6 +16,9 @@ build/
 progress.db
 *.db
 
+# User feedback (not committed)
+support_messages.jsonl
+
 # IDE
 .idea/
 .vscode/

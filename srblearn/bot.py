@@ -26,6 +26,7 @@ BOT_COMMANDS = [
     BotCommand("settings", "Настройки уровня и уведомлений"),
     BotCommand("stats", "Статистика обучения"),
     BotCommand("help", "Справка по командам"),
+    BotCommand("support", "Багрепорты и пожелания"),
 ]
 
 
@@ -34,7 +35,11 @@ async def post_init(application: Application) -> None:
     await db.init_db(config.db_path)
     await setup_scheduler(application, config.db_path)
     await application.bot.set_my_commands(BOT_COMMANDS)
-    logger.info("SrbLearn bot started (db: %s)", config.db_path)
+    logger.info(
+        "SrbLearn bot started (db: %s, support: %s)",
+        config.db_path,
+        config.support_file,
+    )
 
 
 async def post_shutdown(application: Application) -> None:
