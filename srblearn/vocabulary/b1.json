@@ -1,0 +1,4286 @@
+[
+  {
+    "sr": "radost",
+    "ru": "радость",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "tuga",
+    "ru": "грусть",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "strah",
+    "ru": "страх",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "ljubav",
+    "ru": "любовь",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "mržnja",
+    "ru": "ненависть",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "ljutnja",
+    "ru": "гнев",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "iznenađenje",
+    "ru": "удивление",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "sram",
+    "ru": "стыд",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "krivica",
+    "ru": "вина",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "ponos",
+    "ru": "гордость",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "zavist",
+    "ru": "зависть",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "nada",
+    "ru": "надежда",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "očajanje",
+    "ru": "отчаяние",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "znatiželja",
+    "ru": "любопытство",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "dosada",
+    "ru": "скука",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "uzbuđenje",
+    "ru": "волнение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "anksioznost",
+    "ru": "тревога",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "stres",
+    "ru": "стресс",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "olakšanje",
+    "ru": "облегчение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "zahvalnost",
+    "ru": "благодарность",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "ljubomora",
+    "ru": "ревность",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "simpatija",
+    "ru": "симпатия",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "antipatija",
+    "ru": "антипатия",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "empatija",
+    "ru": "эмпатия",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "saosećanje",
+    "ru": "сочувствие",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "oduševljenje",
+    "ru": "восторг",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "razočaranje",
+    "ru": "разочарование",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "frustracija",
+    "ru": "фрустрация",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "zbunjenost",
+    "ru": "замешательство",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "samopouzdanje",
+    "ru": "уверенность в себе",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "nesigurnost",
+    "ru": "неуверенность",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "mir",
+    "ru": "покой",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "nemir",
+    "ru": "беспокойство",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "melanholija",
+    "ru": "меланхолия",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "euforija",
+    "ru": "эйфория",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "apatija",
+    "ru": "апатия",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "entuzijazam",
+    "ru": "энтузиазм",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "strpljenje",
+    "ru": "терпение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "nestrpljenje",
+    "ru": "нетерпение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "poštovanje",
+    "ru": "уважение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "prezir",
+    "ru": "презрение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "divljenje",
+    "ru": "восхищение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "zahvalan",
+    "ru": "благодарный",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "tužan",
+    "ru": "грустный",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "srećan",
+    "ru": "счастливый",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "uplakan",
+    "ru": "плачущий",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "nasmejan",
+    "ru": "улыбающийся",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "uznemiren",
+    "ru": "встревоженный",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "opušten",
+    "ru": "расслабленный",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "napet",
+    "ru": "напряжённый",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "dirnut",
+    "ru": "тронутый",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "zabrinut",
+    "ru": "обеспокоенный",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "oduševljen",
+    "ru": "восхищённый",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "razočaran",
+    "ru": "разочарованный",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "ljut",
+    "ru": "злой",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "mirno",
+    "ru": "спокойно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "uzbuđeno",
+    "ru": "взволнованно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "osećati",
+    "ru": "чувствовать",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "emocija",
+    "ru": "эмоция",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "raspoloženje",
+    "ru": "настроение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "duh",
+    "ru": "дух",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "volja",
+    "ru": "воля",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "strast",
+    "ru": "страсть",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "nežnost",
+    "ru": "нежность",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "osmeh",
+    "ru": "улыбка",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "suza",
+    "ru": "слеза",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "uzdah",
+    "ru": "вздох",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "kikot",
+    "ru": "хихиканье",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "plakanje",
+    "ru": "плач",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "smeh",
+    "ru": "смех",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "ćutanje",
+    "ru": "молчание",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "uzbudljivo",
+    "ru": "волнующе",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "dirljivo",
+    "ru": "трогательно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "tužno",
+    "ru": "печально",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "radosno",
+    "ru": "радостно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "strašno",
+    "ru": "страшно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "čudno",
+    "ru": "странно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "prijatno",
+    "ru": "приятно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "neprijatno",
+    "ru": "неприятно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "iskreno",
+    "ru": "искренно",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "lažno",
+    "ru": "фальшиво",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "toplo",
+    "ru": "тепло (чувство)",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "hladno",
+    "ru": "холодно (чувство)",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "srce puno",
+    "ru": "полное сердце",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "prazno",
+    "ru": "пусто (внутри)",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "osećaj pripadnosti",
+    "ru": "чувство принадлежности",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "usamljenost",
+    "ru": "одиночество",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "sreća",
+    "ru": "счастье",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "nesreća",
+    "ru": "несчастье",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "bol",
+    "ru": "боль (эмоциональная)",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "uteha",
+    "ru": "утешение",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "podrška",
+    "ru": "поддержка",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "razumevanje",
+    "ru": "понимание",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "nepoverenje",
+    "ru": "недоверие",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "poverenje",
+    "ru": "доверие",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "ljubav prema",
+    "ru": "любовь к",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "mržnja prema",
+    "ru": "ненависть к",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "strah od",
+    "ru": "страх перед",
+    "tags": [
+      "emotions"
+    ]
+  },
+  {
+    "sr": "putovanje",
+    "ru": "путешествие",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "turista",
+    "ru": "турист",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "vodič",
+    "ru": "гид",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "mapa",
+    "ru": "карта",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "kompas",
+    "ru": "компас",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "plan puta",
+    "ru": "маршрут",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "odredište",
+    "ru": "пункт назначения",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "polazna tačka",
+    "ru": "пункт отправления",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "rezervacija hotela",
+    "ru": "бронирование отеля",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "soba sa pogledom",
+    "ru": "комната с видом",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "jednokrevetna soba",
+    "ru": "одноместный номер",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "dvokrevetna soba",
+    "ru": "двухместный номер",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "doručak uključen",
+    "ru": "завтрак включён",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "recepcija",
+    "ru": "ресепшн",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "ključ od sobe",
+    "ru": "ключ от номера",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "ček-in",
+    "ru": "регистрация заезда",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "ček-aut",
+    "ru": "регистрация выезда",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "turistička agencija",
+    "ru": "туристическое агентство",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "ekskurzija",
+    "ru": "экскурсия",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "obilazak",
+    "ru": "осмотр",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "muzej",
+    "ru": "музей",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "galerija",
+    "ru": "галерея",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "spomenik",
+    "ru": "памятник",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "tvrđava",
+    "ru": "крепость",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "katedrala",
+    "ru": "собор",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "crkva",
+    "ru": "церковь",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "manastir",
+    "ru": "монастырь",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "trg",
+    "ru": "площадь",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "ulica",
+    "ru": "улица",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "četvrt",
+    "ru": "квартал",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "centar grada",
+    "ru": "центр города",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "predgrađe",
+    "ru": "пригород",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "selo",
+    "ru": "деревня",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "planina",
+    "ru": "гора",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "jezero",
+    "ru": "озеро",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "reka",
+    "ru": "река",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "more",
+    "ru": "море",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "plaža",
+    "ru": "пляж",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "obala",
+    "ru": "берег",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "otok",
+    "ru": "остров",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "poluostrvo",
+    "ru": "полуостров",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "nacionalni park",
+    "ru": "национальный парк",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "šetnja",
+    "ru": "прогулка",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "planinarenje",
+    "ru": "поход",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "kampovanje",
+    "ru": "кемпинг",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "šator",
+    "ru": "палатка",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "vrelo",
+    "ru": "родник",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "vodopad",
+    "ru": "водопад",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "pećina",
+    "ru": "пещера",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "panorama",
+    "ru": "панорама",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "fotografija",
+    "ru": "фотография",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "suvenir",
+    "ru": "сувенир",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "razglednica",
+    "ru": "открытка",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "poštanska marka",
+    "ru": "марка",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "valuta",
+    "ru": "валюта",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "menjačnica",
+    "ru": "обменник",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "kurs",
+    "ru": "курс",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "evro",
+    "ru": "евро",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "dinar",
+    "ru": "динар",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "rublje",
+    "ru": "рубль",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "gotovina",
+    "ru": "наличные",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "bankomat",
+    "ru": "банкомат",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "granična kontrola",
+    "ru": "пограничный контроль",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "carinik",
+    "ru": "таможенник",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "deklaracija",
+    "ru": "декларация",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "zabranjeno",
+    "ru": "запрещено",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "dozvoljeno",
+    "ru": "разрешено",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "viza",
+    "ru": "виза",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "pasoš",
+    "ru": "паспорт",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "lična karta",
+    "ru": "удостоверение личности",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "osiguranje putovanja",
+    "ru": "страховка путешествия",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "hitna pomoć",
+    "ru": "скорая помощь",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "ambasada",
+    "ru": "посольство",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "konzulat",
+    "ru": "консульство",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "prevodilac",
+    "ru": "переводчик",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "vodič za turiste",
+    "ru": "путеводитель",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "brošura",
+    "ru": "брошюра",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "lokalna kuhinja",
+    "ru": "местная кухня",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "specijalitet",
+    "ru": "специалитет",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "restoran",
+    "ru": "ресторан",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "kafić",
+    "ru": "кафе",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "noćni život",
+    "ru": "ночная жизнь",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "festival",
+    "ru": "фестиваль",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "koncert",
+    "ru": "концерт",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "pozorište",
+    "ru": "театр",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "bioskop",
+    "ru": "кинотеатр",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "zoo vrt",
+    "ru": "зоопарк",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "akvarijum",
+    "ru": "аквариум",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "zabavni park",
+    "ru": "парк развлечений",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "tržni centar",
+    "ru": "торговый центр",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "pijaca",
+    "ru": "рынок",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "antikvarnica",
+    "ru": "антиквариат",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "flea market",
+    "ru": "блошиный рынок",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "iznajmiti auto",
+    "ru": "арендовать машину",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "iznajmiti bicikl",
+    "ru": "арендовать велосипед",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "izgubiti se",
+    "ru": "заблудиться",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "pitati za pravac",
+    "ru": "спросить дорогу",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "na levо",
+    "ru": "налево",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "na desno",
+    "ru": "направо",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "pravo",
+    "ru": "прямо",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "iza ugla",
+    "ru": "за углом",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "blizu",
+    "ru": "близко",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "daleko",
+    "ru": "далеко",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "sr": "zdravlje",
+    "ru": "здоровье",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "bolest",
+    "ru": "болезнь",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "simptom",
+    "ru": "симптом",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "dijagnoza",
+    "ru": "диагноз",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "terapija",
+    "ru": "терапия",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "lečenje",
+    "ru": "лечение",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "operacija",
+    "ru": "операция",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "pregled",
+    "ru": "осмотр",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "analiza",
+    "ru": "анализ",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "krvna slika",
+    "ru": "анализ крови",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "rentgen",
+    "ru": "рентген",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "ultrazvuk",
+    "ru": "УЗИ",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "rezultat",
+    "ru": "результат",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "recept",
+    "ru": "рецепт",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "lek",
+    "ru": "лекарство",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "tableta",
+    "ru": "таблетка",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "sirup",
+    "ru": "сироп",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "injekcija",
+    "ru": "инъекция",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "vakcina",
+    "ru": "вакцина",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "antibiotik",
+    "ru": "антибиотик",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "vitamin",
+    "ru": "витамин",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "groznica",
+    "ru": "лихорадка",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "temperatura",
+    "ru": "температура",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "kašalj",
+    "ru": "кашель",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "kijanje",
+    "ru": "чихание",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "curi nos",
+    "ru": "насморк",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "glavobolja",
+    "ru": "головная боль",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "bol u stomaku",
+    "ru": "боль в животе",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "mučnina",
+    "ru": "тошнота",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "povraćanje",
+    "ru": "рвота",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "proliv",
+    "ru": "понос",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "zavoj",
+    "ru": "повязка",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "flaster",
+    "ru": "пластырь",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "gaza",
+    "ru": "марля",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "dezinfekcija",
+    "ru": "дезинфекция",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "antiseptik",
+    "ru": "антисептик",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "alergija",
+    "ru": "аллергия",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "astma",
+    "ru": "астма",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "dijabetes",
+    "ru": "диабет",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "hipertenzija",
+    "ru": "гипертония",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "infekcija",
+    "ru": "инфекция",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "virus",
+    "ru": "вирус",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "bakterija",
+    "ru": "бактерия",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "epidemija",
+    "ru": "эпидемия",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "pandemija",
+    "ru": "пандемия",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "karantin",
+    "ru": "карантин",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "izolacija",
+    "ru": "изоляция",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "maska",
+    "ru": "маска",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "sanitetski materijal",
+    "ru": "санитарные принадлежности",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "bolnica",
+    "ru": "больница",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "klinika",
+    "ru": "клиника",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "ambulanta",
+    "ru": "поликлиника",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "hitna služba",
+    "ru": "скорая помощь",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "bolničko odeljenje",
+    "ru": "больничное отделение",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "medicinska sestra",
+    "ru": "медсестра",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "hirurg",
+    "ru": "хирург",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "pedijatar",
+    "ru": "педиатр",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "stomatolog",
+    "ru": "стоматолог",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "oftalmolog",
+    "ru": "офтальмолог",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "kardiolog",
+    "ru": "кардиолог",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "neurolog",
+    "ru": "невролог",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "psihijatar",
+    "ru": "психиатр",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "fizioterapeut",
+    "ru": "физиотерапевт",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "zubar",
+    "ru": "зубной врач",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "zubobolja",
+    "ru": "зубная боль",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "plomba",
+    "ru": "пломба",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "četkica",
+    "ru": "щётка",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "floss",
+    "ru": "зубная нить",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "ortoped",
+    "ru": "ортопед",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "povreda",
+    "ru": "травма",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "prelom",
+    "ru": "перелом",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "uganuće",
+    "ru": "растяжение",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "ogrebotina",
+    "ru": "ссадина",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "oguljotina",
+    "ru": "садина",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "krvarenje",
+    "ru": "кровотечение",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "san",
+    "ru": "сон",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "nesanica",
+    "ru": "бессонница",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "umor",
+    "ru": "усталость",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "ishrana",
+    "ru": "питание",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "dijeta",
+    "ru": "диета",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "kalorija",
+    "ru": "калория",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "protein",
+    "ru": "белок",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "ugljeni hidrati",
+    "ru": "углеводы",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "masti",
+    "ru": "жиры",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "vežbanje",
+    "ru": "упражнение",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "gimnastika",
+    "ru": "гимнастика",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "joga",
+    "ru": "йога",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "rekreacija",
+    "ru": "отдых",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "oporavak",
+    "ru": "выздоровление",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "ozdravljenje",
+    "ru": "выздоровление",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "preventiva",
+    "ru": "профилактика",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "pregledati",
+    "ru": "осмотреть",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "lečiti",
+    "ru": "лечить",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "poboljšati",
+    "ru": "улучшить",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "pogoršati",
+    "ru": "ухудшить",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "ozdraviti",
+    "ru": "выздороветь",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "sr": "priroda",
+    "ru": "природа",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "ekosistem",
+    "ru": "экосистема",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "biodiverzitet",
+    "ru": "биоразнообразие",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "flora",
+    "ru": "флора",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "fauna",
+    "ru": "фауна",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "šuma",
+    "ru": "лес",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "livada",
+    "ru": "луг",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "polje",
+    "ru": "поле",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "brdo",
+    "ru": "холм",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "dolina",
+    "ru": "долина",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "kanjon",
+    "ru": "каньон",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "potok",
+    "ru": "ручей",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "izvor",
+    "ru": "источник",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "močvara",
+    "ru": "болото",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "delta",
+    "ru": "дельта",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "okean",
+    "ru": "океан",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "zaliv",
+    "ru": "залив",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "koral",
+    "ru": "коралл",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "peščara",
+    "ru": "песок",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "stena",
+    "ru": "скала",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "kamen",
+    "ru": "камень",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "zemlja",
+    "ru": "земля",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "humus",
+    "ru": "гумус",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "biljka",
+    "ru": "растение",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "drvo",
+    "ru": "дерево",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "grm",
+    "ru": "куст",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "trava",
+    "ru": "трава",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "cvet",
+    "ru": "цветок",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "list",
+    "ru": "лист",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "koren",
+    "ru": "корень",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "seme",
+    "ru": "семя",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "plod",
+    "ru": "плод",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "voće",
+    "ru": "фрукты",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "bobica",
+    "ru": "ягода",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "orah",
+    "ru": "орех",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "gljiva",
+    "ru": "гриб",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "mahovina",
+    "ru": "мох",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "paprat",
+    "ru": "папоротник",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "životinja",
+    "ru": "животное",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "sisar",
+    "ru": "млекопитающее",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "gmizavac",
+    "ru": "пресмыкающееся",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "vodozemac",
+    "ru": "земноводное",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "riba",
+    "ru": "рыба",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "ptica",
+    "ru": "птица",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "insekt",
+    "ru": "насекомое",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "pčela",
+    "ru": "пчела",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "leptir",
+    "ru": "бабочка",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "pauk",
+    "ru": "паук",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "zmija",
+    "ru": "змея",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "medved",
+    "ru": "медведь",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "vuk",
+    "ru": "волк",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "lisica",
+    "ru": "лиса",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "jelen",
+    "ru": "олень",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "zec",
+    "ru": "заяц",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "veverica",
+    "ru": "белка",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "sova",
+    "ru": "сова",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "orao",
+    "ru": "орёл",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "gavran",
+    "ru": "ворон",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "golub",
+    "ru": "голубь",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "labud",
+    "ru": "лебедь",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "raka",
+    "ru": "рак",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "kit",
+    "ru": "кит",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "delfin",
+    "ru": "дельфин",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "ajkula",
+    "ru": "акула",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "kornjača",
+    "ru": "черепаха",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "klimate",
+    "ru": "климат",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "vreme",
+    "ru": "погода",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "sezona",
+    "ru": "сезон",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "ciklus",
+    "ru": "цикл",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "rast",
+    "ru": "рост",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "opadanje lišća",
+    "ru": "опадание листьев",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "cvetanje",
+    "ru": "цветение",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "žetva",
+    "ru": "жатва",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "usev",
+    "ru": "урожай",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "poljoprivreda",
+    "ru": "сельское хозяйство",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "zaštita prirode",
+    "ru": "охрана природы",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "rezervat",
+    "ru": "заповедник",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "zagađenje",
+    "ru": "загрязнение",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "recikliranje",
+    "ru": "переработка",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "ekologija",
+    "ru": "экология",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "održivost",
+    "ru": "устойчивость",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "obnovljivi izvori",
+    "ru": "возобновляемые источники",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "solarna energija",
+    "ru": "солнечная энергия",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "vetar",
+    "ru": "ветер",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "voda",
+    "ru": "вода",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "vazduh",
+    "ru": "воздух",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "zemljotres",
+    "ru": "землетрясение",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "vulkan",
+    "ru": "вулкан",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "erupcija",
+    "ru": "извержение",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "poplava",
+    "ru": "наводнение",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "suša",
+    "ru": "засуха",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "požar",
+    "ru": "пожар",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "oluja",
+    "ru": "буря",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "sneg",
+    "ru": "снег",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "grad",
+    "ru": "град",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "magla",
+    "ru": "туман",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "duga",
+    "ru": "радуга",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "zvezda",
+    "ru": "звезда",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "mesec",
+    "ru": "луна",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "sunce",
+    "ru": "солнце",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "galaksija",
+    "ru": "галактика",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "univerzum",
+    "ru": "вселенная",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "sr": "tehnologija",
+    "ru": "технология",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "računar",
+    "ru": "компьютер",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "laptop",
+    "ru": "ноутбук",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "tablet",
+    "ru": "планшет",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "telefon",
+    "ru": "телефон",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "smartfon",
+    "ru": "смартфон",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "ekran",
+    "ru": "экран",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "tastatura",
+    "ru": "клавиатура",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "miš",
+    "ru": "мышь",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "monitor",
+    "ru": "монитор",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "procesor",
+    "ru": "процессор",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "memorija",
+    "ru": "память",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "hard disk",
+    "ru": "жёсткий диск",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "SSD",
+    "ru": "твердотельный накопитель",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "grafička kartica",
+    "ru": "видеокарта",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "matična ploča",
+    "ru": "материнская плата",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "napajanje",
+    "ru": "блок питания",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "kuler",
+    "ru": "кулер",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "kabl",
+    "ru": "кабель",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "USB",
+    "ru": "USB",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "port",
+    "ru": "порт",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "wifi",
+    "ru": "Wi-Fi",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "internet",
+    "ru": "интернет",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "mreža",
+    "ru": "сеть",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "ruter",
+    "ru": "роутер",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "modem",
+    "ru": "модем",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "server",
+    "ru": "сервер",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "baza podataka",
+    "ru": "база данных",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "softver",
+    "ru": "программное обеспечение",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "hardver",
+    "ru": "аппаратное обеспечение",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "aplikacija",
+    "ru": "приложение",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "program",
+    "ru": "программа",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "operativni sistem",
+    "ru": "операционная система",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "fajl",
+    "ru": "файл",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "folder",
+    "ru": "папка",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "preuzimanje",
+    "ru": "скачивание",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "otpremanje",
+    "ru": "загрузка",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "kopiranje",
+    "ru": "копирование",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "brisanje",
+    "ru": "удаление",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "čuvanje",
+    "ru": "сохранение",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "štampanje",
+    "ru": "печать",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "skeniranje",
+    "ru": "сканирование",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "lozinka",
+    "ru": "пароль",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "korisničko ime",
+    "ru": "имя пользователя",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "nalog",
+    "ru": "аккаунт",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "prijava",
+    "ru": "вход",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "odjava",
+    "ru": "выход",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "registracija",
+    "ru": "регистрация",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "bezbednost",
+    "ru": "безопасность",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "malver",
+    "ru": "вредоносное ПО",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "zaštitni zid",
+    "ru": "файрвол",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "enkripcija",
+    "ru": "шифрование",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "haker",
+    "ru": "хакер",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "programer",
+    "ru": "программист",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "kod",
+    "ru": "код",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "programiranje",
+    "ru": "программирование",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "algoritam",
+    "ru": "алгоритм",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "podatak",
+    "ru": "данные",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "informacija",
+    "ru": "информация",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "digitalizacija",
+    "ru": "цифровизация",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "automatizacija",
+    "ru": "автоматизация",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "veštačka inteligencija",
+    "ru": "искусственный интеллект",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "mašinsko učenje",
+    "ru": "машинное обучение",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "robot",
+    "ru": "робот",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "dron",
+    "ru": "дрон",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "satelit",
+    "ru": "спутник",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "GPS",
+    "ru": "GPS",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "kamera",
+    "ru": "камера",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "mikrofon",
+    "ru": "микрофон",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "zvučnik",
+    "ru": "динамик",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "slušalice",
+    "ru": "наушники",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "baterija",
+    "ru": "батарея",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "punjač",
+    "ru": "зарядное устройство",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "energija",
+    "ru": "энергия",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "elektronika",
+    "ru": "электроника",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "čip",
+    "ru": "чип",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "senzor",
+    "ru": "датчик",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "3D štampač",
+    "ru": "3D-принтер",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "virtualna stvarnost",
+    "ru": "виртуальная реальность",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "društvene mreže",
+    "ru": "социальные сети",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "email",
+    "ru": "электронная почта",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "poruka",
+    "ru": "сообщение",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "čet",
+    "ru": "чат",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "video poziv",
+    "ru": "видеозвонок",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "streaming",
+    "ru": "стриминг",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "oblak",
+    "ru": "облако",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "backup",
+    "ru": "резервная копия",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "ažuriranje",
+    "ru": "обновление",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "greška",
+    "ru": "ошибка",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "bag",
+    "ru": "баг",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "korisnička služba",
+    "ru": "служба поддержки",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "tehnička podrška",
+    "ru": "техподдержка",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "instalacija",
+    "ru": "установка",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "konfiguracija",
+    "ru": "настройка",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "optimizacija",
+    "ru": "оптимизация",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "sr": "ideja",
+    "ru": "идея",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "pojam",
+    "ru": "понятие",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "pojava",
+    "ru": "явление",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "sukob",
+    "ru": "конфликт",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "sloboda",
+    "ru": "свобода",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "pravda",
+    "ru": "справедливость",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "istina",
+    "ru": "истина",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "laž",
+    "ru": "ложь",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "čast",
+    "ru": "честь",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "dostojanstvo",
+    "ru": "достоинство",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "odgovornost",
+    "ru": "ответственность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "dužnost",
+    "ru": "долг",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "obaveza",
+    "ru": "обязанность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "izbor",
+    "ru": "выбор",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "mogućnost",
+    "ru": "возможность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "ograničenje",
+    "ru": "ограничение",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "uslov",
+    "ru": "условие",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "pravilo",
+    "ru": "правило",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "zakon",
+    "ru": "закон",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "norma",
+    "ru": "норма",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "standard",
+    "ru": "стандарт",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "vrednost",
+    "ru": "ценность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "načelo",
+    "ru": "принцип",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "cilj",
+    "ru": "цель",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "sredstvo",
+    "ru": "средство",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "metod",
+    "ru": "метод",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "postupak",
+    "ru": "процедура",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "proces",
+    "ru": "процесс",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "razvoj",
+    "ru": "развитие",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "napredak",
+    "ru": "прогресс",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "regres",
+    "ru": "регресс",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "promena",
+    "ru": "изменение",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "stabilnost",
+    "ru": "стабильность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "ravnoteža",
+    "ru": "равновесие",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "harmonija",
+    "ru": "гармония",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "kaos",
+    "ru": "хаос",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "red",
+    "ru": "порядок",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "struktura",
+    "ru": "структура",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "sistem",
+    "ru": "система",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "organizacija",
+    "ru": "организация",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "funkcija",
+    "ru": "функция",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "uloga",
+    "ru": "роль",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "odnos",
+    "ru": "отношение",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "veza",
+    "ru": "связь",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "razlika",
+    "ru": "разница",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "sličnost",
+    "ru": "сходство",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "protivnost",
+    "ru": "противоположность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "uzrok",
+    "ru": "причина",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "posledica",
+    "ru": "следствие",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "efekat",
+    "ru": "эффект",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "uticaj",
+    "ru": "влияние",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "značaj",
+    "ru": "значение",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "smisao",
+    "ru": "смысл",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "svrha",
+    "ru": "цель",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "motiv",
+    "ru": "мотив",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "namera",
+    "ru": "намерение",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "plan",
+    "ru": "план",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "strategija",
+    "ru": "стратегия",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "taktika",
+    "ru": "тактика",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "rešenje",
+    "ru": "решение",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "problem",
+    "ru": "проблем",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "izazov",
+    "ru": "вызов",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "prepreka",
+    "ru": "препятствие",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "poteškoća",
+    "ru": "трудность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "komplikacija",
+    "ru": "осложнение",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "jednostavnost",
+    "ru": "простота",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "složenost",
+    "ru": "сложность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "logika",
+    "ru": "логика",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "razum",
+    "ru": "разум",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "intuicija",
+    "ru": "интуиция",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "iskustvo",
+    "ru": "опыт",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "znanje",
+    "ru": "знание",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "mudrost",
+    "ru": "мудрость",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "neznalica",
+    "ru": "невежество",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "obrazovanje",
+    "ru": "образование",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "kultura",
+    "ru": "культура",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "civilizacija",
+    "ru": "цивилизация",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "društvo",
+    "ru": "общество",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "zajednica",
+    "ru": "сообщество",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "individualnost",
+    "ru": "индивидуальность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "kolektiv",
+    "ru": "коллектив",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "identitet",
+    "ru": "идентичность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "tradicija",
+    "ru": "традиция",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "moderna",
+    "ru": "современность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "budućnost",
+    "ru": "будущее",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "prošlost",
+    "ru": "прошлое",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "sadašnjost",
+    "ru": "настоящее",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "večnost",
+    "ru": "вечность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "trenutak",
+    "ru": "момент",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "period",
+    "ru": "период",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "epoha",
+    "ru": "эпоха",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "era",
+    "ru": "эра",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "faza",
+    "ru": "фаза",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "stepen",
+    "ru": "степень",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "nivo",
+    "ru": "уровень",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "kvalitet",
+    "ru": "качество",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "kvantitet",
+    "ru": "количество",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "mera",
+    "ru": "мера",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "skala",
+    "ru": "шкала",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "kategorija",
+    "ru": "категория",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "tip",
+    "ru": "тип",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "vrsta",
+    "ru": "вид",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "oblik",
+    "ru": "форма",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "sadržaj",
+    "ru": "содержание",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "spoljašnjost",
+    "ru": "внешность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "suština",
+    "ru": "сущность",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "bit",
+    "ru": "суть",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "fenomen",
+    "ru": "феномен",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "teorija",
+    "ru": "теория",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "praksa",
+    "ru": "практика",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "hipoteza",
+    "ru": "гипотеза",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "dokaz",
+    "ru": "доказательство",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "argument",
+    "ru": "аргумент",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "doktrina",
+    "ru": "доктрина",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "ideologija",
+    "ru": "идеология",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "verovanje",
+    "ru": "верование",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "sumnja",
+    "ru": "сомнение",
+    "tags": [
+      "abstractions"
+    ]
+  },
+  {
+    "sr": "vera",
+    "ru": "вера",
+    "tags": [
+      "abstractions"
+    ]
+  }
+]

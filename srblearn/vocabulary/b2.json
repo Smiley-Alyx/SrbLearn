@@ -1,0 +1,4594 @@
+[
+  {
+    "sr": "politika",
+    "ru": "политика",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "vlada",
+    "ru": "правительство",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "parlament",
+    "ru": "парламент",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "izbori",
+    "ru": "выборы",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "glasanje",
+    "ru": "голосование",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "birač",
+    "ru": "избиратель",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "kandidat",
+    "ru": "кандидат",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "predsednik",
+    "ru": "президент",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "premijer",
+    "ru": "премьер",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ministar",
+    "ru": "министр",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "opozicija",
+    "ru": "оппозиция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "koalicija",
+    "ru": "коалиция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "stranka",
+    "ru": "партия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "program",
+    "ru": "программа",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "reforma",
+    "ru": "реформа",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ustav",
+    "ru": "конституция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "zakon",
+    "ru": "закон",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "decreta",
+    "ru": "декрет",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "propis",
+    "ru": "предписание",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "uredba",
+    "ru": "постановление",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "sud",
+    "ru": "суд",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "tužilac",
+    "ru": "прокурор",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "sudija",
+    "ru": "судья",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "advokat",
+    "ru": "адвокат",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "optužba",
+    "ru": "обвинение",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "odbrana",
+    "ru": "защита",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "presuda",
+    "ru": "приговор",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "kazna",
+    "ru": "наказание",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "zatvor",
+    "ru": "тюрьма",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "amnestija",
+    "ru": "амнистия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "demokratija",
+    "ru": "демократия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "republika",
+    "ru": "республика",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "monarhija",
+    "ru": "монархия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "diktatura",
+    "ru": "диктатура",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "autokratija",
+    "ru": "автократия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "federalizam",
+    "ru": "федерализм",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "centralizacija",
+    "ru": "централизация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "decentralizacija",
+    "ru": "децентрализация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "suverenitet",
+    "ru": "суверенитет",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "nezavisnost",
+    "ru": "независимость",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "teritorija",
+    "ru": "территория",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "granica",
+    "ru": "граница",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "diplomatija",
+    "ru": "дипломатия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ambasador",
+    "ru": "посол",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "sporazum",
+    "ru": "соглашение",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ugovor",
+    "ru": "договор",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ratifikacija",
+    "ru": "ратификация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "sankcije",
+    "ru": "санкции",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "embargo",
+    "ru": "эмбарго",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "savez",
+    "ru": "союз",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "NATO",
+    "ru": "НАТО",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "EU",
+    "ru": "ЕС",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "UN",
+    "ru": "ООН",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "mirovnjačke snage",
+    "ru": "миротворческие силы",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "oružje",
+    "ru": "оружие",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "vojska",
+    "ru": "армия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "general",
+    "ru": "генерал",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "oficir",
+    "ru": "офицер",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "vojnik",
+    "ru": "солдат",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "služba",
+    "ru": "служба",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "obaveza",
+    "ru": "обязанность",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "rezervni sastav",
+    "ru": "резерв",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "mobilizacija",
+    "ru": "мобилизация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "demobilizacija",
+    "ru": "демобилизация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "rat",
+    "ru": "война",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "mir",
+    "ru": "мир",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "pregovori",
+    "ru": "переговоры",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "primirje",
+    "ru": "перемирие",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "kapitulacija",
+    "ru": "капитуляция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "okupacija",
+    "ru": "оккупация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "oslobođenje",
+    "ru": "освобождение",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "revolucija",
+    "ru": "революция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "udar",
+    "ru": "удар",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "puč",
+    "ru": "переворот",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "protest",
+    "ru": "протест",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "štrajk",
+    "ru": "забастовка",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "demonstracija",
+    "ru": "демонстрация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "peticija",
+    "ru": "петиция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "referendum",
+    "ru": "референдум",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "korupcija",
+    "ru": "коррупция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "lobiranje",
+    "ru": "лоббирование",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "skandal",
+    "ru": "скандал",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "kriza",
+    "ru": "кризис",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "stabilizacija",
+    "ru": "стабилизация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "inflacija",
+    "ru": "инфляция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "deflacija",
+    "ru": "дефляция",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "budžet",
+    "ru": "бюджет",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "porez",
+    "ru": "налог",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "subvencija",
+    "ru": "субсидия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "državna pomoć",
+    "ru": "государственная помощь",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "javna služba",
+    "ru": "государственная служба",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "birokratija",
+    "ru": "бюрократия",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "administracija",
+    "ru": "администрация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "lokalna vlast",
+    "ru": "местная власть",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "opština",
+    "ru": "община",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "gradonačelnik",
+    "ru": "мэр",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "skupština",
+    "ru": "собрание",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "zakonodavna vlast",
+    "ru": "законодательная власть",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "izvršna vlast",
+    "ru": "исполнительная власть",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "sudska vlast",
+    "ru": "судебная власть",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "razdvajanje vlasti",
+    "ru": "разделение властей",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ljudska prava",
+    "ru": "права человека",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "sloboda govora",
+    "ru": "свобода слова",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "sloboda štampe",
+    "ru": "свобода печати",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "cenzura",
+    "ru": "цензура",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "propaganda",
+    "ru": "пропаганда",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ideologija",
+    "ru": "идеология",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "nacionalizam",
+    "ru": "национализм",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "patriotizam",
+    "ru": "патриотизм",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ekstremizam",
+    "ru": "экстремизм",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "radikalizam",
+    "ru": "радикализм",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "umerenost",
+    "ru": "умеренность",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "kompromis",
+    "ru": "компромисс",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "konsenzus",
+    "ru": "консенсус",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "polarizacija",
+    "ru": "поляризация",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "sr": "ekonomija",
+    "ru": "экономика",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "tržište",
+    "ru": "рынок",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "ponuda",
+    "ru": "предложение",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "potražnja",
+    "ru": "спрос",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "cena",
+    "ru": "цена",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "vrednost",
+    "ru": "стоимость",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "profit",
+    "ru": "прибыль",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "gubitak",
+    "ru": "убыток",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "prihod",
+    "ru": "доход",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "rashod",
+    "ru": "расход",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "bilans",
+    "ru": "баланс",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "investicija",
+    "ru": "инвестиция",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "kapital",
+    "ru": "капитал",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "akcija",
+    "ru": "акция",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "dividenda",
+    "ru": "дивиденд",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "berza",
+    "ru": "биржа",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "trgovina",
+    "ru": "торговля",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "izvoz",
+    "ru": "экспорт",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "uvoz",
+    "ru": "импорт",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "carina",
+    "ru": "таможня",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "tarifa",
+    "ru": "тариф",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "valuta",
+    "ru": "валюта",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "devize",
+    "ru": "валюта (иностр.)",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "kurs",
+    "ru": "курс",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "stagflacija",
+    "ru": "стагфляция",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "recesija",
+    "ru": "рецессия",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "depresija",
+    "ru": "депрессия (экон.)",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "rast",
+    "ru": "рост",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "pad",
+    "ru": "падение",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "stagnacija",
+    "ru": "стагнация",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "konkurencija",
+    "ru": "конкуренция",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "monopol",
+    "ru": "монополия",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "oligopol",
+    "ru": "олигополия",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "privatizacija",
+    "ru": "приватизация",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "nacionalizacija",
+    "ru": "национализация",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "PDV",
+    "ru": "НДС",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "doprinos",
+    "ru": "взнос",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "kredit",
+    "ru": "кредит",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "zajam",
+    "ru": "заём",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "kamatna stopa",
+    "ru": "процентная ставка",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "hipoteka",
+    "ru": "ипотека",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "bankrot",
+    "ru": "банкротство",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "stečaj",
+    "ru": "банкротство",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "likvidacija",
+    "ru": "ликвидация",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "restrukturiranje",
+    "ru": "реструктуризация",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "firma",
+    "ru": "фирма",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "korporacija",
+    "ru": "корпорация",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "preduzeće",
+    "ru": "предприятие",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "maloprodaja",
+    "ru": "розница",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "veleprodaja",
+    "ru": "опт",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "lanac snabdevanja",
+    "ru": "цепочка поставок",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "proizvodnja",
+    "ru": "производство",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "distribucija",
+    "ru": "распределение",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "potrošnja",
+    "ru": "потребление",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "štednja",
+    "ru": "сбережение",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "potrošač",
+    "ru": "потребитель",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "proizvođač",
+    "ru": "производитель",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "distributer",
+    "ru": "дистрибьютор",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "posrednik",
+    "ru": "посредник",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "franšiza",
+    "ru": "франшиза",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "brend",
+    "ru": "бренд",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "marketing",
+    "ru": "маркетинг",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "reklama",
+    "ru": "реклама",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "kampanja",
+    "ru": "кампания",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "promocija",
+    "ru": "промоакция",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "lojalnost",
+    "ru": "лояльность",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "popust",
+    "ru": "скидка",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "marža",
+    "ru": "маржа",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "zaliha",
+    "ru": "запас",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "inventar",
+    "ru": "инвентарь",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "logistika",
+    "ru": "логистика",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "transport",
+    "ru": "транспорт",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "radna snaga",
+    "ru": "рабочая сила",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "nezaposlenost",
+    "ru": "безработица",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "zaposlenost",
+    "ru": "занятость",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "plata",
+    "ru": "зарплата",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "minimalna plata",
+    "ru": "минимальная зарплата",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "bonus",
+    "ru": "бонус",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "penzija",
+    "ru": "пенсия",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "socijalna pomoć",
+    "ru": "социальная помощь",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "zdravstveno osiguranje",
+    "ru": "медицинское страхование",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "BDP",
+    "ru": "ВВП",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "bruto domaći proizvod",
+    "ru": "валовой внутренний продукт",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "produktivnost",
+    "ru": "производительность",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "efikasnost",
+    "ru": "эффективность",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "optimizacija troškova",
+    "ru": "оптимизация затрат",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "fiskalna politika",
+    "ru": "фискальная политика",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "monetarna politika",
+    "ru": "денежная политика",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "centralna banka",
+    "ru": "центральный банк",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "štampanje novca",
+    "ru": "печатание денег",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "devizne rezerve",
+    "ru": "валютные резервы",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "trgovinski deficit",
+    "ru": "торговый дефицит",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "trgovinski suficit",
+    "ru": "торговый профицит",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "devizni kurs",
+    "ru": "обменный курс",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "globalizacija",
+    "ru": "глобализация",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "liberalizacija",
+    "ru": "либерализация",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "protekcionizam",
+    "ru": "протекционизм",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "slobodna trgovina",
+    "ru": "свободная торговля",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "carinska unija",
+    "ru": "таможенный союз",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "zona",
+    "ru": "зона",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "region",
+    "ru": "регион",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "razvoj",
+    "ru": "развитие",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "nerazvijenost",
+    "ru": "отсталость",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "siromaštvo",
+    "ru": "бедность",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "bogatstvo",
+    "ru": "богатство",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "srednja klasa",
+    "ru": "средний класс",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "elite",
+    "ru": "элита",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "društvena nejednakost",
+    "ru": "социальное неравенство",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "redistribucija",
+    "ru": "перераспределение",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "sr": "kultura",
+    "ru": "культура",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "umetnost",
+    "ru": "искусство",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "literatura",
+    "ru": "литература",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "poezija",
+    "ru": "поэзия",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "proza",
+    "ru": "проза",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "roman",
+    "ru": "роман",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "pripovetka",
+    "ru": "рассказ",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "pesma",
+    "ru": "песня",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "pesnik",
+    "ru": "поэт",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "pisac",
+    "ru": "писатель",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "književnost",
+    "ru": "литература",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "klasik",
+    "ru": "классик",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "remek-delo",
+    "ru": "шедевр",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "avangarda",
+    "ru": "авангард",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "realizam",
+    "ru": "реализм",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "romantizam",
+    "ru": "романтизм",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "simbolizam",
+    "ru": "символизм",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "moderna",
+    "ru": "модерн",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "postmoderna",
+    "ru": "постмодерн",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "kritika",
+    "ru": "критика",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "recenzija",
+    "ru": "рецензия",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "izdanje",
+    "ru": "издание",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "biblioteka",
+    "ru": "библиотека",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "čitalište",
+    "ru": "читальня",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "knjižara",
+    "ru": "книжный магазин",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "pozorište",
+    "ru": "театр",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "predstava",
+    "ru": "спектакль",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "glumac",
+    "ru": "актёр",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "glumica",
+    "ru": "актриса",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "režiser",
+    "ru": "режиссёр",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "scena",
+    "ru": "сцена",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "kostim",
+    "ru": "костюм",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "balet",
+    "ru": "балет",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "opera",
+    "ru": "опера",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "muzika",
+    "ru": "музыка",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "kompozitor",
+    "ru": "композитор",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "dirigent",
+    "ru": "дирижёр",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "orkestar",
+    "ru": "оркестр",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "solo",
+    "ru": "соло",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "hor",
+    "ru": "хор",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "koncert",
+    "ru": "концерт",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "festival",
+    "ru": "фестиваль",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "biennale",
+    "ru": "биеннале",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "izložba",
+    "ru": "выставка",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "galerija",
+    "ru": "галерея",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "muzej",
+    "ru": "музей",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "kustos",
+    "ru": "куратор",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "slikarstvo",
+    "ru": "живопись",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "skulptura",
+    "ru": "скульптура",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "fotografija",
+    "ru": "фотография",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "film",
+    "ru": "фильм",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "kino",
+    "ru": "кино",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "scenario",
+    "ru": "сценарий",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "snimak",
+    "ru": "съёмка",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "montaža",
+    "ru": "монтаж",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "premijera",
+    "ru": "премьера",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "triler",
+    "ru": "трейлер",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "dokumentarac",
+    "ru": "документальный фильм",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "animacija",
+    "ru": "анимация",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "serija",
+    "ru": "сериал",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "epizoda",
+    "ru": "эпизод",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "folklor",
+    "ru": "фольклор",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "narodna pesma",
+    "ru": "народная песня",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "kolo",
+    "ru": "хоровод",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "gusle",
+    "ru": "гусли",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "frula",
+    "ru": "флейта",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "tamburica",
+    "ru": "тамбурица",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "tradicija",
+    "ru": "традиция",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "običaj",
+    "ru": "обычай",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "ritual",
+    "ru": "ритуал",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "praznik",
+    "ru": "праздник",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "slava",
+    "ru": "слава",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "svetkovina",
+    "ru": "празднование",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "verski praznik",
+    "ru": "религиозный праздник",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "patron",
+    "ru": "покровитель",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "ikona",
+    "ru": "икона",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "freska",
+    "ru": "фреска",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "mozaik",
+    "ru": "мозаика",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "arhitektura",
+    "ru": "архитектура",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "zdanje",
+    "ru": "здание",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "stil",
+    "ru": "стиль",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "barok",
+    "ru": "барокко",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "renesansa",
+    "ru": "ренессанс",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "gotika",
+    "ru": "готика",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "modernizam",
+    "ru": "модернизм",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "nasleđe",
+    "ru": "наследие",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "kulturni identitet",
+    "ru": "культурная идентичность",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "multikulturalizam",
+    "ru": "мультикультурализм",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "asimilacija",
+    "ru": "ассимиляция",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "integracija",
+    "ru": "интеграция",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "dijaspora",
+    "ru": "диаспора",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "emigracija",
+    "ru": "эмиграция",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "imigracija",
+    "ru": "иммиграция",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "jezik",
+    "ru": "язык",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "dijalekt",
+    "ru": "диалект",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "akcenat",
+    "ru": "акцент",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "rečnik",
+    "ru": "словарь",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "gramatika",
+    "ru": "грамматика",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "pravopis",
+    "ru": "орфография",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "izraz",
+    "ru": "выражение",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "metafora",
+    "ru": "метафора",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "aluzija",
+    "ru": "аллюзия",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "citiranje",
+    "ru": "цитирование",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "parafraza",
+    "ru": "парафраз",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "prevod",
+    "ru": "перевод",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "prevodilac",
+    "ru": "переводчик",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "interpretacija",
+    "ru": "интерпретация",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "estetika",
+    "ru": "эстетика",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "etika",
+    "ru": "этика",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "moral",
+    "ru": "мораль",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "vrednosti",
+    "ru": "ценности",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "mit",
+    "ru": "миф",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "legenda",
+    "ru": "легенда",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "bajka",
+    "ru": "сказка",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "epska poezija",
+    "ru": "эпическая поэзия",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "kazivanje",
+    "ru": "повествование",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "sr": "lep",
+    "ru": "красивый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "zgodan",
+    "ru": "красивый (м.)",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "divan",
+    "ru": "прекрасный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "velik",
+    "ru": "большой",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "ogroman",
+    "ru": "огромный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "prostran",
+    "ru": "просторный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "mali",
+    "ru": "маленький",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "sićušan",
+    "ru": "крошечный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "minijaturan",
+    "ru": "миниатюрный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "brz",
+    "ru": "быстрый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "ubrzan",
+    "ru": "стремительный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "munjevit",
+    "ru": "молниеносный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "spor",
+    "ru": "медленный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "trom",
+    "ru": "вялый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "lenj",
+    "ru": "ленивый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "dobar",
+    "ru": "хороший",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "odličan",
+    "ru": "отличный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "izvrstan",
+    "ru": "превосходный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "loš",
+    "ru": "плохой",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "užasan",
+    "ru": "ужасный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "grozan",
+    "ru": "отвратительный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "pametan",
+    "ru": "умный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "inteligentan",
+    "ru": "интеллигентный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "mudar",
+    "ru": "мудрый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "glup",
+    "ru": "глупый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "neuk",
+    "ru": "невежественный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "tup",
+    "ru": "тупой",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "srećan",
+    "ru": "счастливый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "veseo",
+    "ru": "весёлый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "radostan",
+    "ru": "радостный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "tužan",
+    "ru": "грустный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "žalostan",
+    "ru": "печальный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "melanholičan",
+    "ru": "меланхоличный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "ljut",
+    "ru": "злой",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "besan",
+    "ru": "разъярённый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "gnjevan",
+    "ru": "гневный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "mirno",
+    "ru": "спокойный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "tiho",
+    "ru": "тихий",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "smireno",
+    "ru": "умиротворённый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "uzbuđen",
+    "ru": "взволнованный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "nervozan",
+    "ru": "нервный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "uznemiren",
+    "ru": "встревоженный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "hrabar",
+    "ru": "смелый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "odvažan",
+    "ru": "отважный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "neustrašiv",
+    "ru": "бесстрашный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "plašljiv",
+    "ru": "пугливый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "bojažljiv",
+    "ru": "робкий",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "strašljiv",
+    "ru": "трусливый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "pošten",
+    "ru": "честный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "pravedan",
+    "ru": "справедливый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "čestit",
+    "ru": "благородный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "lažljiv",
+    "ru": "лживый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "prevarant",
+    "ru": "обманщик",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "neiskren",
+    "ru": "неискренний",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "bogat",
+    "ru": "богатый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "imovit",
+    "ru": "имущий",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "srebrnjak",
+    "ru": "богач",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "siromašan",
+    "ru": "бедный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "oskudan",
+    "ru": "бедный (скудный)",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "nezavidan",
+    "ru": "захудалый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "jak",
+    "ru": "сильный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "moćan",
+    "ru": "могущественный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "snažan",
+    "ru": "мощный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "slab",
+    "ru": "слабый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "klimav",
+    "ru": "шаткий",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "nemoćan",
+    "ru": "бессильный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "star",
+    "ru": "старый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "drevan",
+    "ru": "древний",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "prastar",
+    "ru": "древнейший",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "nov",
+    "ru": "новый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "svež",
+    "ru": "свежий",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "nedavni",
+    "ru": "недавний",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "mlad",
+    "ru": "молодой",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "neiskusan",
+    "ru": "неопытный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "zelen",
+    "ru": "зелёный (неопытный)",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "čist",
+    "ru": "чистый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "nevin",
+    "ru": "невинный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "besprekoran",
+    "ru": "безупречный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "prljav",
+    "ru": "грязный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "zagađen",
+    "ru": "загрязнённый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "nečist",
+    "ru": "нечистый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "lak",
+    "ru": "лёгкий",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "jednostavan",
+    "ru": "простой",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "lagan",
+    "ru": "лёгкий",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "težak",
+    "ru": "тяжёлый",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "složen",
+    "ru": "сложный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "komplikovan",
+    "ru": "сложный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "važan",
+    "ru": "важный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "značajan",
+    "ru": "значительный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "ključan",
+    "ru": "ключевой",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "beznačajan",
+    "ru": "незначительный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "trivijalan",
+    "ru": "тривиальный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "sporedan",
+    "ru": "второстепенный",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "reći",
+    "ru": "сказать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "izjaviti",
+    "ru": "заявить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "proglasiti",
+    "ru": "провозгласить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "ići",
+    "ru": "идти",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "kretati se",
+    "ru": "двигаться",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "napredovati",
+    "ru": "продвигаться",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "doći",
+    "ru": "прийти",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "stizati",
+    "ru": "прибывать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "pristizati",
+    "ru": "подходить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "videti",
+    "ru": "видеть",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "gledati",
+    "ru": "смотреть",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "posmatrati",
+    "ru": "наблюдать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "čuti",
+    "ru": "слышать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "slušati",
+    "ru": "слушать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "poslušati",
+    "ru": "послушать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "razumeti",
+    "ru": "понимать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "shvatiti",
+    "ru": "осознать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "uhvatiti",
+    "ru": "уяснить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "voleti",
+    "ru": "любить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "obožavati",
+    "ru": "обожать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "ceniti",
+    "ru": "ценить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "mrzeti",
+    "ru": "ненавидеть",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "gaditi se",
+    "ru": "отвращаться",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "ne trpeti",
+    "ru": "не терпеть",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "pomoći",
+    "ru": "помочь",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "podržati",
+    "ru": "поддержать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "asistirati",
+    "ru": "ассистировать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "početi",
+    "ru": "начать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "započeti",
+    "ru": "приступить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "krenuti",
+    "ru": "отправиться",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "završiti",
+    "ru": "закончить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "dovršiti",
+    "ru": "завершить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "okončati",
+    "ru": "окончить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "čekati",
+    "ru": "ждать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "čekirati",
+    "ru": "ожидать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "istrčavati strpljenje",
+    "ru": "выжидать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "tražiti",
+    "ru": "искать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "pronalaženje",
+    "ru": "нахождение",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "istraživati",
+    "ru": "исследовать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "naći",
+    "ru": "найти",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "otkriti",
+    "ru": "открыть",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "pronaći",
+    "ru": "обнаружить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "kupiti",
+    "ru": "купить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "nabaviti",
+    "ru": "приобрести",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "pribaviti",
+    "ru": "добыть",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "prodati",
+    "ru": "продать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "otuđiti",
+    "ru": "отчуждать",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "prepustiti",
+    "ru": "уступить",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "kuća",
+    "ru": "дом",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "stan",
+    "ru": "квартира",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "dom",
+    "ru": "жилище",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "grad",
+    "ru": "город",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "metropola",
+    "ru": "мегаполис",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "varoš",
+    "ru": "городок",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "selo",
+    "ru": "деревня",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "zaseok",
+    "ru": "посёлок",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "naselje",
+    "ru": "населённый пункт",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "prijatelj",
+    "ru": "друг",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "drugar",
+    "ru": "товарищ",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "saputnik",
+    "ru": "спутник",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "neprijatelj",
+    "ru": "враг",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "protivnik",
+    "ru": "противник",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "rival",
+    "ru": "соперник",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "porodica",
+    "ru": "семья",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "rodbina",
+    "ru": "родня",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "srodstvo",
+    "ru": "родство",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "posao",
+    "ru": "работа",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "zanimanje",
+    "ru": "занятие",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "delatnost",
+    "ru": "деятельность",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "novac",
+    "ru": "деньги",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "sredstva",
+    "ru": "средства",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "vreme",
+    "ru": "время",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "trenutak",
+    "ru": "момент",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "čas",
+    "ru": "миг",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "dan",
+    "ru": "день",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "svetlost",
+    "ru": "свет",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "osvetljenje",
+    "ru": "освещение",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "noć",
+    "ru": "ночь",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "mrak",
+    "ru": "тьма",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "tamnina",
+    "ru": "темнота",
+    "tags": [
+      "synonyms"
+    ]
+  },
+  {
+    "sr": "biti u sedmom nebu",
+    "ru": "быть на седьмом небе",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pasti sa neba",
+    "ru": "упасть с неба",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "držati jezik za zubima",
+    "ru": "держать язык за зубами",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "reći A i reći B",
+    "ru": "сказать А и сказать Б",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "baciti oko",
+    "ru": "бросить взгляд",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "baciti novac kroz prozor",
+    "ru": "выбрасывать деньги на ветер",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti u sedmom nebu od sreće",
+    "ru": "быть на седьмом небе от счастья",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "imati glavu u oblacima",
+    "ru": "витать в облаках",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "gledati kroz roze naočare",
+    "ru": "смотреть в розовых очках",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "videti kroz prste",
+    "ru": "закрывать глаза на",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "okrenuti novi list",
+    "ru": "перевернуть новую страницу",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti na ivici",
+    "ru": "быть на грани",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti na kratkoj nozi",
+    "ru": "быть в плохих отношениях",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti na dobroj nozi",
+    "ru": "быть в хороших отношениях",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "stati nekome na put",
+    "ru": "встать на пути",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "ići u korak sa vremenom",
+    "ru": "идти в ногу со временем",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "ostati u prošlosti",
+    "ru": "остаться в прошлом",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pustiti mašti na volju",
+    "ru": "дать волю фантазии",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "držati konje",
+    "ru": "сдерживать коней",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pustiti konje",
+    "ru": "отпустить коней",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti na konju",
+    "ru": "быть на коне",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "past sa konja",
+    "ru": "свалиться с коня",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti u sedlu",
+    "ru": "быть в седле",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "držati vodstvo",
+    "ru": "держать руководство",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "preuzeti vodstvo",
+    "ru": "взять руководство",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti u vatri",
+    "ru": "быть в огне",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "baciti ulje na vatru",
+    "ru": "подлить масла в огонь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "gasiti vatru",
+    "ru": "тушить пожар",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "zapaliti iskru",
+    "ru": "зажечь искру",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti u vreloj vodi",
+    "ru": "быть в горячей воде",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "izvući nekoga iz vode",
+    "ru": "вытащить из воды",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti u dubokoj vodi",
+    "ru": "быть в глубокой воде",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "plivati protiv struje",
+    "ru": "плыть против течения",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "plutati po struji",
+    "ru": "плыть по течению",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti na talasu",
+    "ru": "быть на волне",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "past na talas",
+    "ru": "поймать волну",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "izgubiti talas",
+    "ru": "потерять волну",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti u srcu",
+    "ru": "быть в сердце",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "iz srca",
+    "ru": "от всего сердца",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pucati iz srca",
+    "ru": "стрелять из сердца",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "slomiti srce",
+    "ru": "разбить сердце",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "popraviti srce",
+    "ru": "залечить сердце",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "imati kameno srce",
+    "ru": "иметь каменное сердце",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti hladnokrvan",
+    "ru": "быть хладнокровным",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "gubiti glavu",
+    "ru": "терять голову",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "držati glavu visoko",
+    "ru": "держать голову высоко",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "obrnuti glavu",
+    "ru": "повернуть голову",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti glavom i bradom",
+    "ru": "быть целиком",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "glava brade vredna",
+    "ru": "голова стоит того",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti pametan kao sova",
+    "ru": "быть умным как сова",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti glup kao noć",
+    "ru": "быть глупым как ночь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti brz kao munja",
+    "ru": "быть быстрым как молния",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti spor kao puž",
+    "ru": "быть медленным как улитка",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti jak kao bik",
+    "ru": "быть сильным как бык",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti slab kao mačka",
+    "ru": "быть слабым как кошка",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti gladan kao vuk",
+    "ru": "быть голодным как волк",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti sit kao bubar",
+    "ru": "быть сытым как жук",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti srećan kao dete",
+    "ru": "быти счастливым как ребёнок",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti tužan kao kiša",
+    "ru": "быть грустным как дождь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti ljut kao bik",
+    "ru": "быть злым как бык",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti miran kao voda",
+    "ru": "быть спокойным как вода",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti bučan kao oluja",
+    "ru": "быть шумным как буря",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti tih kao miš",
+    "ru": "быть тихим как мышь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti glasan kao top",
+    "ru": "быть громким как пушка",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti visok kao bor",
+    "ru": "быть высоким как сосна",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti nizak kao travka",
+    "ru": "быть низким как травинка",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti star kao svet",
+    "ru": "быть старым как мир",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti mlad kao jutro",
+    "ru": "быть молодым как утро",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti nov kao dan",
+    "ru": "быть новым как день",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti star kao praistorija",
+    "ru": "быть древним",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti čist kao suza",
+    "ru": "быть чистым как слеза",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti prljav kao blato",
+    "ru": "быть грязным как грязь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti bogat kao kralj",
+    "ru": "быть богатым как король",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti siromašan kao crkva",
+    "ru": "быть бедным",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti važan kao život",
+    "ru": "быть важным как жизнь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti beznačajan",
+    "ru": "быть незначительным",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti u pravu",
+    "ru": "быть правым",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "biti u krivu",
+    "ru": "быть неправым",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "imati pravo",
+    "ru": "иметь право",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "nemati pravo",
+    "ru": "не иметь права",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "držati reč",
+    "ru": "держать слово",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "prekršiti reč",
+    "ru": "нарушить слово",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "dati reč",
+    "ru": "дать слово",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "uzeti reč",
+    "ru": "взять слово",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "imati poslednju reč",
+    "ru": "иметь последнее слово",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "nemati šta reći",
+    "ru": "нечего сказать",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "reći sve i svašta",
+    "ru": "сказать всё что угодно",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "reći u lice",
+    "ru": "сказать в лицо",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "reći iza leđa",
+    "ru": "сказать за спиной",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "reći na glas",
+    "ru": "сказать вслух",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "reći poluglasno",
+    "ru": "сказать полушёпотом",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "ćutati kao riba",
+    "ru": "молчать как рыба",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pričati bez prestanka",
+    "ru": "говорить без остановки",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pričati gluposti",
+    "ru": "говорить глупости",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pričati pametno",
+    "ru": "говорить умно",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pričati istinu",
+    "ru": "говорить правду",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pričati laži",
+    "ru": "говорить ложь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pričati priču",
+    "ru": "рассказывать историю",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pričati bajku",
+    "ru": "рассказывать сказку",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "pričati viceve",
+    "ru": "рассказывать анекдоты",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "smijati se na glas",
+    "ru": "смеяться вслух",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "plakati kao kiša",
+    "ru": "плакать как дождь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "radovati se kao dete",
+    "ru": "радоваться как ребёнок",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "tužiti se na sve",
+    "ru": "жаловаться на всё",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "raditi kao konj",
+    "ru": "работать как лошадь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "ne raditi ništa",
+    "ru": "ничего не делать",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "raditi polako",
+    "ru": "работать медленно",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "raditi brzo",
+    "ru": "работать быстро",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "raditi dobro",
+    "ru": "работать хорошо",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "raditi loše",
+    "ru": "работать плохо",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "učiti napamet",
+    "ru": "учить наизусть",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "učiti iz glave",
+    "ru": "учить из головы",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "znati napamet",
+    "ru": "знать наизусть",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "ne znati ništa",
+    "ru": "ничего не знать",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "znati sve",
+    "ru": "знать всё",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "znati malo",
+    "ru": "знать мало",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "znati dosta",
+    "ru": "знать достаточно",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mislim da",
+    "ru": "думаю что",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mislim da ne",
+    "ru": "думаю что нет",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mislim da da",
+    "ru": "думаю что да",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mislim drugačije",
+    "ru": "думаю иначе",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mislim isto",
+    "ru": "думаю так же",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mislim slično",
+    "ru": "думаю похоже",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim te",
+    "ru": "люблю тебя",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim te",
+    "ru": "ненавижу тебя",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim to",
+    "ru": "люблю это",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim to",
+    "ru": "ненавижу это",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim ovde",
+    "ru": "люблю здесь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim ovde",
+    "ru": "ненавижу здесь",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim tamo",
+    "ru": "люблю там",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim tamo",
+    "ru": "ненавижу там",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim sada",
+    "ru": "люблю сейчас",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim sada",
+    "ru": "ненавижу сейчас",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim uvek",
+    "ru": "люблю всегда",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim uvek",
+    "ru": "ненавижу всегда",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim nikad",
+    "ru": "люблю никогда",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim nikad",
+    "ru": "ненавижу никогда",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim ponekad",
+    "ru": "люблю иногда",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim ponekad",
+    "ru": "ненавижу иногда",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim često",
+    "ru": "люблю часто",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim često",
+    "ru": "ненавижу часто",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "volim retko",
+    "ru": "люблю редко",
+    "tags": [
+      "idioms"
+    ]
+  },
+  {
+    "sr": "mrzim retko",
+    "ru": "ненавижу редко",
+    "tags": [
+      "idioms"
+    ]
+  }
+]

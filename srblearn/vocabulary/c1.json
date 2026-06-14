@@ -1,0 +1,3880 @@
+[
+  {
+    "sr": "hipoteza",
+    "ru": "гипотеза",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "teorija",
+    "ru": "теория",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "empirija",
+    "ru": "эмпирия",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "metodologija",
+    "ru": "методология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "analiza",
+    "ru": "анализ",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "sinteza",
+    "ru": "синтез",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "dedukcija",
+    "ru": "дедукция",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "indukcija",
+    "ru": "индукция",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "abdukcija",
+    "ru": "абдукция",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "paradigma",
+    "ru": "парадигма",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "diskurs",
+    "ru": "дискурс",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "retorika",
+    "ru": "риторика",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "hermeneutika",
+    "ru": "герменевтика",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "fenomenologija",
+    "ru": "феноменология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "epistemologija",
+    "ru": "эпистемология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "ontologija",
+    "ru": "онтология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "aksiologija",
+    "ru": "аксиология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "logika",
+    "ru": "логика",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "dijalektika",
+    "ru": "диалектика",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "semantika",
+    "ru": "семантика",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "pragmatika",
+    "ru": "прагматика",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "sintaksa",
+    "ru": "синтаксис",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "morfologija",
+    "ru": "морфология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "fonologija",
+    "ru": "фонология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "leksikologija",
+    "ru": "лексикология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "etimologija",
+    "ru": "этимология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "korpus",
+    "ru": "корпус",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kvantifikacija",
+    "ru": "квантификация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kvalifikacija",
+    "ru": "квалификация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "validacija",
+    "ru": "валидация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "verifikacija",
+    "ru": "верификация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "replikacija",
+    "ru": "репликация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "korelacija",
+    "ru": "корреляция",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kauzalnost",
+    "ru": "причинность",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kontingencija",
+    "ru": "контингентность",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "varijabla",
+    "ru": "переменная",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "konstanta",
+    "ru": "константа",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "parametar",
+    "ru": "параметр",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "uzorak",
+    "ru": "выборка",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "populacija",
+    "ru": "популяция",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "statistika",
+    "ru": "статистика",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "prosek",
+    "ru": "среднее",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "medijana",
+    "ru": "медиана",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "modus",
+    "ru": "мода",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "devijacija",
+    "ru": "отклонение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "varijansa",
+    "ru": "дисперсия",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "distribucija",
+    "ru": "распределение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "normalna distribucija",
+    "ru": "нормальное распределение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "signifikantnost",
+    "ru": "значимость",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "p-vrednost",
+    "ru": "p-значение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "interval pouzdanosti",
+    "ru": "доверительный интервал",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "regresija",
+    "ru": "регрессия",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "klaster",
+    "ru": "кластер",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "faktorska analiza",
+    "ru": "факторный анализ",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "eksperiment",
+    "ru": "эксперимент",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kontrolna grupa",
+    "ru": "контрольная группа",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "randomizacija",
+    "ru": "рандомизация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "blind studija",
+    "ru": "слепое исследование",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "longitudinalno",
+    "ru": "лонгитюдное",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "cross-sectional",
+    "ru": "поперечное",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kvalitativno",
+    "ru": "качественное",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kvantitativno",
+    "ru": "количественное",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "etnografija",
+    "ru": "этнография",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "antropologija",
+    "ru": "антропология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "sociologija",
+    "ru": "социология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "psihologija",
+    "ru": "психология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "pedagogija",
+    "ru": "педагогика",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "filozofija",
+    "ru": "философия",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "istoriografija",
+    "ru": "историография",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "arheologija",
+    "ru": "археология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "paleontologija",
+    "ru": "палеонтология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "bibliografija",
+    "ru": "библиография",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "citiranje",
+    "ru": "цитирование",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "plagijat",
+    "ru": "плагиат",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "peer review",
+    "ru": "рецензирование",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "disertacija",
+    "ru": "диссертация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "teza",
+    "ru": "тезис",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "antiteza",
+    "ru": "антитеза",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "argumentacija",
+    "ru": "аргументация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "refutacija",
+    "ru": "опровержение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "apstrakt",
+    "ru": "реферат",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "publikacija",
+    "ru": "публикация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "monografija",
+    "ru": "монография",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "antologija",
+    "ru": "антология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "enciklopedija",
+    "ru": "энциклопедия",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "leksikon",
+    "ru": "лексикон",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "terminologija",
+    "ru": "терминология",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "definicija",
+    "ru": "определение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "koncept",
+    "ru": "концепт",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "konstrukt",
+    "ru": "конструкт",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "model",
+    "ru": "модель",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "framework",
+    "ru": "рамочная теория",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "implikacija",
+    "ru": "импликация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "ekstrapolacija",
+    "ru": "экстраполяция",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "interpolacija",
+    "ru": "интерполяция",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "generalizacija",
+    "ru": "обобщение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "specijalizacija",
+    "ru": "специализация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "interdisciplinarnost",
+    "ru": "междисциплинарность",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "multidisciplinarnost",
+    "ru": "мультидисциплинарность",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "transdisciplinarnost",
+    "ru": "трансдисциплинарность",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "akademska sloboda",
+    "ru": "академическая свобода",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "tenure",
+    "ru": "пожизненное назначение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "stipendija",
+    "ru": "стипендия",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "grant",
+    "ru": "грант",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "projekat",
+    "ru": "проект",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "konferencija",
+    "ru": "конференция",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "simpozijum",
+    "ru": "симпозиум",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kolokvijum",
+    "ru": "коллоквиум",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "seminar",
+    "ru": "семинар",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "radionica",
+    "ru": "мастер-класс",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kurikulum",
+    "ru": "учебный план",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "sillabus",
+    "ru": "силлабус",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kredit",
+    "ru": "кредит (акад.)",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "ocena",
+    "ru": "оценка",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "diploma",
+    "ru": "диплом",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "magisterijum",
+    "ru": "магистратура",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "doktorat",
+    "ru": "докторантура",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "habilitacija",
+    "ru": "габилитация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "profesor",
+    "ru": "профессор",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "docent",
+    "ru": "доцент",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "asistent",
+    "ru": "ассистент",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "istraživač",
+    "ru": "исследователь",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "laboratorija",
+    "ru": "лаборатория",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "zaključak",
+    "ru": "заключение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "preporuka",
+    "ru": "рекомендация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "literatura",
+    "ru": "литература",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "izvor",
+    "ru": "источник",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "primarni izvor",
+    "ru": "первичный источник",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "sekundarni izvor",
+    "ru": "вторичный источник",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "meta-analiza",
+    "ru": "мета-анализ",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "sistematski pregled",
+    "ru": "систематический обзор",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "kauzalna inferenca",
+    "ru": "причинный вывод",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "operacionalizacija",
+    "ru": "операционализация",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "merenje",
+    "ru": "измерение",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "skala",
+    "ru": "шкала",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "Likertova skala",
+    "ru": "шкала Ликерта",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "konstruktna validnost",
+    "ru": "конструктная валидность",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "pouzdanost",
+    "ru": "надёжность",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "konzistentnost",
+    "ru": "согласованность",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "sr": "pravo",
+    "ru": "право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "zakon",
+    "ru": "закон",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "ustav",
+    "ru": "конституция",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "kodeks",
+    "ru": "кодекс",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "statut",
+    "ru": "устав (организации)",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "odredba",
+    "ru": "положение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "član",
+    "ru": "статья",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "paragraf",
+    "ru": "параграф",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "alineja",
+    "ru": "абзац",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "amandman",
+    "ru": "поправка",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "ratifikacija",
+    "ru": "ратификация",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "implementacija",
+    "ru": "имплементация",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "inkorporacija",
+    "ru": "включение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "jurisdikcija",
+    "ru": "юрисдикция",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "kompetencija",
+    "ru": "компетенция",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "legitimnost",
+    "ru": "легитимность",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "legitimacija",
+    "ru": "легитимация",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "legalitet",
+    "ru": "легальность",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "ilegalnost",
+    "ru": "нелегальность",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "krivično pravo",
+    "ru": "уголовное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "građansko pravo",
+    "ru": "гражданское право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "upravno pravo",
+    "ru": "административное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "međunarodno pravo",
+    "ru": "международное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "privatno pravo",
+    "ru": "частное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "javno pravo",
+    "ru": "публичное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "obligaciono pravo",
+    "ru": "обязательственное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "stvarno pravo",
+    "ru": "вещное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "nasledno pravo",
+    "ru": "наследственное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "porodično pravo",
+    "ru": "семейное право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "radno pravo",
+    "ru": "трудовое право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "komercijalno pravo",
+    "ru": "коммерческое право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "finansijsko pravo",
+    "ru": "финансовое право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "poresko pravo",
+    "ru": "налоговое право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "tužba",
+    "ru": "иск",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "tužilac",
+    "ru": "истец",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "tuženi",
+    "ru": "ответчик",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "odbrana",
+    "ru": "защита",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "optužba",
+    "ru": "обвинение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "optuženi",
+    "ru": "обвиняемый",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "svedok",
+    "ru": "свидетель",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "dokaz",
+    "ru": "доказательство",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "materijalni dokaz",
+    "ru": "вещественное доказательство",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "svedočenje",
+    "ru": "показания",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "veštačenje",
+    "ru": "экспертиза",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "presuda",
+    "ru": "приговор",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "rešenje",
+    "ru": "решение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "žalba",
+    "ru": "апелляция",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "revizija",
+    "ru": "кассация",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "kazna",
+    "ru": "наказание",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "zatvor",
+    "ru": "тюрьма",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "uslovna kazna",
+    "ru": "условное наказание",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "novčana kazna",
+    "ru": "денежный штраф",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "zabrana",
+    "ru": "запрет",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "naredba",
+    "ru": "приказ",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "raspored",
+    "ru": "распоряжение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "licenca",
+    "ru": "лицензия",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "dozvola",
+    "ru": "разрешение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "sertifikat",
+    "ru": "сертификат",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "overa",
+    "ru": "заверение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "pečat",
+    "ru": "печать",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "potpis",
+    "ru": "подпис",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "overiti",
+    "ru": "заверить",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "registrovati",
+    "ru": "зарегистрировать",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "notar",
+    "ru": "нотариус",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "advokat",
+    "ru": "адвокат",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "sudija",
+    "ru": "судья",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "tužilaštvo",
+    "ru": "прокуратура",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "sud",
+    "ru": "суд",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "viši sud",
+    "ru": "высший суд",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "ustavni sud",
+    "ru": "конституционный суд",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "arbitraža",
+    "ru": "арбитраж",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "medijacija",
+    "ru": "медиация",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "pomirenje",
+    "ru": "примирение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "kompromis",
+    "ru": "компромисс",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "ugovor",
+    "ru": "договор",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "kupoprodajni ugovor",
+    "ru": "договор купли-продажи",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "zakup",
+    "ru": "аренда",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "zalog",
+    "ru": "залог",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "hipoteka",
+    "ru": "ипотека",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "nasledstvo",
+    "ru": "наследство",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "zaveštanje",
+    "ru": "завещание",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "testament",
+    "ru": "завещание",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "naslednik",
+    "ru": "наследник",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "pokojnik",
+    "ru": "покойник",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "imovina",
+    "ru": "имущество",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "vlasništvo",
+    "ru": "собственность",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "posesija",
+    "ru": "владение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "pravo svojine",
+    "ru": "право собственности",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "autorsko pravo",
+    "ru": "авторское право",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "patent",
+    "ru": "патент",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "žig",
+    "ru": "товарный знак",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "licencni ugovor",
+    "ru": "лицензионный договор",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "povreda prava",
+    "ru": "нарушение права",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "odšteta",
+    "ru": "возмещение",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "naknada štete",
+    "ru": "компенсация ущерба",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "odgovornost",
+    "ru": "ответственность",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "krivica",
+    "ru": "вина",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "nevinost",
+    "ru": "невиновность",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "presumpcija nevinosti",
+    "ru": "презумпция невиновности",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "due process",
+    "ru": "надлежащая процедура",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "habeas corpus",
+    "ru": "хабеас корпус",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "imunitet",
+    "ru": "иммунитет",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "amnestija",
+    "ru": "амнистия",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "pomilovanje",
+    "ru": "помилование",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "građanska prava",
+    "ru": "гражданские права",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "ljudska prava",
+    "ru": "права человека",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "diskriminacija",
+    "ru": "дискриминация",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "ravnopravnost",
+    "ru": "равноправие",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "jednakost pred zakonom",
+    "ru": "равенство перед законом",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "pravna sigurnost",
+    "ru": "правовая определённость",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "pravna država",
+    "ru": "правовое государство",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "separacija vlasti",
+    "ru": "разделение властей",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "checks and balances",
+    "ru": "система сдержек и противовесов",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "precedent",
+    "ru": "прецедент",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "kazus",
+    "ru": "казус",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "doktrina",
+    "ru": "доктрина",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "interpretacija",
+    "ru": "толкование",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "analogija",
+    "ru": "аналогия",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "konvencija",
+    "ru": "конвенция",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "protokol",
+    "ru": "протокол",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "deklaracija",
+    "ru": "декларация",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "rezolucija",
+    "ru": "резолюция",
+    "tags": [
+      "legal"
+    ]
+  },
+  {
+    "sr": "patologija",
+    "ru": "патология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "fiziologija",
+    "ru": "физиология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "anatomija",
+    "ru": "анатомия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "histologija",
+    "ru": "гистология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "citologija",
+    "ru": "цитология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "embriologija",
+    "ru": "эмбриология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "genetika",
+    "ru": "генетика",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "imunologija",
+    "ru": "иммунология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "mikrobiologija",
+    "ru": "микробиология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "virologija",
+    "ru": "вирусология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "parazitologija",
+    "ru": "паразитология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "toksikologija",
+    "ru": "токсикология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "farmakologija",
+    "ru": "фармакология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "klinička medicina",
+    "ru": "клиническая медицина",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "preventivna medicina",
+    "ru": "профилактическая медицина",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "epidemiologija",
+    "ru": "эпидемиология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "javno zdravlje",
+    "ru": "общественное здоровье",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "higijena",
+    "ru": "гигиена",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "sterilizacija",
+    "ru": "стерилизация",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "asepsa",
+    "ru": "асептика",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "antisepsa",
+    "ru": "антисептика",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "antibiotik",
+    "ru": "антибиотик",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "antiviral",
+    "ru": "противовирусный",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "antifungal",
+    "ru": "противогрибковый",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "vakcinacija",
+    "ru": "вакцинация",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "imunizacija",
+    "ru": "иммунизация",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "alergen",
+    "ru": "аллерген",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "anafilaksa",
+    "ru": "анафилаксия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "autoimuna bolest",
+    "ru": "аутоиммунное заболевание",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "neoplazma",
+    "ru": "неоплазия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "malignitet",
+    "ru": "злокачественность",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "benignitet",
+    "ru": "доброкачественность",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "karcinom",
+    "ru": "карцинома",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "sarkom",
+    "ru": "саркома",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "limfom",
+    "ru": "лимфома",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "leukemija",
+    "ru": "лейкемия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "metastaza",
+    "ru": "метастаз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "remisija",
+    "ru": "ремиссия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "recidiv",
+    "ru": "рецидив",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "prognoza",
+    "ru": "прогноз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "paliativna nega",
+    "ru": "паллиативная помощь",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hospice",
+    "ru": "хоспис",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "intenzivna nega",
+    "ru": "интенсивная терапия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "reanimacija",
+    "ru": "реанимация",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "intubacija",
+    "ru": "интубация",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "ventilacija",
+    "ru": "вентиляция",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "defibrilacija",
+    "ru": "дефибрилляция",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hemodinamika",
+    "ru": "гемодинамика",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "krvni pritisak",
+    "ru": "кровяное давление",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "puls",
+    "ru": "пульс",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "EKG",
+    "ru": "ЭКГ",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "EEG",
+    "ru": "ЭЭГ",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "MRI",
+    "ru": "МРТ",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "CT",
+    "ru": "КТ",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "biopsija",
+    "ru": "биопсия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "autopsija",
+    "ru": "вскрытие",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "patohistologija",
+    "ru": "патогистология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hematologija",
+    "ru": "гематология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "koagulacija",
+    "ru": "коагуляция",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "anemija",
+    "ru": "анемия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "tromboza",
+    "ru": "тромбоз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "embolija",
+    "ru": "эмболия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "infarkt",
+    "ru": "инфаркт",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "aritmija",
+    "ru": "аритмия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hipertenzija",
+    "ru": "гипертония",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hipotenzija",
+    "ru": "гипотония",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "ateroskleroza",
+    "ru": "атеросклероз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "šlog",
+    "ru": "инсульт",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "epilepsija",
+    "ru": "эпилепсия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "Parkinson",
+    "ru": "болезнь Паркинсона",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "Alzheimer",
+    "ru": "болезнь Альцгеймера",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "dijabetes",
+    "ru": "диабет",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "insulinska rezistencija",
+    "ru": "инсулинорезистентность",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hipotireoza",
+    "ru": "гипотиреоз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hipertireoza",
+    "ru": "гипертиреоз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hepatitis",
+    "ru": "гепатит",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "cirhoza",
+    "ru": "цирроз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "pankreatitis",
+    "ru": "панкреатит",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "gastritis",
+    "ru": "гастрит",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "kolitis",
+    "ru": "колит",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "kolecistitis",
+    "ru": "холецистит",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "nefritis",
+    "ru": "нефрит",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "uremija",
+    "ru": "уремия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "dijaliza",
+    "ru": "диализ",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "transplantacija",
+    "ru": "трансплантация",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "donor",
+    "ru": "донор",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "receptor",
+    "ru": "реципиент",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "otpor na organe",
+    "ru": "отторжение",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "imunosupresija",
+    "ru": "иммуносупрессия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "antibiotička rezistencija",
+    "ru": "антибиотикорезистентность",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "nosokomijalna infekcija",
+    "ru": "внутрибольничная инфекция",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "sepsa",
+    "ru": "сепсис",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "šok",
+    "ru": "шок",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "dehidracija",
+    "ru": "обезвоживание",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "elektrolitni disbalans",
+    "ru": "электролитный дисбаланс",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "acidoza",
+    "ru": "ацидоз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "alkaloza",
+    "ru": "алкалоз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "respiratorna insuficijencija",
+    "ru": "дыхательная недостаточность",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "pneumonija",
+    "ru": "пневмония",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "tuberkuloza",
+    "ru": "туберкулёз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "astma",
+    "ru": "астма",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "COPD",
+    "ru": "ХОБЛ",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "fibroza",
+    "ru": "фиброз",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "edem",
+    "ru": "отёк",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "fraktura",
+    "ru": "перелом",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "dislokacija",
+    "ru": "вывих",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "ruptura",
+    "ru": "разрыв",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "kontuzija",
+    "ru": "контузия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "laceracija",
+    "ru": "рваная рана",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "ablacija",
+    "ru": "абляция",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "debridman",
+    "ru": "дебридмент",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "sutura",
+    "ru": "шов",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "anestezija",
+    "ru": "анестезия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "lokalna anestezija",
+    "ru": "местная анестезия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "opšta anestezija",
+    "ru": "общая анестезия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "sedacija",
+    "ru": "седация",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "analgezija",
+    "ru": "анальгезия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "opioid",
+    "ru": "опиоид",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "NSAID",
+    "ru": "НПВС",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "kortikosteroid",
+    "ru": "кортикостероид",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "hemoterapija",
+    "ru": "химиотерапия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "radioterapija",
+    "ru": "лучевая терапия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "imunoterapija",
+    "ru": "иммунотерапия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "fizioterapija",
+    "ru": "физиотерапия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "rehabilitacija",
+    "ru": "реабилитация",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "profilaksa",
+    "ru": "профилактика",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "skrining",
+    "ru": "скрининг",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "dijagnostika",
+    "ru": "диагностика",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "terapija",
+    "ru": "терапия",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "klinički put",
+    "ru": "клинический путь",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "etički odbor",
+    "ru": "этический комитет",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "informisani pristanak",
+    "ru": "информированное согласие",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "konfidencijalnost",
+    "ru": "конфиденциальность",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "Hippokratova zakletva",
+    "ru": "клятва Гиппократа",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "deontologija",
+    "ru": "деонтология",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "sr": "ontološki",
+    "ru": "онтологический",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "epistemološki",
+    "ru": "эпистемологический",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "fenomenološki",
+    "ru": "феноменологический",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "hermeneutički",
+    "ru": "герменевтический",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "teleološki",
+    "ru": "телеологический",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "deontološki",
+    "ru": "деонтологический",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "aksiološki",
+    "ru": "аксиологический",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "normativan",
+    "ru": "нормативный",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "deskriptivan",
+    "ru": "дескриптивный",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "preskriptivan",
+    "ru": "прескриптивный",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kontradikcija",
+    "ru": "противоречие",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "paradoks",
+    "ru": "парадокс",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "dilema",
+    "ru": "дилемма",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "apriorno",
+    "ru": "априорно",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "aposteriorno",
+    "ru": "апостериорно",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "transcendentalno",
+    "ru": "трансцендентальное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "imanentno",
+    "ru": "имманентное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "eminentno",
+    "ru": "эминентное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kontingentno",
+    "ru": "контингентное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "neophodno",
+    "ru": "необходимое",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "slučajno",
+    "ru": "случайное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "univerzalno",
+    "ru": "универсальное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "partikularno",
+    "ru": "партикулярное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "apstraktno",
+    "ru": "абстрактное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "konkretno",
+    "ru": "конкретное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "potencijalno",
+    "ru": "потенциальное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "aktualno",
+    "ru": "актуальное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "virtualno",
+    "ru": "виртуальное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "determinizam",
+    "ru": "детерминизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "indeterminizam",
+    "ru": "индетерминизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "slobodna volja",
+    "ru": "свободная воля",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kauzalna determinacija",
+    "ru": "причинная детерминация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "teleologija",
+    "ru": "телеология",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "utilitarizam",
+    "ru": "утилитаризм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "virtue ethics",
+    "ru": "этика добродетели",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "relativizam",
+    "ru": "релятивизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "absolutizam",
+    "ru": "абсолютизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "nihilizam",
+    "ru": "нигилизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "skepticizam",
+    "ru": "скептицизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "dogmatizam",
+    "ru": "догматизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "pragmatizam",
+    "ru": "прагматизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "empirizam",
+    "ru": "эмпиризм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "racionalizam",
+    "ru": "рационализм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "idealizam",
+    "ru": "идеализм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "materijalizam",
+    "ru": "материализм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "dualizam",
+    "ru": "дуализм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "monizam",
+    "ru": "монизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "pluralizam",
+    "ru": "плюрализм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "holizam",
+    "ru": "холизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "redukcionizam",
+    "ru": "редукционизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "emergencija",
+    "ru": "эмерджентность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kompleksnost",
+    "ru": "сложность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "haos teorija",
+    "ru": "теория хаоса",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "sistemska misao",
+    "ru": "системное мышление",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kibernetika",
+    "ru": "кибернетика",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "informaciona entropija",
+    "ru": "информационная энтропия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "negentropija",
+    "ru": "негэнтропия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "autopoieza",
+    "ru": "аутопоэз",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "homeostaza",
+    "ru": "гомеостаз",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "feedback",
+    "ru": "обратная связь",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kauzalna petlja",
+    "ru": "причинная петля",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "rekurzija",
+    "ru": "рекурсия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "iteracija",
+    "ru": "итерация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "konvergencija",
+    "ru": "сходимость",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "divergencija",
+    "ru": "расходимость",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "asimptota",
+    "ru": "асимптота",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "singularitet",
+    "ru": "сингулярность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kritična tačka",
+    "ru": "критическая точка",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "fazni prelaz",
+    "ru": "фазовый переход",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "tipping point",
+    "ru": "точка невозврата",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "strukturna promena",
+    "ru": "структурное изменение",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "institucionalna promena",
+    "ru": "институциональное изменение",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "path dependency",
+    "ru": "зависимость от пути",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "lock-in",
+    "ru": "блокировка",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "mrežni efekat",
+    "ru": "сетевой эффект",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "spillover",
+    "ru": "эффект переливания",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "eksternalitet",
+    "ru": "экстерналия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "tragedija zajedničkog",
+    "ru": "трагедия общего",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kolektivna akcija",
+    "ru": "коллективное действие",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "socijalni kapital",
+    "ru": "социальный капитал",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kulturni kapital",
+    "ru": "культурный капитал",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "simbolička moć",
+    "ru": "символическая власть",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "hegemonija",
+    "ru": "гегемония",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "reprodukcija",
+    "ru": "воспроизводство",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "doxa",
+    "ru": "докса",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "habitus",
+    "ru": "габитус",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "polje",
+    "ru": "поле (Бурдьё)",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "diskurzivna formacija",
+    "ru": "дискурсивное образование",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "intertekstualnost",
+    "ru": "интертекстуальность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "dekonstrukcija",
+    "ru": "деконструкция",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "simulakr",
+    "ru": "симулякр",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "hiperrealnost",
+    "ru": "гиперреальность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "postmoderna",
+    "ru": "постмодерн",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "metanarativ",
+    "ru": "метанарратив",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "fragmentacija",
+    "ru": "фрагментация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "hibridnost",
+    "ru": "гибридность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kreolizacija",
+    "ru": "креолизация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "transkulturalnost",
+    "ru": "транскультурность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "alteritet",
+    "ru": "инаковость",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "subalter",
+    "ru": "субальтерн",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "intersekcionalnost",
+    "ru": "интерсекциональность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "performtivnost",
+    "ru": "перформативность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "konstruktivizam",
+    "ru": "конструктивизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "esencijalizam",
+    "ru": "эссенциализм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "strukturni determinizam",
+    "ru": "структурный детерминизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "agencija",
+    "ru": "агентность",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "subjektivacija",
+    "ru": "субъективация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "interpelacija",
+    "ru": "интерпелляция",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "biopolitika",
+    "ru": "биополитика",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "thanatopolitika",
+    "ru": "танатополитика",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "necropolitika",
+    "ru": "некрополитика",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "gentrifikacija",
+    "ru": "гентрификация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "secesija",
+    "ru": "сецессия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "autonomija",
+    "ru": "автономия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "suverenitet",
+    "ru": "суверенитет",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "multilateralizam",
+    "ru": "мультилатерализм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "unilateralizam",
+    "ru": "унилатерализм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "realpolitik",
+    "ru": "реальная политика",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "soft power",
+    "ru": "мягкая сила",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "hard power",
+    "ru": "жёсткая сила",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "deterencija",
+    "ru": "сдерживание",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "eskalacija",
+    "ru": "эскалация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "deeskalacija",
+    "ru": "деэскалация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "stalemate",
+    "ru": "тупик",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "status quo",
+    "ru": "статус-кво",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "paradigm shift",
+    "ru": "смена парадигмы",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "falsifikacija",
+    "ru": "фальсификация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "verosimnost",
+    "ru": "правдоподобие",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "Bayesova teorema",
+    "ru": "теорема Байеса",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kognitivna pristrasnost",
+    "ru": "когнитивное искажение",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "heuristika",
+    "ru": "эвристика",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "mentalni model",
+    "ru": "ментальная модель",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "schema",
+    "ru": "схема",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "prototip",
+    "ru": "прототип",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kategorizacija",
+    "ru": "категоризация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "prototipska teorija",
+    "ru": "прототипная теория",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "frame",
+    "ru": "рамка",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "narrativ",
+    "ru": "нарратив",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "mitologem",
+    "ru": "мифологема",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "arhetip",
+    "ru": "архетип",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kolektivno nesvesno",
+    "ru": "коллективное бессознательное",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "sublimacija",
+    "ru": "сублимация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "projekcija",
+    "ru": "проекция",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "introjekcija",
+    "ru": "интроекция",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "transferencija",
+    "ru": "перенос",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "kontrtransferencija",
+    "ru": "контрперенос",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "simbolička interakcija",
+    "ru": "символический интеракционизм",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "dramaturgija",
+    "ru": "драматургия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "stigma",
+    "ru": "стигма",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "devijansa",
+    "ru": "девиация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "anomija",
+    "ru": "аномия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "deprivacija",
+    "ru": "депривация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "marginalizacija",
+    "ru": "маргинализация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "inkluzija",
+    "ru": "инклюзия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "ekskluzija",
+    "ru": "эксклюзия",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "asimilacija",
+    "ru": "ассимиляция",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "akulturacija",
+    "ru": "аккультурация",
+    "tags": [
+      "complex"
+    ]
+  },
+  {
+    "sr": "transkulturacija",
+    "ru": "транскультурация",
+    "tags": [
+      "complex"
+    ]
+  }
+]
