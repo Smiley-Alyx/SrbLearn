@@ -108,16 +108,53 @@ async def test_quiz_session_record_answer_persists(db_path: Path) -> None:
 
 
 @pytest.mark.asyncio
-async def test_quiz_session_priority_queue(db_path: Path) -> None:
+async def test_wrong_answer_not_immediate_repeat(db_path: Path) -> None:
     session = quiz_engine.QuizSession(db_path, 1, "A1", "sr_ru")
-    session._vocabulary = [Word("здраво", "привет", [])]
-    session._words_by_sr = {"здраво": session._vocabulary[0]}
+    session._vocabulary = [
+        Word("здраво", "привет", []),
+        Word("хвала", "спасибо", []),
+        Word("да", "да", []),
+    ]
+    session._words_by_sr = {word.sr: word for word in session._vocabulary}
 
+    session._note_shown("здраво")
     await session.record_answer("здраво", is_correct=False)
     next_word = await session._select_word()
 
     assert next_word is not None
-    assert next_word.sr == "здраво"
+    assert next_word.sr != "здраво"
+
+
+@pytest.mark.asyncio
+async def test_recent_window_avoids_immediate_repeat(db_path: Path) -> None:
+    session = quiz_engine.QuizSession(db_path, 1, "A1", "sr_ru")
+    words = [Word(f"слово{i}", f"ru{i}", []) for i in range(6)]
+    session._vocabulary = words
+    session._words_by_sr = {word.sr: word for word in words}
+    session._recent_srs = ["слово0"]
+
+    picked = session._pick_random_word(words, exclude=session._recent_set())
+    assert picked is not None
+    assert picked.sr != "слово0"
+
+
+@pytest.mark.asyncio
+async def test_deferred_retry_after_other_words(db_path: Path) -> None:
+    session = quiz_engine.QuizSession(db_path, 1, "A1", "sr_ru")
+    session._vocabulary = [
+        Word("здраво", "привет", []),
+        Word("хвала", "спасибо", []),
+    ]
+    session._words_by_sr = {word.sr: word for word in session._vocabulary}
+
+    await session.record_answer("здраво", is_correct=False)
+    session._note_shown("хвала")
+    session._note_shown("да")
+    session._note_shown("не")
+    session._note_shown("може")
+
+    retries = session._eligible_retries()
+    assert "здраво" in retries
 
 
 @pytest.mark.asyncio

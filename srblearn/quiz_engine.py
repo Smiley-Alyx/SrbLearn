@@ -16,6 +16,8 @@ EASE_DECREMENT = 0.2
 EASE_INCREMENT = 0.1
 SECONDS_PER_DAY = 86_400
 NEW_WORD_RATIO = 0.7  # 70% новых, 30% повторения
+RECENT_WINDOW = 12  # не повторять слово в пределах последних N вопросов сессии
+RETRY_DELAY = 4  # после ошибки — минимум столько других слов до повтора
 
 QUIZ_MODE_SR_RU = "sr_ru"
 QUIZ_MODE_RU_SR = "ru_sr"
@@ -129,7 +131,8 @@ class QuizSession:
         self._vocabulary: list[Word] = []
         self._words_by_sr: dict[str, Word] = {}
         self._pick_counter = 0
-        self._priority_queue: list[str] = []
+        self._recent_srs: list[str] = []
+        self._retry_pending: list[str] = []
 
     async def load_vocabulary(self) -> None:
         entries = load_vocabulary(self.level)
@@ -140,6 +143,7 @@ class QuizSession:
         word = await self._select_word()
         if word is None:
             return None
+        self._note_shown(word.sr)
         return build_quiz_question(word, self._vocabulary, self.mode)
 
     async def record_answer(self, word_sr: str, is_correct: bool) -> WordProgress:
@@ -152,23 +156,59 @@ class QuizSession:
 
         if is_correct:
             progress = apply_correct(progress, now)
+            if word_sr in self._retry_pending:
+                self._retry_pending.remove(word_sr)
         else:
             progress = apply_incorrect(progress, now)
-            self._add_to_priority_queue(word_sr)
+            self._schedule_retry(word_sr)
 
         return await db.upsert_word_progress(self.db_path, progress)
 
-    def _add_to_priority_queue(self, word_sr: str) -> None:
-        if word_sr in self._priority_queue:
-            self._priority_queue.remove(word_sr)
-        self._priority_queue.insert(0, word_sr)
+    def _note_shown(self, word_sr: str) -> None:
+        if word_sr in self._recent_srs:
+            self._recent_srs.remove(word_sr)
+        self._recent_srs.append(word_sr)
+        if len(self._recent_srs) > RECENT_WINDOW:
+            self._recent_srs = self._recent_srs[-RECENT_WINDOW:]
+
+    def _schedule_retry(self, word_sr: str) -> None:
+        if word_sr in self._retry_pending:
+            self._retry_pending.remove(word_sr)
+        self._retry_pending.append(word_sr)
+
+    def _recent_set(self) -> set[str]:
+        return set(self._recent_srs)
+
+    def _blocked_for_retry(self) -> set[str]:
+        if not self._recent_srs:
+            return set()
+        return set(self._recent_srs[-RETRY_DELAY:])
+
+    def _eligible_retries(self) -> list[str]:
+        recent = self._recent_set()
+        blocked = self._blocked_for_retry()
+        return [
+            sr for sr in self._retry_pending
+            if sr not in recent and sr not in blocked
+        ]
+
+    def _pick_random_word(self, words: list[Word], *, exclude: set[str]) -> Word | None:
+        eligible = [word for word in words if word.sr not in exclude]
+        if not eligible:
+            return None
+        return random.choice(eligible)
 
     async def _select_word(self) -> Word | None:
         if not self._vocabulary:
             await self.load_vocabulary()
 
-        if self._priority_queue:
-            word_sr = self._priority_queue.pop(0)
+        recent = self._recent_set()
+        last_shown = self._recent_srs[-1] if self._recent_srs else None
+
+        retries = self._eligible_retries()
+        if retries:
+            word_sr = retries[0]
+            self._retry_pending.remove(word_sr)
             return self._words_by_sr.get(word_sr)
 
         now = time.time()
@@ -177,7 +217,14 @@ class QuizSession:
         )
         if due:
             due.sort(key=lambda item: (-item.error_count, item.next_review))
-            return self._words_by_sr[due[0].word_sr]
+            due_words = [
+                self._words_by_sr[item.word_sr]
+                for item in due
+                if item.word_sr in self._words_by_sr
+            ]
+            picked = self._pick_random_word(due_words, exclude=recent)
+            if picked is not None:
+                return picked
 
         seen = await db.get_seen_word_srs(self.db_path, self.user_id, self.level)
         new_words = [word for word in self._vocabulary if word.sr not in seen]
@@ -193,11 +240,41 @@ class QuizSession:
         pick_new = self._should_pick_new()
 
         if pick_new and new_words:
-            return random.choice(new_words)
+            picked = self._pick_random_word(new_words, exclude=recent)
+            if picked is not None:
+                return picked
         if review_words:
-            return random.choice(review_words)
+            picked = self._pick_random_word(review_words, exclude=recent)
+            if picked is not None:
+                return picked
         if new_words:
-            return random.choice(new_words)
+            picked = self._pick_random_word(new_words, exclude=recent)
+            if picked is not None:
+                return picked
+
+        # Ослабляем фильтр: можно повторить, но не слово с предыдущего вопроса
+        soft_exclude = {last_shown} if last_shown else set()
+        if due:
+            due_words = [
+                self._words_by_sr[item.word_sr]
+                for item in due
+                if item.word_sr in self._words_by_sr
+            ]
+            picked = self._pick_random_word(due_words, exclude=soft_exclude)
+            if picked is not None:
+                return picked
+        if pick_new and new_words:
+            picked = self._pick_random_word(new_words, exclude=soft_exclude)
+            if picked is not None:
+                return picked
+        if review_words:
+            picked = self._pick_random_word(review_words, exclude=soft_exclude)
+            if picked is not None:
+                return picked
+        if new_words:
+            picked = self._pick_random_word(new_words, exclude=soft_exclude)
+            if picked is not None:
+                return picked
 
         return None
 
