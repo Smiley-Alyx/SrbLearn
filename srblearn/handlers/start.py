@@ -19,6 +19,8 @@ from srblearn.handlers.common import (
     level_keyboard,
     main_menu_keyboard,
 )
+from srblearn.level_advice import get_level_recommendation
+from srblearn.vocabulary import word_count
 
 WELCOME_TEXT = (
     "👋 Добро пожаловать в *SrbLearn*!\n\n"
@@ -75,6 +77,11 @@ async def send_stats(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
         update.effective_user.username,
     )
     stats = await db.get_user_stats(db_path, user.user_id, user.level)
+    recommendation = get_level_recommendation(
+        user.level,
+        stats,
+        word_count(user.level),
+    )
 
     await message.reply_text(
         f"📊 *Статистика* (уровень {user.level})\n\n"
@@ -82,7 +89,8 @@ async def send_stats(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
         f"Всего ответов: {stats.total_answers}\n"
         f"Правильных: {stats.correct_answers}\n"
         f"Точность: {stats.accuracy:.1f}%\n"
-        f"На повторении: {stats.words_due}",
+        f"На повторении: {stats.words_due}\n\n"
+        f"{recommendation}",
         parse_mode="Markdown",
         reply_markup=main_menu_keyboard(),
     )
