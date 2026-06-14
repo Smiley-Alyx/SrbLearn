@@ -1,23 +1,41 @@
-# SrbLearn
+# 🇷🇸 SrbLearn
 
-Telegram-бот для изучения сербского языка с интервальным повторением (SM-2) и уведомлениями.
+[![Python](https://img.shields.io/badge/python-3.11+-blue?logo=python&logoColor=white)](https://python.org)
+[![Telegram Bot](https://img.shields.io/badge/telegram-bot-2CA5E0?logo=telegram&logoColor=white)](https://core.telegram.org/bots)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![SM-2](https://img.shields.io/badge/algorithm-SM--2-7f77dd)](https://en.wikipedia.org/wiki/SuperMemo)
+[![systemd](https://img.shields.io/badge/deploy-systemd-orange)](srblearn.service)
+
+> Telegram-бот для изучения сербских слов методом интервального повторения.
+> Уровни A1–C2, два режима викторины, умные уведомления, прогресс на каждого пользователя.
+
+**🤖 Попробовать бота:** [@srb_learn_bot](https://t.me/srb_learn_bot)
 
 ## Возможности
 
 - Викторина в двух режимах: сербский → русский и русский → сербский
 - Уровни A1–C2 с отдельными словарями (3000+ слов)
-- Алгоритм spaced repetition для эффективного запоминания
+- Алгоритм [SM-2](https://en.wikipedia.org/wiki/SuperMemo) для эффективного запоминания
 - Настраиваемые уведомления о повторении (1–3 раза в сутки)
+- Управление через кнопки меню и команды
 
-## Команды бота
+## Как пользоваться
 
-| Команда | Описание |
-|---------|----------|
-| `/start` | Приветствие, регистрация, выбор уровня |
-| `/quiz` | Начать викторину |
-| `/settings` | Уровень, уведомления, время напоминаний |
-| `/stats` | Статистика: изучено слов, точность, на повторении |
-| `/help` | Справка |
+1. Откройте [@srb_learn_bot](https://t.me/srb_learn_bot) и нажмите **Start**
+2. Выберите уровень A1–C2
+3. Нажмите **📝 Викторина** — отвечайте на вопросы с 4 вариантами
+4. В **⚙️ Настройки** включите уведомления, чтобы бот напоминал о повторении
+5. Следите за прогрессом в **📊 Статистика**
+
+## Команды и кнопки
+
+| Действие | Команда | Кнопка |
+|----------|---------|--------|
+| Приветствие | `/start` | — |
+| Викторина | `/quiz` | 📝 Викторина |
+| Настройки | `/settings` | ⚙️ Настройки |
+| Статистика | `/stats` | 📊 Статистика |
+| Справка | `/help` | ❓ Справка |
 
 ## Установка
 
@@ -132,3 +150,7 @@ pytest
 - APScheduler — уведомления
 - aiosqlite — SQLite
 - python-dotenv — конфигурация
+
+## Лицензия
+
+[MIT](LICENSE)

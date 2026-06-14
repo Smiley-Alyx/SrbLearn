@@ -2,11 +2,25 @@
 
 from __future__ import annotations
 
+import re
 from pathlib import Path
 
-from telegram.ext import ContextTypes
+from telegram import KeyboardButton, ReplyKeyboardMarkup
+from telegram.ext import ContextTypes, filters
 
 from srblearn.config import LEVELS
+
+BTN_QUIZ = "📝 Викторина"
+BTN_SETTINGS = "⚙️ Настройки"
+BTN_STATS = "📊 Статистика"
+BTN_HELP = "❓ Справка"
+
+MENU_BUTTONS = {BTN_QUIZ, BTN_SETTINGS, BTN_STATS, BTN_HELP}
+
+BTN_QUIZ_FILTER = filters.Regex(f"^{re.escape(BTN_QUIZ)}$")
+BTN_SETTINGS_FILTER = filters.Regex(f"^{re.escape(BTN_SETTINGS)}$")
+BTN_STATS_FILTER = filters.Regex(f"^{re.escape(BTN_STATS)}$")
+BTN_HELP_FILTER = filters.Regex(f"^{re.escape(BTN_HELP)}$")
 
 
 def get_db_path(context: ContextTypes.DEFAULT_TYPE) -> Path:
@@ -44,4 +58,15 @@ def inline_keyboard(buttons: list[list[tuple[str, str]]]):
             [InlineKeyboardButton(text, callback_data=data) for text, data in row]
             for row in buttons
         ]
+    )
+
+
+def main_menu_keyboard() -> ReplyKeyboardMarkup:
+    """Постоянная клавиатура с основными действиями."""
+    return ReplyKeyboardMarkup(
+        [
+            [KeyboardButton(BTN_QUIZ), KeyboardButton(BTN_STATS)],
+            [KeyboardButton(BTN_SETTINGS), KeyboardButton(BTN_HELP)],
+        ],
+        resize_keyboard=True,
     )

@@ -16,6 +16,10 @@ from telegram.ext import (
 
 from srblearn import db
 from srblearn.handlers.common import (
+    BTN_HELP_FILTER,
+    BTN_QUIZ_FILTER,
+    BTN_SETTINGS_FILTER,
+    BTN_STATS_FILTER,
     get_db_path,
     inline_keyboard,
     level_keyboard,
@@ -235,7 +239,10 @@ async def settings_cancel(
 
 def get_handlers() -> list:
     conversation = ConversationHandler(
-        entry_points=[CommandHandler("settings", settings_start)],
+        entry_points=[
+            CommandHandler("settings", settings_start),
+            MessageHandler(BTN_SETTINGS_FILTER, settings_start),
+        ],
         states={
             CHOOSING_LEVEL: [
                 CallbackQueryHandler(settings_choose_level, pattern=r"^settings:level:"),
@@ -253,7 +260,15 @@ def get_handlers() -> list:
                 ),
             ],
             ENTERING_TIME: [
-                MessageHandler(filters.TEXT & ~filters.COMMAND, settings_enter_time),
+                MessageHandler(
+                    filters.TEXT
+                    & ~filters.COMMAND
+                    & ~BTN_QUIZ_FILTER
+                    & ~BTN_SETTINGS_FILTER
+                    & ~BTN_STATS_FILTER
+                    & ~BTN_HELP_FILTER,
+                    settings_enter_time,
+                ),
             ],
         },
         fallbacks=[CommandHandler("cancel", settings_cancel)],

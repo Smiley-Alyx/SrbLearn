@@ -3,10 +3,10 @@
 from __future__ import annotations
 
 from telegram import Update
-from telegram.ext import CallbackQueryHandler, CommandHandler, ContextTypes
+from telegram.ext import CallbackQueryHandler, CommandHandler, ContextTypes, MessageHandler
 
 from srblearn import db
-from srblearn.handlers.common import get_db_path, inline_keyboard
+from srblearn.handlers.common import BTN_QUIZ_FILTER, get_db_path, inline_keyboard
 from srblearn.models import QuizQuestion
 from srblearn.quiz_engine import (
     QUIZ_MODE_RU_SR,
@@ -263,6 +263,7 @@ async def _finish_active_session(
 def get_handlers() -> list:
     return [
         CommandHandler("quiz", quiz_command),
+        MessageHandler(BTN_QUIZ_FILTER, quiz_command),
         CallbackQueryHandler(quiz_mode_selected, pattern=r"^quiz:mode:"),
         CallbackQueryHandler(quiz_answer, pattern=r"^quiz:ans:"),
         CallbackQueryHandler(quiz_next, pattern=r"^quiz:next$"),
