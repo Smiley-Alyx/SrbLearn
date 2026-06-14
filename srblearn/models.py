@@ -55,3 +55,12 @@ class UserStats:
     correct_answers: int
     accuracy: float
     words_due: int
+
+
+@dataclass
+class QuizQuestion:
+    word: Word
+    prompt: str
+    options: list[str]
+    correct_index: int
+    mode: str
