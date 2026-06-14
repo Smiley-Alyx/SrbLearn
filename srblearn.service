@@ -1,0 +1,15 @@
+[Unit]
+Description=SrbLearn Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+User=YOUR_USER
+WorkingDirectory=/opt/srblearn
+EnvironmentFile=/opt/srblearn/.env
+ExecStart=/opt/srblearn/venv/bin/python -m srblearn.bot
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
