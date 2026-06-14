@@ -8,6 +8,7 @@ from pathlib import Path
 
 from srblearn import db
 from srblearn.models import QuizQuestion, Word, WordProgress
+from srblearn.script_prefs import DEFAULT_SCRIPT, display_sr
 from srblearn.vocabulary import load_vocabulary
 
 DEFAULT_EASE_FACTOR = 2.5
@@ -25,7 +26,12 @@ QUIZ_MODES = (QUIZ_MODE_SR_RU, QUIZ_MODE_RU_SR)
 
 
 def vocab_to_word(entry: dict) -> Word:
-    return Word(sr=entry["sr"], ru=entry["ru"], tags=entry["tags"])
+    return Word(
+        sr=entry["sr"],
+        sr_lat=entry.get("sr_lat") or entry["sr"],
+        ru=entry["ru"],
+        tags=entry["tags"],
+    )
 
 
 def new_word_progress(user_id: int, word_sr: str, level: str) -> WordProgress:
@@ -78,6 +84,7 @@ def build_quiz_question(
     vocabulary: list[Word],
     mode: str,
     *,
+    script: str = DEFAULT_SCRIPT,
     option_count: int = 4,
 ) -> QuizQuestion:
     """Собрать вопрос с 4 вариантами ответа (1 правильный + 3 дистрактора)."""
@@ -87,10 +94,14 @@ def build_quiz_question(
     if mode == QUIZ_MODE_SR_RU:
         correct_answer = word.ru
         pool = [w.ru for w in vocabulary if w.ru != correct_answer]
-        prompt = word.sr
+        prompt = display_sr(word, script)
     else:
-        correct_answer = word.sr
-        pool = [w.sr for w in vocabulary if w.sr != correct_answer]
+        correct_answer = display_sr(word, script)
+        pool = [
+            display_sr(w, script)
+            for w in vocabulary
+            if w.sr != word.sr
+        ]
         prompt = word.ru
 
     distractor_count = option_count - 1
@@ -120,6 +131,7 @@ class QuizSession:
         user_id: int,
         level: str,
         mode: str,
+        script: str = DEFAULT_SCRIPT,
     ) -> None:
         if mode not in QUIZ_MODES:
             raise ValueError(f"Unknown quiz mode: {mode}")
@@ -128,6 +140,7 @@ class QuizSession:
         self.user_id = user_id
         self.level = level
         self.mode = mode
+        self.script = script
         self._vocabulary: list[Word] = []
         self._words_by_sr: dict[str, Word] = {}
         self._pick_counter = 0
@@ -144,7 +157,9 @@ class QuizSession:
         if word is None:
             return None
         self._note_shown(word.sr)
-        return build_quiz_question(word, self._vocabulary, self.mode)
+        return build_quiz_question(
+            word, self._vocabulary, self.mode, script=self.script
+        )
 
     async def record_answer(self, word_sr: str, is_correct: bool) -> WordProgress:
         now = time.time()

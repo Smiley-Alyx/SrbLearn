@@ -18,8 +18,10 @@ from srblearn.handlers.common import (
     inline_keyboard,
     level_keyboard,
     main_menu_keyboard,
+    script_keyboard_markup,
 )
 from srblearn.level_advice import get_level_recommendation
+from srblearn.script_prefs import script_label
 from srblearn.vocabulary import word_count
 
 WELCOME_TEXT = (
@@ -45,7 +47,8 @@ HELP_TEXT = (
     "A1 — базовая лексика, C2 — редкие и специализированные слова. "
     "Всего 3000+ слов по уровням CEFR.\n\n"
     "*Настройки* ⚙️\n"
-    "Уровень, уведомления (1–3 раза в сутки), время напоминаний в формате HH:MM.\n\n"
+    "Уровень, алфавит (кириллица / латиница), уведомления (1–3 раза в сутки), "
+    "время напоминаний в формате HH:MM.\n\n"
     "*Статистика* 📊\n"
     "Изучено слов, точность ответов, сколько слов ждут повторения.\n\n"
     "*Поддержка* 💬\n"
@@ -127,7 +130,8 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
         )
     else:
         await update.message.reply_text(
-            f"Ваш текущий уровень: *{user.level}*. Нажмите 📝 *Викторина*, чтобы начать!",
+            f"Ваш уровень: *{user.level}*, алфавит: *{script_label(user.script)}*. "
+            f"Нажмите 📝 *Викторина*, чтобы начать!",
             parse_mode="Markdown",
         )
 
@@ -142,11 +146,33 @@ async def start_level_callback(
 
     await query.answer()
     level = query.data.split(":")[-1]
+    context.user_data["pending_level"] = level
+
+    await query.edit_message_text(
+        f"Уровень: *{level}*\n\nВыберите алфавит для сербских слов:",
+        reply_markup=script_keyboard_markup("start:script"),
+        parse_mode="Markdown",
+    )
+
+
+async def start_script_callback(
+    update: Update,
+    context: ContextTypes.DEFAULT_TYPE,
+) -> None:
+    query = update.callback_query
+    if query is None or query.data is None or update.effective_user is None:
+        return
+
+    await query.answer()
+    script = query.data.split(":")[-1]
+    level = context.user_data.pop("pending_level", "A1")
     db_path = get_db_path(context)
 
     await db.update_user_level(db_path, update.effective_user.id, level)
+    await db.update_user_script(db_path, update.effective_user.id, script)
     await query.edit_message_text(
-        f"✅ Уровень *{level}* сохранён. Нажмите 📝 *Викторина*, чтобы начать!",
+        f"✅ Уровень *{level}*, алфавит: *{script_label(script)}*.\n"
+        f"Нажмите 📝 *Викторина*, чтобы начать!",
         parse_mode="Markdown",
     )
 
@@ -180,5 +206,6 @@ def get_handlers() -> list:
         MessageHandler(BTN_HELP_FILTER, help_command),
         MessageHandler(BTN_STATS_FILTER, stats_button),
         CallbackQueryHandler(start_level_callback, pattern=r"^start:level:"),
+        CallbackQueryHandler(start_script_callback, pattern=r"^start:script:"),
         CallbackQueryHandler(help_callback, pattern=r"^menu:help$"),
     ]

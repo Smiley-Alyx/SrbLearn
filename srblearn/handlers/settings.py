@@ -24,9 +24,13 @@ from srblearn.handlers.common import (
     inline_keyboard,
     level_keyboard,
     refresh_user_notifications,
+    script_keyboard_markup,
 )
+from srblearn.script_prefs import script_label
 
-CHOOSING_LEVEL, CHOOSING_NOTIFICATIONS, CHOOSING_FREQUENCY, ENTERING_TIME = range(4)
+CHOOSING_LEVEL, CHOOSING_SCRIPT, CHOOSING_NOTIFICATIONS, CHOOSING_FREQUENCY, ENTERING_TIME = range(
+    5
+)
 
 TIME_PATTERN = re.compile(r"^([01]\d|2[0-3]):([0-5]\d)$")
 
@@ -36,6 +40,7 @@ CANCEL_TEXT = "Настройка отменена. Текущие настро�
 def _reset_settings_data(context: ContextTypes.DEFAULT_TYPE) -> None:
     for key in (
         "settings_level",
+        "settings_script",
         "settings_notifications",
         "settings_notify_count",
         "settings_notify_times",
@@ -60,13 +65,14 @@ async def settings_start(
     )
 
     context.user_data["settings_level"] = user.level
+    context.user_data["settings_script"] = user.script
     context.user_data["settings_notifications"] = user.notifications_enabled
     context.user_data["settings_notify_count"] = user.notify_count
     context.user_data["settings_notify_times"] = list(user.notify_times)
 
     keyboard = inline_keyboard(level_keyboard("settings:level"))
     await update.message.reply_text(
-        "⚙️ *Настройки*\n\nШаг 1/4 — выберите уровень:",
+        "⚙️ *Настройки*\n\nШаг 1/5 — выберите уровень:",
         reply_markup=keyboard,
         parse_mode="Markdown",
     )
@@ -85,13 +91,36 @@ async def settings_choose_level(
     level = query.data.split(":")[-1]
     context.user_data["settings_level"] = level
 
+    await query.edit_message_text(
+        f"Уровень: *{level}*\n\nШаг 2/5 — выберите алфавит для сербских слов:",
+        reply_markup=script_keyboard_markup("settings:script"),
+        parse_mode="Markdown",
+    )
+    return CHOOSING_SCRIPT
+
+
+async def settings_choose_script(
+    update: Update,
+    context: ContextTypes.DEFAULT_TYPE,
+) -> int:
+    query = update.callback_query
+    if query is None or query.data is None:
+        return ConversationHandler.END
+
+    await query.answer()
+    script = query.data.split(":")[-1]
+    context.user_data["settings_script"] = script
+    level = context.user_data["settings_level"]
+
     keyboard = inline_keyboard(
         [
             [("✅ Включить", "settings:notif:yes"), ("❌ Выключить", "settings:notif:no")],
         ]
     )
     await query.edit_message_text(
-        f"Уровень: *{level}*\n\nШаг 2/4 — уведомления:",
+        f"Уровень: *{level}*\n"
+        f"Алфавит: *{script_label(script)}*\n\n"
+        f"Шаг 3/5 — уведомления:",
         reply_markup=keyboard,
         parse_mode="Markdown",
     )
@@ -123,7 +152,7 @@ async def settings_choose_notifications(
         ]
     )
     await query.edit_message_text(
-        "Шаг 3/4 — сколько раз в сутки напоминать?",
+        "Шаг 4/5 — сколько раз в сутки напоминать?",
         reply_markup=keyboard,
     )
     return CHOOSING_FREQUENCY
@@ -144,7 +173,7 @@ async def settings_choose_frequency(
     context.user_data["settings_time_index"] = 0
 
     await query.edit_message_text(
-        f"Шаг 4/4 — введите время для слота 1 из {notify_count} (формат HH:MM):"
+        f"Шаг 5/5 — введите время для слота 1 из {notify_count} (формат HH:MM):"
     )
     return ENTERING_TIME
 
@@ -189,11 +218,13 @@ async def _save_settings(
     user_id = update.effective_user.id
 
     level = context.user_data.get("settings_level", "A1")
+    script = context.user_data.get("settings_script", "cyrillic")
     enabled = context.user_data.get("settings_notifications", False)
     notify_count = context.user_data.get("settings_notify_count", 1)
     notify_times = context.user_data.get("settings_notify_times", [])
 
     await db.update_user_level(db_path, user_id, level)
+    await db.update_user_script(db_path, user_id, script)
     await db.update_user_notifications(
         db_path,
         user_id,
@@ -208,6 +239,7 @@ async def _save_settings(
         summary = (
             f"✅ Настройки сохранены!\n\n"
             f"Уровень: {level}\n"
+            f"Алфавит: {script_label(script)}\n"
             f"Уведомления: включены ({notify_count}×/сутки)\n"
             f"Время: {times_text}"
         )
@@ -215,6 +247,7 @@ async def _save_settings(
         summary = (
             f"✅ Настройки сохранены!\n\n"
             f"Уровень: {level}\n"
+            f"Алфавит: {script_label(script)}\n"
             f"Уведомления: выключены"
         )
 
@@ -246,6 +279,9 @@ def get_handlers() -> list:
         states={
             CHOOSING_LEVEL: [
                 CallbackQueryHandler(settings_choose_level, pattern=r"^settings:level:"),
+            ],
+            CHOOSING_SCRIPT: [
+                CallbackQueryHandler(settings_choose_script, pattern=r"^settings:script:"),
             ],
             CHOOSING_NOTIFICATIONS: [
                 CallbackQueryHandler(

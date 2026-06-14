@@ -8,6 +8,7 @@ from dataclasses import dataclass
 @dataclass
 class Word:
     sr: str
+    sr_lat: str
     ru: str
     tags: list[str]
 
@@ -17,6 +18,7 @@ class User:
     user_id: int
     username: str | None
     level: str
+    script: str
     notifications_enabled: bool
     notify_times: list[str]
     notify_count: int

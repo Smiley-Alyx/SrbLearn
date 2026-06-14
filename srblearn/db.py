@@ -9,6 +9,7 @@ from pathlib import Path
 import aiosqlite
 
 from srblearn.config import DEFAULT_LEVEL
+from srblearn.script_prefs import DEFAULT_SCRIPT
 from srblearn.models import Session, User, UserStats, WordProgress
 
 _SCHEMA = """
@@ -16,6 +17,7 @@ CREATE TABLE IF NOT EXISTS users (
     user_id INTEGER PRIMARY KEY,
     username TEXT,
     level TEXT NOT NULL DEFAULT 'A1',
+    script TEXT NOT NULL DEFAULT 'cyrillic',
     notifications_enabled INTEGER NOT NULL DEFAULT 0,
     notify_times TEXT NOT NULL DEFAULT '[]',
     notify_count INTEGER NOT NULL DEFAULT 1,
@@ -56,10 +58,13 @@ CREATE INDEX IF NOT EXISTS idx_word_progress_next_review
 
 
 def _row_to_user(row: aiosqlite.Row) -> User:
+    keys = row.keys()
+    script = row["script"] if "script" in keys else DEFAULT_SCRIPT
     return User(
         user_id=row["user_id"],
         username=row["username"],
         level=row["level"],
+        script=script,
         notifications_enabled=bool(row["notifications_enabled"]),
         notify_times=json.loads(row["notify_times"]),
         notify_count=row["notify_count"],
@@ -100,7 +105,17 @@ async def init_db(db_path: Path) -> None:
     async with aiosqlite.connect(db_path) as db:
         db.row_factory = aiosqlite.Row
         await db.executescript(_SCHEMA)
+        await _migrate_users_table(db)
         await db.commit()
+
+
+async def _migrate_users_table(db: aiosqlite.Connection) -> None:
+    cursor = await db.execute("PRAGMA table_info(users)")
+    columns = {row[1] for row in await cursor.fetchall()}
+    if "script" not in columns:
+        await db.execute(
+            "ALTER TABLE users ADD COLUMN script TEXT NOT NULL DEFAULT 'cyrillic'"
+        )
 
 
 async def get_user(db_path: Path, user_id: int) -> User | None:
@@ -125,10 +140,10 @@ async def create_user(
         db.row_factory = aiosqlite.Row
         await db.execute(
             """
-            INSERT INTO users (user_id, username, level, created_at)
-            VALUES (?, ?, ?, ?)
+            INSERT INTO users (user_id, username, level, script, created_at)
+            VALUES (?, ?, ?, ?, ?)
             """,
-            (user_id, username, level, now),
+            (user_id, username, level, DEFAULT_SCRIPT, now),
         )
         await db.commit()
         cursor = await db.execute(
@@ -155,6 +170,15 @@ async def update_user_level(db_path: Path, user_id: int, level: str) -> None:
         await db.execute(
             "UPDATE users SET level = ? WHERE user_id = ?",
             (level, user_id),
+        )
+        await db.commit()
+
+
+async def update_user_script(db_path: Path, user_id: int, script: str) -> None:
+    async with aiosqlite.connect(db_path) as db:
+        await db.execute(
+            "UPDATE users SET script = ? WHERE user_id = ?",
+            (script, user_id),
         )
         await db.commit()
 

@@ -61,10 +61,10 @@ def test_apply_incorrect_respects_min_ease_factor() -> None:
 
 def test_build_quiz_question_sr_ru() -> None:
     vocabulary = [
-        Word("а", "один", []),
-        Word("б", "два", []),
-        Word("в", "три", []),
-        Word("г", "четыре", []),
+        Word("а", "a", "один", []),
+        Word("б", "b", "два", []),
+        Word("в", "v", "три", []),
+        Word("г", "g", "четыре", []),
     ]
     with patch("srblearn.quiz_engine.random.shuffle", side_effect=lambda x: None):
         question = quiz_engine.build_quiz_question(vocabulary[0], vocabulary, "sr_ru")
@@ -77,16 +77,32 @@ def test_build_quiz_question_sr_ru() -> None:
 
 def test_build_quiz_question_ru_sr() -> None:
     vocabulary = [
-        Word("а", "один", []),
-        Word("б", "два", []),
-        Word("в", "три", []),
-        Word("г", "четыре", []),
+        Word("а", "a", "один", []),
+        Word("б", "b", "два", []),
+        Word("в", "v", "три", []),
+        Word("г", "g", "четыре", []),
     ]
     with patch("srblearn.quiz_engine.random.shuffle", side_effect=lambda x: None):
         question = quiz_engine.build_quiz_question(vocabulary[0], vocabulary, "ru_sr")
 
     assert question.prompt == "один"
     assert question.options[question.correct_index] == "а"
+
+
+def test_build_quiz_question_latin_script() -> None:
+    vocabulary = [
+        Word("здраво", "zdravo", "привет", []),
+        Word("хвала", "hvala", "спасибо", []),
+        Word("да", "da", "да", []),
+        Word("не", "ne", "нет", []),
+    ]
+    with patch("srblearn.quiz_engine.random.shuffle", side_effect=lambda x: None):
+        question = quiz_engine.build_quiz_question(
+            vocabulary[0], vocabulary, "ru_sr", script="latin"
+        )
+
+    assert question.prompt == "привет"
+    assert question.options[question.correct_index] == "zdravo"
 
 
 def test_should_pick_new_ratio() -> None:
@@ -111,9 +127,9 @@ async def test_quiz_session_record_answer_persists(db_path: Path) -> None:
 async def test_wrong_answer_not_immediate_repeat(db_path: Path) -> None:
     session = quiz_engine.QuizSession(db_path, 1, "A1", "sr_ru")
     session._vocabulary = [
-        Word("здраво", "привет", []),
-        Word("хвала", "спасибо", []),
-        Word("да", "да", []),
+        Word("здраво", "zdravo", "привет", []),
+        Word("хвала", "hvala", "спасибо", []),
+        Word("да", "da", "да", []),
     ]
     session._words_by_sr = {word.sr: word for word in session._vocabulary}
 
@@ -128,7 +144,7 @@ async def test_wrong_answer_not_immediate_repeat(db_path: Path) -> None:
 @pytest.mark.asyncio
 async def test_recent_window_avoids_immediate_repeat(db_path: Path) -> None:
     session = quiz_engine.QuizSession(db_path, 1, "A1", "sr_ru")
-    words = [Word(f"слово{i}", f"ru{i}", []) for i in range(6)]
+    words = [Word(f"слово{i}", f"slovo{i}", f"ru{i}", []) for i in range(6)]
     session._vocabulary = words
     session._words_by_sr = {word.sr: word for word in words}
     session._recent_srs = ["слово0"]
@@ -142,8 +158,8 @@ async def test_recent_window_avoids_immediate_repeat(db_path: Path) -> None:
 async def test_deferred_retry_after_other_words(db_path: Path) -> None:
     session = quiz_engine.QuizSession(db_path, 1, "A1", "sr_ru")
     session._vocabulary = [
-        Word("здраво", "привет", []),
-        Word("хвала", "спасибо", []),
+        Word("здраво", "zdravo", "привет", []),
+        Word("хвала", "hvala", "спасибо", []),
     ]
     session._words_by_sr = {word.sr: word for word in session._vocabulary}
 
@@ -192,8 +208,8 @@ async def test_quiz_session_prefers_due_words(db_path: Path) -> None:
 
     session = quiz_engine.QuizSession(db_path, 1, "A1", "sr_ru")
     session._vocabulary = [
-        Word("здраво", "привет", []),
-        Word("довиђења", "до свидания", []),
+        Word("здраво", "zdravo", "привет", []),
+        Word("довиђења", "doviđenja", "до свидания", []),
     ]
     session._words_by_sr = {word.sr: word for word in session._vocabulary}
 

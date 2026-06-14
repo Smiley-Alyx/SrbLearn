@@ -13,6 +13,7 @@ from srblearn.quiz_engine import (
     QUIZ_MODE_SR_RU,
     QuizSession,
 )
+from srblearn.script_prefs import display_sr
 
 MODE_LABELS = {
     QUIZ_MODE_SR_RU: "сербский → русский",
@@ -33,10 +34,10 @@ def _clear_quiz_state(context: ContextTypes.DEFAULT_TYPE) -> None:
         context.user_data.pop(key, None)
 
 
-def _correct_answer_text(question: QuizQuestion) -> str:
+def _correct_answer_text(question: QuizQuestion, script: str) -> str:
     if question.mode == QUIZ_MODE_SR_RU:
         return question.word.ru
-    return question.word.sr
+    return display_sr(question.word, script)
 
 
 def _question_keyboard(question: QuizQuestion):
@@ -93,7 +94,7 @@ async def quiz_mode_selected(
     )
 
     session_row = await db.create_session(db_path, user.user_id, mode)
-    engine = QuizSession(db_path, user.user_id, user.level, mode)
+    engine = QuizSession(db_path, user.user_id, user.level, mode, script=user.script)
     await engine.load_vocabulary()
 
     context.user_data["quiz_engine"] = engine
@@ -170,7 +171,7 @@ async def quiz_answer(
     if is_correct:
         result_text = "✅ Правильно!"
     else:
-        result_text = f"❌ Неверно! Правильный ответ: *{_correct_answer_text(question)}*"
+        result_text = f"❌ Неверно! Правильный ответ: *{_correct_answer_text(question, engine.script)}*"
 
     mode_label = MODE_LABELS[question.mode]
     text = (

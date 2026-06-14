@@ -4,3744 +4,4279 @@
     "ru": "эпифания",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "epifanija"
   },
   {
     "sr": "apoteoza",
     "ru": "апофеоз",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "apoteoza"
   },
   {
     "sr": "katarsis",
     "ru": "катарсис",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "katarsis"
   },
   {
     "sr": "elegija",
     "ru": "элегия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "elegija"
   },
   {
     "sr": "threnodia",
     "ru": "тренодия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "threnodia"
   },
   {
     "sr": "dithyramb",
     "ru": "дифирамб",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "dithyramb"
   },
   {
     "sr": "palinode",
     "ru": "палинодия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "palinode"
   },
   {
     "sr": "epigram",
     "ru": "эпиграмма",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "epigram"
   },
   {
     "sr": "epitaf",
     "ru": "эпитафия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "epitaf"
   },
   {
     "sr": "hagiografija",
     "ru": "агиография",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "hagiografija"
   },
   {
     "sr": "ekfonema",
     "ru": "экфонема",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "ekfonema"
   },
   {
     "sr": "prosodija",
     "ru": "просодия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "prosodija"
   },
   {
     "sr": "anakolut",
     "ru": "анаколуф",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "anakolut"
   },
   {
     "sr": "hendijadis",
     "ru": "гендиадис",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "hendijadis"
   },
   {
     "sr": "zeugma",
     "ru": "зевгма",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "zeugma"
   },
   {
     "sr": "litota",
     "ru": "литота",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "litota"
   },
   {
     "sr": "oksímoron",
     "ru": "оксюморон",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "oksímoron"
   },
   {
     "sr": "hiperbola",
     "ru": "гипербола",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "hiperbola"
   },
   {
     "sr": "aliteracija",
     "ru": "аллитерация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "aliteracija"
   },
   {
     "sr": "asonansa",
     "ru": "ассонанс",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "asonansa"
   },
   {
     "sr": "paronomazija",
     "ru": "парономазия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "paronomazija"
   },
   {
     "sr": "katahresa",
     "ru": "катахреза",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "katahresa"
   },
   {
     "sr": "sinekdoha",
     "ru": "синекдоха",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "sinekdoha"
   },
   {
     "sr": "metonimija",
     "ru": "метонимия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "metonimija"
   },
   {
     "sr": "sinonimija",
     "ru": "синонимия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "sinonimija"
   },
   {
     "sr": "antonimija",
     "ru": "антонимия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "antonimija"
   },
   {
     "sr": "homonimija",
     "ru": "омонимия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "homonimija"
   },
   {
     "sr": "polisemija",
     "ru": "полисемия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "polisemija"
   },
   {
     "sr": "izosemija",
     "ru": "изосемия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "izosemija"
   },
   {
     "sr": "paronimija",
     "ru": "паронимия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "paronimija"
   },
   {
     "sr": "grafem",
     "ru": "графема",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "grafem"
   },
   {
     "sr": "morfem",
     "ru": "морфема",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "morfem"
   },
   {
     "sr": "leksem",
     "ru": "лексема",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "leksem"
   },
   {
     "sr": "sintagma",
     "ru": "синтагма",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "sintagma"
   },
   {
     "sr": "alomorf",
     "ru": "алломорф",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "alomorf"
   },
   {
     "sr": "alofon",
     "ru": "аллофон",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "alofon"
   },
   {
     "sr": "supletivizam",
     "ru": "суплетивизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "supletivizam"
   },
   {
     "sr": "reduplikacija",
     "ru": "редупликация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "reduplikacija"
   },
   {
     "sr": "infix",
     "ru": "инфикс",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "infix"
   },
   {
     "sr": "kauzativ",
     "ru": "каузатив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "kauzativ"
   },
   {
     "sr": "iterativ",
     "ru": "итератив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "iterativ"
   },
   {
     "sr": "perfektivizacija",
     "ru": "перфективизация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "perfektivizacija"
   },
   {
     "sr": "impfektivizacija",
     "ru": "имперфективизация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "impfektivizacija"
   },
   {
     "sr": "dijateza",
     "ru": "диатеза",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "dijateza"
   },
   {
     "sr": "kondicional",
     "ru": "условное наклонение",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "kondicional"
   },
   {
     "sr": "irrealis",
     "ru": "ирреальное наклонение",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "irrealis"
   },
   {
     "sr": "optativ",
     "ru": "оптатив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "optativ"
   },
   {
     "sr": "hortativ",
     "ru": "хортатив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "hortativ"
   },
   {
     "sr": "jussiv",
     "ru": "юссив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "jussiv"
   },
   {
     "sr": "evidencijalnost",
     "ru": "эвиденциальность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "evidencijalnost"
   },
   {
     "sr": "inferencijalnost",
     "ru": "инференциальность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "inferencijalnost"
   },
   {
     "sr": "reportativ",
     "ru": "репортатив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "reportativ"
   },
   {
     "sr": "sensitiv",
     "ru": "сенситив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "sensitiv"
   },
   {
     "sr": "mirativ",
     "ru": "миратив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "mirativ"
   },
   {
     "sr": "dubiozitet",
     "ru": "дубиозитет",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "dubiozitet"
   },
   {
     "sr": "epistemička modalnost",
     "ru": "эпистемическая модальность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "epistemička modalnost"
   },
   {
     "sr": "deontička modalnost",
     "ru": "деонтическая модальность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "deontička modalnost"
   },
   {
     "sr": "aletička modalnost",
     "ru": "алеическая модальность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "aletička modalnost"
   },
   {
     "sr": "buletičnost",
     "ru": "булетичность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "buletičnost"
   },
   {
     "sr": "distributivnost",
     "ru": "дистрибутивность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "distributivnost"
   },
   {
     "sr": "kolektivnost",
     "ru": "коллективность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "kolektivnost"
   },
   {
     "sr": "rekursivnost",
     "ru": "рекурсивность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "rekursivnost"
   },
   {
     "sr": "transitivnost",
     "ru": "транзитивность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "transitivnost"
   },
   {
     "sr": "intransitivnost",
     "ru": "интранзитивность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "intransitivnost"
   },
   {
     "sr": "ergativnost",
     "ru": "эргативность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "ergativnost"
   },
   {
     "sr": "akuzativnost",
     "ru": "аккузативность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "akuzativnost"
   },
   {
     "sr": "nominativnost",
     "ru": "номинативность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "nominativnost"
   },
   {
     "sr": "dativnost",
     "ru": "дативность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "dativnost"
   },
   {
     "sr": "genitivnost",
     "ru": "генитивность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "genitivnost"
   },
   {
     "sr": "instrumentalnost",
     "ru": "инструментальность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "instrumentalnost"
   },
   {
     "sr": "lokativnost",
     "ru": "локативность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "lokativnost"
   },
   {
     "sr": "vokativnost",
     "ru": "вокативность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "vokativnost"
   },
   {
     "sr": "animatnost",
     "ru": "одушевлённость",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "animatnost"
   },
   {
     "sr": "inanimatnost",
     "ru": "неодушевлённость",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "inanimatnost"
   },
   {
     "sr": "jednina",
     "ru": "единственное число",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "jednina"
   },
   {
     "sr": "množina",
     "ru": "множественное число",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "množina"
   },
   {
     "sr": "dual",
     "ru": "дуалис",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "dual"
   },
   {
     "sr": "trial",
     "ru": "триаль",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "trial"
   },
   {
     "sr": "paucal",
     "ru": "паукаль",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "paucal"
   },
   {
     "sr": "definitnost",
     "ru": "определённость",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "definitnost"
   },
   {
     "sr": "indefinitnost",
     "ru": "неопределённость",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "indefinitnost"
   },
   {
     "sr": "specifičnost",
     "ru": "специфичность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "specifičnost"
   },
   {
     "sr": "generičnost",
     "ru": "генеричность",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "generičnost"
   },
   {
     "sr": "topikalizacija",
     "ru": "топикализация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "topikalizacija"
   },
   {
     "sr": "fokalizacija",
     "ru": "фокализация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "fokalizacija"
   },
   {
     "sr": "anaforska referenca",
     "ru": "анафорическая референция",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "anaforska referenca"
   },
   {
     "sr": "kataforska referenca",
     "ru": "катафорическая референция",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "kataforska referenca"
   },
   {
     "sr": "deiksis",
     "ru": "дейксис",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "deiksis"
   },
   {
     "sr": "anafora",
     "ru": "анафора",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "anafora"
   },
   {
     "sr": "katafora",
     "ru": "катафора",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "katafora"
   },
   {
     "sr": "elipsa",
     "ru": "эллипсис",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "elipsa"
   },
   {
     "sr": "prolepsa",
     "ru": "пролепсис",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "prolepsa"
   },
   {
     "sr": "hiperbaton",
     "ru": "гипербатон",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "hiperbaton"
   },
   {
     "sr": "hiazam",
     "ru": "хиазм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "hiazam"
   },
   {
     "sr": "gradacija",
     "ru": "градация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "gradacija"
   },
   {
     "sr": "paralelizam",
     "ru": "параллелизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "paralelizam"
   },
   {
     "sr": "inverzija",
     "ru": "инверсия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "inverzija"
   },
   {
     "sr": "epifora",
     "ru": "эпифора",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "epifora"
   },
   {
     "sr": "poliptoton",
     "ru": "полиптотон",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "poliptoton"
   },
   {
     "sr": "homoioteleuton",
     "ru": "гомиотелевтон",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "homoioteleuton"
   },
   {
     "sr": "izokolon",
     "ru": "изоколон",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "izokolon"
   },
   {
     "sr": "klimer",
     "ru": "климакс",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "klimer"
   },
   {
     "sr": "antiklimaks",
     "ru": "антиклимакс",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "antiklimaks"
   },
   {
     "sr": "apostrofa",
     "ru": "апострофа",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "apostrofa"
   },
   {
     "sr": "prozopopeja",
     "ru": "прозопопея",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "prozopopeja"
   },
   {
     "sr": "perifraza",
     "ru": "перифраза",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "perifraza"
   },
   {
     "sr": "evfemizam",
     "ru": "эвфемизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "evfemizam"
   },
   {
     "sr": "disfemizam",
     "ru": "дисфемизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "disfemizam"
   },
   {
     "sr": "tabuizam",
     "ru": "табуизация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "tabuizam"
   },
   {
     "sr": "eufonija",
     "ru": "эвфония",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "eufonija"
   },
   {
     "sr": "kakofonija",
     "ru": "какофония",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "kakofonija"
   },
   {
     "sr": "onomatopeja",
     "ru": "ономатопея",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "onomatopeja"
   },
   {
     "sr": "reduplikat",
     "ru": "редупликат",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "reduplikat"
   },
   {
     "sr": "diminutiv",
     "ru": "уменьшительное",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "diminutiv"
   },
   {
     "sr": "augmentativ",
     "ru": "увеличительное",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "augmentativ"
   },
   {
     "sr": "pejorativ",
     "ru": "пейоратив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "pejorativ"
   },
   {
     "sr": "ameliorativ",
     "ru": "амелиоратив",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "ameliorativ"
   },
   {
     "sr": "arhaizam",
     "ru": "архаизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "arhaizam"
   },
   {
     "sr": "neologizam",
     "ru": "неологизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "neologizam"
   },
   {
     "sr": "galicizam",
     "ru": "галлицизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "galicizam"
   },
   {
     "sr": "germanizam",
     "ru": "германизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "germanizam"
   },
   {
     "sr": "anglicizam",
     "ru": "англицизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "anglicizam"
   },
   {
     "sr": "turcizam",
     "ru": "турцизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "turcizam"
   },
   {
     "sr": "slavizam",
     "ru": "славизм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "slavizam"
   },
   {
     "sr": "internacionalizam",
     "ru": "интернационализм",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "internacionalizam"
   },
   {
     "sr": "kalka",
     "ru": "калька",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "kalka"
   },
   {
     "sr": "semantička kalka",
     "ru": "семантическая калька",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "semantička kalka"
   },
   {
     "sr": "posuđenica",
     "ru": "заимствование",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "posuđenica"
   },
   {
     "sr": "etimološki dvojnik",
     "ru": "этимологический двойник",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "etimološki dvojnik"
   },
   {
     "sr": "lažni prijatelj",
     "ru": "ложный друг",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "lažni prijatelj"
   },
   {
     "sr": "kognat",
     "ru": "когнат",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "kognat"
   },
   {
     "sr": "izoglosa",
     "ru": "изоглоса",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "izoglosa"
   },
   {
     "sr": "izosema",
     "ru": "изосема",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "izosema"
   },
   {
     "sr": "izomorf",
     "ru": "изоморф",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "izomorf"
   },
   {
     "sr": "alofonija",
     "ru": "аллофония",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "alofonija"
   },
   {
     "sr": "alomorfija",
     "ru": "алломорфия",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "alomorfija"
   },
   {
     "sr": "suprasegmentalni",
     "ru": "супрасегментный",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "suprasegmentalni"
   },
   {
     "sr": "tonalni akcenat",
     "ru": "тональный акцент",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "tonalni akcenat"
   },
   {
     "sr": "prosodički akcenat",
     "ru": "просодический акцент",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "prosodički akcenat"
   },
   {
     "sr": "intonacija",
     "ru": "интонация",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "intonacija"
   },
   {
     "sr": "melodijski obrazac",
     "ru": "мелодический образец",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "melodijski obrazac"
   },
   {
     "sr": "enklitika",
     "ru": "энклитика",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "enklitika"
   },
   {
     "sr": "proklitika",
     "ru": "проклитика",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "proklitika"
   },
   {
     "sr": "klitikon",
     "ru": "клитикон",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "klitikon"
   },
   {
     "sr": "partikula",
     "ru": "частица",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "partikula"
   },
   {
     "sr": "fokusna partikula",
     "ru": "фокусная частица",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "fokusna partikula"
   },
   {
     "sr": "modalna partikula",
     "ru": "модальная частица",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "modalna partikula"
   },
   {
     "sr": "evidencijalna partikula",
     "ru": "эвиденциальная частица",
     "tags": [
       "rare"
-    ]
+    ],
+    "sr_lat": "evidencijalna partikula"
   },
   {
     "sr": "господин",
     "ru": "господин",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "gospodin"
   },
   {
     "sr": "госпожа",
     "ru": "госпожа",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "gospoža"
   },
   {
     "sr": "домаћин",
     "ru": "хозяин",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "domaćin"
   },
   {
     "sr": "домаћица",
     "ru": "хозяйка",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "domaćica"
   },
   {
     "sr": "господар",
     "ru": "владыка",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "gospodar"
   },
   {
     "sr": "властелин",
     "ru": "властелин",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "vlastelin"
   },
   {
     "sr": "властелиница",
     "ru": "властелица",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "vlastelinica"
   },
   {
     "sr": "кмет",
     "ru": "крестьянин",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "kmet"
   },
   {
     "sr": "сељак",
     "ru": "селянин",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "seljak"
   },
   {
     "sr": "оран",
     "ru": "оральщик",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "oran"
   },
   {
     "sr": "жетва",
     "ru": "жатва",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "žetva"
   },
   {
     "sr": "вршидба",
     "ru": "обмолот",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "vršidba"
   },
   {
     "sr": "жито",
     "ru": "хлеб (зерно)",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "žito"
   },
   {
     "sr": "пшеница",
     "ru": "пшеница",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "pšenica"
   },
   {
     "sr": "раж",
     "ru": "рожь",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "raž"
   },
   {
     "sr": "овас",
     "ru": "овёс",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ovas"
   },
   {
     "sr": "јечам",
     "ru": "ячмень",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ječam"
   },
   {
     "sr": "просо",
     "ru": "просо",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "proso"
   },
   {
     "sr": "косање",
     "ru": "косьба",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "kosanje"
   },
   {
     "sr": "сејање",
     "ru": "посев",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "sejanje"
   },
   {
     "sr": "жетелица",
     "ru": "жнец",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "žetelica"
   },
   {
     "sr": "коло",
     "ru": "хоровод",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "kolo"
   },
   {
     "sr": "обред",
     "ru": "обряд",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "obred"
   },
   {
     "sr": "светковина",
     "ru": "празднование",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "svetkovina"
   },
   {
     "sr": "дочек",
     "ru": "встреча",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "doček"
   },
   {
     "sr": "испраћај",
     "ru": "проводы",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ispraćaj"
   },
   {
     "sr": "дочекати",
     "ru": "встретить",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "dočekati"
   },
   {
     "sr": "испратити",
     "ru": "проводить",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ispratiti"
   },
   {
     "sr": "славље",
     "ru": "празднование",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "slavlje"
   },
   {
     "sr": "крсна слава",
     "ru": "крсная слава",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "krsna slava"
   },
   {
     "sr": "крститељ",
     "ru": "креститель",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "krstitelj"
   },
   {
     "sr": "венчање",
     "ru": "венчание",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "venčanje"
   },
   {
     "sr": "венчати",
     "ru": "венчать",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "venčati"
   },
   {
     "sr": "младоженja",
     "ru": "молодожёны",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "mladoženja"
   },
   {
     "sr": "млада",
     "ru": "невеста",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "mlada"
   },
   {
     "sr": "младоженjak",
     "ru": "жених",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "mladoženjak"
   },
   {
     "sr": "поклоник",
     "ru": "поклонник",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "poklonik"
   },
   {
     "sr": "поклоничка",
     "ru": "поклонница",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "poklonička"
   },
   {
     "sr": "поклонјење",
     "ru": "поклонение",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "poklonjenje"
   },
   {
     "sr": "молитва",
     "ru": "молитва",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "molitva"
   },
   {
     "sr": "молити",
     "ru": "молить",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "moliti"
   },
   {
     "sr": "молитвеник",
     "ru": "молитвенник",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "molitvenik"
   },
   {
     "sr": "црква",
     "ru": "церковь",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "crkva"
   },
   {
     "sr": "манастир",
     "ru": "монастырь",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "manastir"
   },
   {
     "sr": "свештеник",
     "ru": "священник",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "sveštenik"
   },
   {
     "sr": "ђакон",
     "ru": "диакон",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "đakon"
   },
   {
     "sr": "епископ",
     "ru": "епископ",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "episkop"
   },
   {
     "sr": "патријарх",
     "ru": "патриарх",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "patrijarh"
   },
   {
     "sr": "икона",
     "ru": "икона",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ikona"
   },
   {
     "sr": "свећа",
     "ru": "свеча",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "sveća"
   },
   {
     "sr": "кадило",
     "ru": "кадило",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "kadilo"
   },
   {
     "sr": "кадионица",
     "ru": "кадильница",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "kadionica"
   },
   {
     "sr": "ладаница",
     "ru": "ладаница",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ladanica"
   },
   {
     "sr": "миро",
     "ru": "миро",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "miro"
   },
   {
     "sr": "помазање",
     "ru": "помазание",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "pomazanje"
   },
   {
     "sr": "покајање",
     "ru": "покаяние",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "pokajanje"
   },
   {
     "sr": "исповест",
     "ru": "исповедь",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ispovest"
   },
   {
     "sr": "исповедати",
     "ru": "исповедовать",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ispovedati"
   },
   {
     "sr": "причест",
     "ru": "причастие",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "pričest"
   },
   {
     "sr": "опело",
     "ru": "панихида",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "opelo"
   },
   {
     "sr": "погреб",
     "ru": "похороны",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "pogreb"
   },
   {
     "sr": "гроб",
     "ru": "могила",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "grob"
   },
   {
     "sr": "гробље",
     "ru": "кладбище",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "groblje"
   },
   {
     "sr": "споменик",
     "ru": "памятник",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "spomenik"
   },
   {
     "sr": "брег",
     "ru": "берег",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "breg"
   },
   {
     "sr": "ухо",
     "ru": "мыс",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "uho"
   },
   {
     "sr": "врх",
     "ru": "вершина",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "vrh"
   },
   {
     "sr": "падина",
     "ru": "склон",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "padina"
   },
   {
     "sr": "котлина",
     "ru": "котловина",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "kotlina"
   },
   {
     "sr": "равница",
     "ru": "равнина",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ravnica"
   },
   {
     "sr": "пустиња",
     "ru": "пустыня",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "pustinja"
   },
   {
     "sr": "степа",
     "ru": "степь",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "stepa"
   },
   {
     "sr": "пашњак",
     "ru": "пастбище",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "pašnjak"
   },
   {
     "sr": "лов",
     "ru": "охота",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "lov"
   },
   {
     "sr": "ловац",
     "ru": "охотник",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "lovac"
   },
   {
     "sr": "пећина",
     "ru": "пещера",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "pećina"
   },
   {
     "sr": "извор",
     "ru": "источник",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "izvor"
   },
   {
     "sr": "врело",
     "ru": "родник",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "vrelo"
   },
   {
     "sr": "бистро",
     "ru": "быстрое течение",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "bistro"
   },
   {
     "sr": "водопад",
     "ru": "водопад",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "vodopad"
   },
   {
     "sr": "језеро",
     "ru": "озеро",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "jezero"
   },
   {
     "sr": "бара",
     "ru": "болото",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "bara"
   },
   {
     "sr": "мочвара",
     "ru": "топь",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "močvara"
   },
   {
     "sr": "гај",
     "ru": "роща",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "gaj"
   },
   {
     "sr": "туча",
     "ru": "град",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "tuča"
   },
   {
     "sr": "гром",
     "ru": "гром",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "grom"
   },
   {
     "sr": "муња",
     "ru": "молния",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "munja"
   },
   {
     "sr": "зора",
     "ru": "заря",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "zora"
   },
   {
     "sr": "сумрак",
     "ru": "сумерки",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "sumrak"
   },
   {
     "sr": "поноћ",
     "ru": "полночь",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "ponoć"
   },
   {
     "sr": "пролеће",
     "ru": "весна",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "proleće"
   },
   {
     "sr": "век",
     "ru": "век",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "vek"
   },
   {
     "sr": "доба",
     "ru": "эпоха",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "doba"
   },
   {
     "sr": "старина",
     "ru": "древность",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "starina"
   },
   {
     "sr": "давнина",
     "ru": "давность",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "davnina"
   },
   {
     "sr": "бескрај",
     "ru": "бесконечность",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "beskraj"
   },
   {
     "sr": "почетак",
     "ru": "начало",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "početak"
   },
   {
     "sr": "средина",
     "ru": "середина",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "sredina"
   },
   {
     "sr": "целина",
     "ru": "целое",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "celina"
   },
   {
     "sr": "саставак",
     "ru": "состав",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "sastavak"
   },
   {
     "sr": "склоп",
     "ru": "состав",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "sklop"
   },
   {
     "sr": "суштина",
     "ru": "сущность",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "suština"
   },
   {
     "sr": "значење",
     "ru": "значение",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "značenje"
   },
   {
     "sr": "презиме",
     "ru": "фамилия",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "prezime"
   },
   {
     "sr": "надимак",
     "ru": "прозвище",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "nadimak"
   },
   {
     "sr": "прозва",
     "ru": "прозвище",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "prozva"
   },
   {
     "sr": "загадка",
     "ru": "загадка",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "zagadka"
   },
   {
     "sr": "реbus",
     "ru": "ребус",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "rebus"
   },
   {
     "sr": "загонетка",
     "ru": "загадка",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "zagonetka"
   },
   {
     "sr": "наглашај",
     "ru": "ударение",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "naglašaj"
   },
   {
     "sr": "изговор",
     "ru": "произношение",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "izgovor"
   },
   {
     "sr": "изузетак",
     "ru": "исключение",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "izuzetak"
   },
   {
     "sr": "говор",
     "ru": "говор",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "govor"
   },
   {
     "sr": "наречје",
     "ru": "наречие",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "narečje"
   },
   {
     "sr": "шtokavski",
     "ru": "штокавский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "štokavski"
   },
   {
     "sr": "чakavski",
     "ru": "чакавский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "čakavski"
   },
   {
     "sr": "кајkavski",
     "ru": "кайкавский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "kajkavski"
   },
   {
     "sr": "торлачki",
     "ru": "торлакский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "torlački"
   },
   {
     "sr": "црногорски",
     "ru": "черногорский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "crnogorski"
   },
   {
     "sr": "босански",
     "ru": "боснийский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "bosanski"
   },
   {
     "sr": "хрватски",
     "ru": "хорватский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "hrvatski"
   },
   {
     "sr": "српски",
     "ru": "сербский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "srpski"
   },
   {
     "sr": "словенски",
     "ru": "словенский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "slovenski"
   },
   {
     "sr": "македонски",
     "ru": "македонский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "makedonski"
   },
   {
     "sr": "бугарски",
     "ru": "болгарский",
     "tags": [
       "archaisms"
-    ]
+    ],
+    "sr_lat": "bugarski"
   },
   {
     "sr": "kvantna mehanika",
     "ru": "квантовая механика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kvantna mehanika"
   },
   {
     "sr": "relativnost",
     "ru": "относительность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "relativnost"
   },
   {
     "sr": "entropija",
     "ru": "энтропия",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "entropija"
   },
   {
     "sr": "entalpija",
     "ru": "энтальпия",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "entalpija"
   },
   {
     "sr": "izoterma",
     "ru": "изотерма",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "izoterma"
   },
   {
     "sr": "izobara",
     "ru": "изобара",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "izobara"
   },
   {
     "sr": "izohrona",
     "ru": "изохрона",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "izohrona"
   },
   {
     "sr": "adijabatski",
     "ru": "адиабатический",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "adijabatski"
   },
   {
     "sr": "termodinamika",
     "ru": "термодинамика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "termodinamika"
   },
   {
     "sr": "kinetika",
     "ru": "кинетика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kinetika"
   },
   {
     "sr": "statika",
     "ru": "статика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "statika"
   },
   {
     "sr": "dinamika",
     "ru": "динамика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "dinamika"
   },
   {
     "sr": "fluid",
     "ru": "флюид",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "fluid"
   },
   {
     "sr": "viskoznost",
     "ru": "вязкость",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "viskoznost"
   },
   {
     "sr": "turbulencija",
     "ru": "турбулентность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "turbulencija"
   },
   {
     "sr": "laminarno",
     "ru": "ламинарное",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "laminarno"
   },
   {
     "sr": "Reynoldsov broj",
     "ru": "число Рейнольдса",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Reynoldsov broj"
   },
   {
     "sr": "Machov broj",
     "ru": "число Маха",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Machov broj"
   },
   {
     "sr": "Fourierova transformacija",
     "ru": "преобразование Фурье",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Fourierova transformacija"
   },
   {
     "sr": "Laplaceova transformacija",
     "ru": "преобразование Лапласа",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Laplaceova transformacija"
   },
   {
     "sr": "talasna funkcija",
     "ru": "волновая функция",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "talasna funkcija"
   },
   {
     "sr": "operator",
     "ru": "оператор",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "operator"
   },
   {
     "sr": "hamiltonijan",
     "ru": "гамильтониан",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "hamiltonijan"
   },
   {
     "sr": "eigenvalue",
     "ru": "собственное значение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "eigenvalue"
   },
   {
     "sr": "eigenvector",
     "ru": "собственный вектор",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "eigenvector"
   },
   {
     "sr": "matrica",
     "ru": "матрица",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "matrica"
   },
   {
     "sr": "determinanta",
     "ru": "определитель",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "determinanta"
   },
   {
     "sr": "inverzna matrica",
     "ru": "обратная матрица",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "inverzna matrica"
   },
   {
     "sr": "transponovana",
     "ru": "транспонированная",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "transponovana"
   },
   {
     "sr": "diagonalizacija",
     "ru": "диагонализация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "diagonalizacija"
   },
   {
     "sr": "spektralna analiza",
     "ru": "спектральный анализ",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "spektralna analiza"
   },
   {
     "sr": "topologija",
     "ru": "топология",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "topologija"
   },
   {
     "sr": "manifold",
     "ru": "многообразие",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "manifold"
   },
   {
     "sr": "homeomorfizam",
     "ru": "гомеоморфизм",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "homeomorfizam"
   },
   {
     "sr": "izomorfizam",
     "ru": "изоморфизм",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "izomorfizam"
   },
   {
     "sr": "homomorfizam",
     "ru": "гомоморфизм",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "homomorfizam"
   },
   {
     "sr": "grupa",
     "ru": "группа",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "grupa"
   },
   {
     "sr": "prsten",
     "ru": "кольцо",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "prsten"
   },
   {
     "sr": "telo",
     "ru": "поле",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "telo"
   },
   {
     "sr": "vektorski prostor",
     "ru": "векторное пространство",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "vektorski prostor"
   },
   {
     "sr": "baza",
     "ru": "базис",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "baza"
   },
   {
     "sr": "dimenzija",
     "ru": "размерность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "dimenzija"
   },
   {
     "sr": "rang",
     "ru": "ранг",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "rang"
   },
   {
     "sr": "kernel",
     "ru": "ядро",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kernel"
   },
   {
     "sr": "slika",
     "ru": "образ",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "slika"
   },
   {
     "sr": "injektivnost",
     "ru": "инъективность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "injektivnost"
   },
   {
     "sr": "surjektivnost",
     "ru": "сюръективность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "surjektivnost"
   },
   {
     "sr": "bijektivnost",
     "ru": "биективность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "bijektivnost"
   },
   {
     "sr": "kardinalnost",
     "ru": "мощность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kardinalnost"
   },
   {
     "sr": "kontinuum",
     "ru": "континуум",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kontinuum"
   },
   {
     "sr": "hipoteza kontinuuma",
     "ru": "континуум-гипотеза",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "hipoteza kontinuuma"
   },
   {
     "sr": "aksiom",
     "ru": "аксиома",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "aksiom"
   },
   {
     "sr": "lema",
     "ru": "лемма",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "lema"
   },
   {
     "sr": "teorema",
     "ru": "теорема",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "teorema"
   },
   {
     "sr": "korolar",
     "ru": "следствие",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "korolar"
   },
   {
     "sr": "kompleksnost",
     "ru": "сложность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kompleksnost"
   },
   {
     "sr": "P vs NP",
     "ru": "P против NP",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "P vs NP"
   },
   {
     "sr": "NP-kompletan",
     "ru": "NP-полный",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "NP-kompletan"
   },
   {
     "sr": "Turingova mašina",
     "ru": "машина Тьюринга",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Turingova mašina"
   },
   {
     "sr": "halting problem",
     "ru": "проблема остановки",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "halting problem"
   },
   {
     "sr": "lambda kalkulus",
     "ru": "лямбда-исчисление",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "lambda kalkulus"
   },
   {
     "sr": "funkcionalno programiranje",
     "ru": "функциональное программирование",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "funkcionalno programiranje"
   },
   {
     "sr": "imperativno programiranje",
     "ru": "императивное программирование",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "imperativno programiranje"
   },
   {
     "sr": "objektno orijentisan",
     "ru": "объектно-ориентированный",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "objektno orijentisan"
   },
   {
     "sr": "garbage collection",
     "ru": "сборка мусора",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "garbage collection"
   },
   {
     "sr": "pointer",
     "ru": "указатель",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "pointer"
   },
   {
     "sr": "referenca",
     "ru": "ссылка",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "referenca"
   },
   {
     "sr": "heap",
     "ru": "куча",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "heap"
   },
   {
     "sr": "stack",
     "ru": "стек",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "stack"
   },
   {
     "sr": "queue",
     "ru": "очередь",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "queue"
   },
   {
     "sr": "hash map",
     "ru": "хеш-таблица",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "hash map"
   },
   {
     "sr": "binary tree",
     "ru": "бинарное дерево",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "binary tree"
   },
   {
     "sr": "graf",
     "ru": "граф",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "graf"
   },
   {
     "sr": "čvor",
     "ru": "узел",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "čvor"
   },
   {
     "sr": "ivica",
     "ru": "ребро",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "ivica"
   },
   {
     "sr": "DAG",
     "ru": "ациклический граф",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "DAG"
   },
   {
     "sr": "topološko sortiranje",
     "ru": "топологическая сортировка",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "topološko sortiranje"
   },
   {
     "sr": "Dijkstra",
     "ru": "Дейкстра",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Dijkstra"
   },
   {
     "sr": "Bellman-Ford",
     "ru": "Беллман-Форд",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Bellman-Ford"
   },
   {
     "sr": "Floyd-Warshall",
     "ru": "Флойд-Уоршелл",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Floyd-Warshall"
   },
   {
     "sr": "A* algoritam",
     "ru": "алгоритм A*",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "A* algoritam"
   },
   {
     "sr": "branch and bound",
     "ru": "ветви и границы",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "branch and bound"
   },
   {
     "sr": "dinamičko programiranje",
     "ru": "динамическое программирование",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "dinamičko programiranje"
   },
   {
     "sr": "žadna strategija",
     "ru": "жадная стратегия",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "žadna strategija"
   },
   {
     "sr": "divide and conquer",
     "ru": "разделяй и властвуй",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "divide and conquer"
   },
   {
     "sr": "backtracking",
     "ru": "возврат",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "backtracking"
   },
   {
     "sr": "memoizacija",
     "ru": "мемоизация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "memoizacija"
   },
   {
     "sr": "cache",
     "ru": "кэш",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "cache"
   },
   {
     "sr": "LRU",
     "ru": "LRU",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "LRU"
   },
   {
     "sr": "mutex",
     "ru": "мьютекс",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "mutex"
   },
   {
     "sr": "semafor",
     "ru": "семафор",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "semafor"
   },
   {
     "sr": "deadlock",
     "ru": "взаимная блокировка",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "deadlock"
   },
   {
     "sr": "race condition",
     "ru": "состояние гонки",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "race condition"
   },
   {
     "sr": "thread",
     "ru": "поток",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "thread"
   },
   {
     "sr": "proces",
     "ru": "процесс",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "proces"
   },
   {
     "sr": "context switch",
     "ru": "переключение контекста",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "context switch"
   },
   {
     "sr": "scheduling",
     "ru": "планирование",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "scheduling"
   },
   {
     "sr": "virtualizacija",
     "ru": "виртуализация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "virtualizacija"
   },
   {
     "sr": "kontejner",
     "ru": "контейнер",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kontejner"
   },
   {
     "sr": "orchestracija",
     "ru": "оркестрация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "orchestracija"
   },
   {
     "sr": "Kubernetes",
     "ru": "Kubernetes",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Kubernetes"
   },
   {
     "sr": "Docker",
     "ru": "Docker",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Docker"
   },
   {
     "sr": "CI/CD",
     "ru": "CI/CD",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "CI/CD"
   },
   {
     "sr": "infrastructure as code",
     "ru": "инфраструктура как код",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "infrastructure as code"
   },
   {
     "sr": "observability",
     "ru": "наблюдаемость",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "observability"
   },
   {
     "sr": "tracing",
     "ru": "трассировка",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "tracing"
   },
   {
     "sr": "metrics",
     "ru": "метрики",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "metrics"
   },
   {
     "sr": "logging",
     "ru": "логирование",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "logging"
   },
   {
     "sr": "distributed system",
     "ru": "распределённая система",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "distributed system"
   },
   {
     "sr": "CAP teorema",
     "ru": "теорема CAP",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "CAP teorema"
   },
   {
     "sr": "eventual consistency",
     "ru": " eventual consistency",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "eventual consistency"
   },
   {
     "sr": "consensus",
     "ru": "консенсус",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "consensus"
   },
   {
     "sr": "Raft",
     "ru": "Raft",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Raft"
   },
   {
     "sr": "Paxos",
     "ru": "Paxos",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Paxos"
   },
   {
     "sr": "Byzantine fault",
     "ru": "византийская ошибка",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Byzantine fault"
   },
   {
     "sr": "blockchain",
     "ru": "блокчейн",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "blockchain"
   },
   {
     "sr": "smart contract",
     "ru": "смарт-контракт",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "smart contract"
   },
   {
     "sr": "hash",
     "ru": "хеш",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "hash"
   },
   {
     "sr": "Merkle tree",
     "ru": "дерево Меркла",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "Merkle tree"
   },
   {
     "sr": "proof of work",
     "ru": "доказательство работы",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "proof of work"
   },
   {
     "sr": "proof of stake",
     "ru": "доказательство доли",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "proof of stake"
   },
   {
     "sr": "kriptografija",
     "ru": "криптография",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kriptografija"
   },
   {
     "sr": "šifrovanje",
     "ru": "шифрование",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "šifrovanje"
   },
   {
     "sr": "dešifrovanje",
     "ru": "дешифрование",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "dešifrovanje"
   },
   {
     "sr": "javni ključ",
     "ru": "открытый ключ",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "javni ključ"
   },
   {
     "sr": "privatni ključ",
     "ru": "закрытый ключ",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "privatni ključ"
   },
   {
     "sr": "digitalni potpis",
     "ru": "цифровая подпись",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "digitalni potpis"
   },
   {
     "sr": "TLS",
     "ru": "TLS",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "TLS"
   },
   {
     "sr": "HTTPS",
     "ru": "HTTPS",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "HTTPS"
   },
   {
     "sr": "OAuth",
     "ru": "OAuth",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "OAuth"
   },
   {
     "sr": "JWT",
     "ru": "JWT",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "JWT"
   },
   {
     "sr": "zero trust",
     "ru": "нулевое доверие",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "zero trust"
   },
   {
     "sr": "penetration testing",
     "ru": "тест на проникновение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "penetration testing"
   },
   {
     "sr": "vulnerability",
     "ru": "уязвимость",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "vulnerability"
   },
   {
     "sr": "exploit",
     "ru": "эксплойт",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "exploit"
   },
   {
     "sr": "patch",
     "ru": "патч",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "patch"
   },
   {
     "sr": "zero-day",
     "ru": "нулевой день",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "zero-day"
   },
   {
     "sr": "SOC",
     "ru": "центр операций безопасности",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "SOC"
   },
   {
     "sr": "SIEM",
     "ru": "SIEM",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "SIEM"
   },
   {
     "sr": "incident response",
     "ru": "реагирование на инциденты",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "incident response"
   },
   {
     "sr": "forensics",
     "ru": "криминалистика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "forensics"
   },
   {
     "sr": "threat intelligence",
     "ru": "разведка угроз",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "threat intelligence"
   },
   {
     "sr": "phishing",
     "ru": "фишинг",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "phishing"
   },
   {
     "sr": "ransomware",
     "ru": "вымогатель",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "ransomware"
   },
   {
     "sr": "DDoS",
     "ru": "DDoS",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "DDoS"
   },
   {
     "sr": "botnet",
     "ru": "ботнет",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "botnet"
   },
   {
     "sr": "sandbox",
     "ru": "песочница",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "sandbox"
   },
   {
     "sr": "honeypot",
     "ru": "ловушка",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "honeypot"
   },
   {
     "sr": "machine learning",
     "ru": "машинное обучение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "machine learning"
   },
   {
     "sr": "deep learning",
     "ru": "глубокое обучение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "deep learning"
   },
   {
     "sr": "neural network",
     "ru": "нейросеть",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "neural network"
   },
   {
     "sr": "backpropagation",
     "ru": "обратное распространение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "backpropagation"
   },
   {
     "sr": "gradient descent",
     "ru": "градиентный спуск",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "gradient descent"
   },
   {
     "sr": "overfitting",
     "ru": "переобучение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "overfitting"
   },
   {
     "sr": "underfitting",
     "ru": "недообучение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "underfitting"
   },
   {
     "sr": "regularization",
     "ru": "регуляризация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "regularization"
   },
   {
     "sr": "cross-validation",
     "ru": "кросс-валидация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "cross-validation"
   },
   {
     "sr": "precision",
     "ru": "точность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "precision"
   },
   {
     "sr": "recall",
     "ru": "полнота",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "recall"
   },
   {
     "sr": "F1 score",
     "ru": "F1-мера",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "F1 score"
   },
   {
     "sr": "ROC curve",
     "ru": "ROC-кривая",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "ROC curve"
   },
   {
     "sr": "embedding",
     "ru": "эмбеддинг",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "embedding"
   },
   {
     "sr": "transformer",
     "ru": "трансформер",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "transformer"
   },
   {
     "sr": "attention",
     "ru": "внимание",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "attention"
   },
   {
     "sr": "tokenization",
     "ru": "токенизация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "tokenization"
   },
   {
     "sr": "fine-tuning",
     "ru": "дообучение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "fine-tuning"
   },
   {
     "sr": "RLHF",
     "ru": "RLHF",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "RLHF"
   },
   {
     "sr": "hallucination",
     "ru": "галлюцинация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "hallucination"
   },
   {
     "sr": "prompt engineering",
     "ru": "промпт-инжиниринг",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "prompt engineering"
   },
   {
     "sr": "RAG",
     "ru": "RAG",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "RAG"
   },
   {
     "sr": "vector database",
     "ru": "векторная база данных",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "vector database"
   },
   {
     "sr": "LLM",
     "ru": "большая языковая модель",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "LLM"
   },
   {
     "sr": "AGI",
     "ru": "ОИИ",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "AGI"
   },
   {
     "sr": "alignment",
     "ru": "выравнивание",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "alignment"
   },
   {
     "sr": "interpretability",
     "ru": "интерпретируемость",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "interpretability"
   },
   {
     "sr": "explainability",
     "ru": "объяснимость",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "explainability"
   },
   {
     "sr": "bias",
     "ru": "смещение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "bias"
   },
   {
     "sr": "fairness",
     "ru": "справедливость",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "fairness"
   },
   {
     "sr": "ethics in AI",
     "ru": "этика ИИ",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "ethics in AI"
   },
   {
     "sr": "data governance",
     "ru": "управление данными",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "data governance"
   },
   {
     "sr": "privacy by design",
     "ru": "конфиденциальность по умолчанию",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "privacy by design"
   },
   {
     "sr": "GDPR",
     "ru": "GDPR",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "GDPR"
   },
   {
     "sr": "data minimization",
     "ru": "минимизация данных",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "data minimization"
   },
   {
     "sr": "anonymization",
     "ru": "анонимизация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "anonymization"
   },
   {
     "sr": "pseudonymization",
     "ru": "псевдонимизация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "pseudonymization"
   },
   {
     "sr": "differential privacy",
     "ru": "дифференциальная приватность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "differential privacy"
   },
   {
     "sr": "federated learning",
     "ru": "федеративное обучение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "federated learning"
   },
   {
     "sr": "edge computing",
     "ru": "периферийные вычисления",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "edge computing"
   },
   {
     "sr": "quantum computing",
     "ru": "квантовые вычисления",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "quantum computing"
   },
   {
     "sr": "qubit",
     "ru": "кубит",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "qubit"
   },
   {
     "sr": "superposition",
     "ru": "суперпозиция",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "superposition"
   },
   {
     "sr": "entanglement",
     "ru": "запутанность",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "entanglement"
   },
   {
     "sr": "decoherence",
     "ru": "декогеренция",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "decoherence"
   },
   {
     "sr": "quantum supremacy",
     "ru": "квантовое превосходство",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "quantum supremacy"
   },
   {
     "sr": "post-quantum cryptography",
     "ru": "постквантовая криптография",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "post-quantum cryptography"
   },
   {
     "sr": "bioinformatika",
     "ru": "биоинформатика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "bioinformatika"
   },
   {
     "sr": "genom",
     "ru": "геном",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "genom"
   },
   {
     "sr": "proteom",
     "ru": "протеом",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "proteom"
   },
   {
     "sr": "CRISPR",
     "ru": "CRISPR",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "CRISPR"
   },
   {
     "sr": "gene editing",
     "ru": "редактирование генов",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "gene editing"
   },
   {
     "sr": "synthetic biology",
     "ru": "синтетическая биология",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "synthetic biology"
   },
   {
     "sr": "nanotehnologija",
     "ru": "нанотехнология",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "nanotehnologija"
   },
   {
     "sr": "nanocastica",
     "ru": "наночастица",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "nanocastica"
   },
   {
     "sr": "grafen",
     "ru": "графен",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "grafen"
   },
   {
     "sr": "kvantni senzor",
     "ru": "квантовый датчик",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kvantni senzor"
   },
   {
     "sr": "fuzija",
     "ru": "термоядерный синтез",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "fuzija"
   },
   {
     "sr": "fisija",
     "ru": "деление",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "fisija"
   },
   {
     "sr": "reactor",
     "ru": "реактор",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "reactor"
   },
   {
     "sr": "tokamak",
     "ru": "токамак",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "tokamak"
   },
   {
     "sr": "stellarator",
     "ru": "стелларатор",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "stellarator"
   },
   {
     "sr": "geotermalna energija",
     "ru": "геотермальная энергия",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "geotermalna energija"
   },
   {
     "sr": "fotonaponska ćelija",
     "ru": "фотоэлемент",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "fotonaponska ćelija"
   },
   {
     "sr": "vetroelektrana",
     "ru": "ветроэлектростанция",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "vetroelektrana"
   },
   {
     "sr": "hidroelektrana",
     "ru": "ГЭС",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "hidroelektrana"
   },
   {
     "sr": "nuklearna energija",
     "ru": "ядерная энергия",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "nuklearna energija"
   },
   {
     "sr": "ugljenični otisak",
     "ru": "углеродный след",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "ugljenični otisak"
   },
   {
     "sr": "net zero",
     "ru": "нулевые выбросы",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "net zero"
   },
   {
     "sr": "carbon capture",
     "ru": "улавливание углерода",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "carbon capture"
   },
   {
     "sr": "cirkularna ekonomija",
     "ru": "циркулярная экономика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "cirkularna ekonomija"
   },
   {
     "sr": "life cycle assessment",
     "ru": "оценка жизненного цикла",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "life cycle assessment"
   },
   {
     "sr": "ESG",
     "ru": "ESG",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "ESG"
   },
   {
     "sr": "sustainability",
     "ru": "устойчивость",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "sustainability"
   },
   {
     "sr": "resilience",
     "ru": "устойчивость (resilience)",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "resilience"
   },
   {
     "sr": "adaptacija",
     "ru": "адаптация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "adaptacija"
   },
   {
     "sr": "mitigacija",
     "ru": "митигация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "mitigacija"
   },
   {
     "sr": "antropocen",
     "ru": "антропоцен",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "antropocen"
   },
   {
     "sr": "holocen",
     "ru": "голоцен",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "holocen"
   },
   {
     "sr": "pleistocen",
     "ru": "плейстоцен",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "pleistocen"
   },
   {
     "sr": "arheološki sloj",
     "ru": "археологический слой",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "arheološki sloj"
   },
   {
     "sr": "stratigrafija",
     "ru": "стратиграфия",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "stratigrafija"
   },
   {
     "sr": "radiokarbonsko datiranje",
     "ru": "радиоуглеродное датирование",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "radiokarbonsko datiranje"
   },
   {
     "sr": "dendrohronologija",
     "ru": "дендрохронология",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "dendrohronologija"
   },
   {
     "sr": "paleografija",
     "ru": "палеография",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "paleografija"
   },
   {
     "sr": "kodikologija",
     "ru": "кодикология",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kodikologija"
   },
   {
     "sr": "filologija",
     "ru": "филология",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "filologija"
   },
   {
     "sr": "kritičko izdanje",
     "ru": "критическое издание",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kritičko izdanje"
   },
   {
     "sr": "aparatura",
     "ru": "аппарат",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "aparatura"
   },
   {
     "sr": "varijanta",
     "ru": "вариант",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "varijanta"
   },
   {
     "sr": "lekt",
     "ru": "лекта",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "lekt"
   },
   {
     "sr": "stemmatologija",
     "ru": "стемматология",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "stemmatologija"
   },
   {
     "sr": "kontaminacija",
     "ru": "контаминация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kontaminacija"
   },
   {
     "sr": "lacuna",
     "ru": "лакуна",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "lacuna"
   },
   {
     "sr": "emendacija",
     "ru": "эмендация",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "emendacija"
   },
   {
     "sr": "konjekтура",
     "ru": "конъектура",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "konjektura"
   },
   {
     "sr": "siglum",
     "ru": "сигла",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "siglum"
   },
   {
     "sr": "kolofon",
     "ru": "колофон",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kolofon"
   },
   {
     "sr": "prolog",
     "ru": "пролог",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "prolog"
   },
   {
     "sr": "epilog",
     "ru": "эпилог",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "epilog"
   },
   {
     "sr": "dedicacija",
     "ru": "посвящение",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "dedicacija"
   },
   {
     "sr": "impresum",
     "ru": "импрессум",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "impresum"
   },
   {
     "sr": "incunabula",
     "ru": "инкунабула",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "incunabula"
   },
   {
     "sr": "kodex",
     "ru": "кодекс",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "kodex"
   },
   {
     "sr": "palimpsest",
     "ru": "палимпсест",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "palimpsest"
   },
   {
     "sr": "papirološki",
     "ru": "папирологический",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "papirološki"
   },
   {
     "sr": "epigrafija",
     "ru": "эпиграфика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "epigrafija"
   },
   {
     "sr": "numizmatika",
     "ru": "нумизматика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "numizmatika"
   },
   {
     "sr": "filatelija",
     "ru": "филателия",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "filatelija"
   },
   {
     "sr": "heraldika",
     "ru": "геральдика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "heraldika"
   },
   {
     "sr": "veksilologija",
     "ru": "вексилология",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "veksilologija"
   },
   {
     "sr": "sigilografija",
     "ru": "сигиллография",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "sigilografija"
   },
   {
     "sr": "sphragistika",
     "ru": "сфрагистика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "sphragistika"
   },
   {
     "sr": "faleristika",
     "ru": "фалеристика",
     "tags": [
       "specialized"
-    ]
+    ],
+    "sr_lat": "faleristika"
   }
 ]

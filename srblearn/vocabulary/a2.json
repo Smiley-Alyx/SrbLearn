@@ -4,3289 +4,3759 @@
     "ru": "цена",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "cena"
   },
   {
     "sr": "jeftino",
     "ru": "дёшево",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "jeftino"
   },
   {
     "sr": "skupo",
     "ru": "дорого",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "skupo"
   },
   {
     "sr": "popust",
     "ru": "скидка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "popust"
   },
   {
     "sr": "kasa",
     "ru": "касса",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kasa"
   },
   {
     "sr": "račun",
     "ru": "чек",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "račun"
   },
   {
     "sr": "kupac",
     "ru": "покупатель",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kupac"
   },
   {
     "sr": "prodavač",
     "ru": "продавец",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "prodavač"
   },
   {
     "sr": "korpa",
     "ru": "корзина",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "korpa"
   },
   {
     "sr": "kolica",
     "ru": "тележка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kolica"
   },
   {
     "sr": "polica",
     "ru": "полка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "polica"
   },
   {
     "sr": "etiketa",
     "ru": "этикетка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "etiketa"
   },
   {
     "sr": "plaćanje",
     "ru": "оплата",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "plaćanje"
   },
   {
     "sr": "gotovina",
     "ru": "наличные",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "gotovina"
   },
   {
     "sr": "kartica",
     "ru": "карта",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kartica"
   },
   {
     "sr": "kreditna kartica",
     "ru": "кредитная карта",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kreditna kartica"
   },
   {
     "sr": "novčanik",
     "ru": "кошелёк",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "novčanik"
   },
   {
     "sr": "kusur",
     "ru": "сдача",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kusur"
   },
   {
     "sr": "kupon",
     "ru": "купон",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kupon"
   },
   {
     "sr": "akcija",
     "ru": "акция",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "akcija"
   },
   {
     "sr": "rasprodaja",
     "ru": "распродажа",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "rasprodaja"
   },
   {
     "sr": "sniženje",
     "ru": "уценка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "sniženje"
   },
   {
     "sr": "probati",
     "ru": "примерить",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "probati"
   },
   {
     "sr": "odabrati",
     "ru": "выбрать",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "odabrati"
   },
   {
     "sr": "veličina",
     "ru": "размер",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "veličina"
   },
   {
     "sr": "materijal",
     "ru": "материал",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "materijal"
   },
   {
     "sr": "kvalitet",
     "ru": "качество",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kvalitet"
   },
   {
     "sr": "garancija",
     "ru": "гарантия",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "garancija"
   },
   {
     "sr": "reklamacija",
     "ru": "рекламация",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "reklamacija"
   },
   {
     "sr": "povrat",
     "ru": "возврат",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "povrat"
   },
   {
     "sr": "zamena",
     "ru": "обмен",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "zamena"
   },
   {
     "sr": "pakovanje",
     "ru": "упаковка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "pakovanje"
   },
   {
     "sr": "mesara",
     "ru": "мясная лавка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "mesara"
   },
   {
     "sr": "pekara",
     "ru": "пекарня",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "pekara"
   },
   {
     "sr": "radnja",
     "ru": "магазин",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "radnja"
   },
   {
     "sr": "supermarket",
     "ru": "супермаркет",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "supermarket"
   },
   {
     "sr": "prodaja",
     "ru": "продажа",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "prodaja"
   },
   {
     "sr": "kupovina",
     "ru": "покупка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kupovina"
   },
   {
     "sr": "koliko košta",
     "ru": "сколько стоит",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "koliko košta"
   },
   {
     "sr": "puna cena",
     "ru": "полная цена",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "puna cena"
   },
   {
     "sr": "na licu mesta",
     "ru": "на месте",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "na licu mesta"
   },
   {
     "sr": "poklon",
     "ru": "подарок",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "poklon"
   },
   {
     "sr": "ambalaža",
     "ru": "тара",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "ambalaža"
   },
   {
     "sr": "težina",
     "ru": "вес",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "težina"
   },
   {
     "sr": "mera",
     "ru": "мера",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "mera"
   },
   {
     "sr": "litra",
     "ru": "литр",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "litra"
   },
   {
     "sr": "kilogram",
     "ru": "килограмм",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kilogram"
   },
   {
     "sr": "komad",
     "ru": "штука",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "komad"
   },
   {
     "sr": "paket",
     "ru": "пакет",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "paket"
   },
   {
     "sr": "flaša",
     "ru": "бутылка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "flaša"
   },
   {
     "sr": "kesa",
     "ru": "пакет",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kesa"
   },
   {
     "sr": "fiskalni račun",
     "ru": "фискальный чек",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "fiskalni račun"
   },
   {
     "sr": "porez",
     "ru": "налог",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "porez"
   },
   {
     "sr": "cenovnik",
     "ru": "прайс-лист",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "cenovnik"
   },
   {
     "sr": "ponuda",
     "ru": "предложение",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "ponuda"
   },
   {
     "sr": "potražnja",
     "ru": "спрос",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "potražnja"
   },
   {
     "sr": "zaliha",
     "ru": "запас",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "zaliha"
   },
   {
     "sr": "nema na stanju",
     "ru": "нет в наличии",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "nema na stanju"
   },
   {
     "sr": "na stanju",
     "ru": "в наличии",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "na stanju"
   },
   {
     "sr": "naručiti",
     "ru": "заказать",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "naručiti"
   },
   {
     "sr": "preuzeti",
     "ru": "забрать",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "preuzeti"
   },
   {
     "sr": "dostava",
     "ru": "доставка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "dostava"
   },
   {
     "sr": "kurir",
     "ru": "курьер",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "kurir"
   },
   {
     "sr": "online kupovina",
     "ru": "онлайн-покупка",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "online kupovina"
   },
   {
     "sr": "plaćati",
     "ru": "платить",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "plaćati"
   },
   {
     "sr": "zadužiti se",
     "ru": "задолжаться",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "zadužiti se"
   },
   {
     "sr": "otplatiti",
     "ru": "расплатиться",
     "tags": [
       "shop"
-    ]
+    ],
+    "sr_lat": "otplatiti"
   },
   {
     "sr": "autobusna stanica",
     "ru": "автобусная станция",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "autobusna stanica"
   },
   {
     "sr": "autobuska karta",
     "ru": "автобусный билет",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "autobuska karta"
   },
   {
     "sr": "vozna karta",
     "ru": "железнодорожный билет",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "vozna karta"
   },
   {
     "sr": "avionska karta",
     "ru": "авиабилет",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "avionska karta"
   },
   {
     "sr": "vozač",
     "ru": "водитель",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "vozač"
   },
   {
     "sr": "putnik",
     "ru": "пассажир",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "putnik"
   },
   {
     "sr": "putovanje",
     "ru": "путешествие",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "putovanje"
   },
   {
     "sr": "polazak",
     "ru": "отправление",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "polazak"
   },
   {
     "sr": "dolazak",
     "ru": "прибытие",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "dolazak"
   },
   {
     "sr": "kašnjenje",
     "ru": "опоздание",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "kašnjenje"
   },
   {
     "sr": "red vožnje",
     "ru": "расписание",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "red vožnje"
   },
   {
     "sr": "peron",
     "ru": "платформа",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "peron"
   },
   {
     "sr": "pruga",
     "ru": "рельсы",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "pruga"
   },
   {
     "sr": "vagon",
     "ru": "вагон",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "vagon"
   },
   {
     "sr": "sedište",
     "ru": "место",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "sedište"
   },
   {
     "sr": "rezervacija",
     "ru": "бронирование",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "rezervacija"
   },
   {
     "sr": "taksi",
     "ru": "такси",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "taksi"
   },
   {
     "sr": "metro",
     "ru": "метро",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "metro"
   },
   {
     "sr": "tramvaj",
     "ru": "трамвай",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "tramvaj"
   },
   {
     "sr": "bicikl",
     "ru": "велосипед",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "bicikl"
   },
   {
     "sr": "motor",
     "ru": "мотоцикл",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "motor"
   },
   {
     "sr": "kamion",
     "ru": "грузовик",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "kamion"
   },
   {
     "sr": "benzinska pumpa",
     "ru": "заправка",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "benzinska pumpa"
   },
   {
     "sr": "gorivo",
     "ru": "топливо",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "gorivo"
   },
   {
     "sr": "benzin",
     "ru": "бензин",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "benzin"
   },
   {
     "sr": "dizel",
     "ru": "дизель",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "dizel"
   },
   {
     "sr": "parking",
     "ru": "парковка",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "parking"
   },
   {
     "sr": "saobraćaj",
     "ru": "движение",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "saobraćaj"
   },
   {
     "sr": "zastoj",
     "ru": "пробка",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "zastoj"
   },
   {
     "sr": "signal",
     "ru": "сигнал",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "signal"
   },
   {
     "sr": "semafor",
     "ru": "светофор",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "semafor"
   },
   {
     "sr": "prelaz",
     "ru": "переход",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "prelaz"
   },
   {
     "sr": "raskrsnica",
     "ru": "перекрёсток",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "raskrsnica"
   },
   {
     "sr": "autoput",
     "ru": "автомагистраль",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "autoput"
   },
   {
     "sr": "most",
     "ru": "мост",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "most"
   },
   {
     "sr": "tunel",
     "ru": "тоннель",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "tunel"
   },
   {
     "sr": "barka",
     "ru": "лодка",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "barka"
   },
   {
     "sr": "brod",
     "ru": "корабль",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "brod"
   },
   {
     "sr": "luka",
     "ru": "порт",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "luka"
   },
   {
     "sr": "aerodromska zgrada",
     "ru": "аэровокзал",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "aerodromska zgrada"
   },
   {
     "sr": "carina",
     "ru": "таможня",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "carina"
   },
   {
     "sr": "pasoš",
     "ru": "паспорт",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "pasoš"
   },
   {
     "sr": "viza",
     "ru": "виза",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "viza"
   },
   {
     "sr": "granični prelaz",
     "ru": "пограничный переход",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "granični prelaz"
   },
   {
     "sr": "prtljag",
     "ru": "багаж",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "prtljag"
   },
   {
     "sr": "kofer",
     "ru": "чемодан",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "kofer"
   },
   {
     "sr": "ranac",
     "ru": "рюкзак",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "ranac"
   },
   {
     "sr": "ukrcati se",
     "ru": "сесть (в транспорт)",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "ukrcati se"
   },
   {
     "sr": "iskrcati se",
     "ru": "выйти (из транспорта)",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "iskrcati se"
   },
   {
     "sr": "presedanje",
     "ru": "пересадка",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "presedanje"
   },
   {
     "sr": "direktan let",
     "ru": "прямой рейс",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "direktan let"
   },
   {
     "sr": "obustava",
     "ru": "остановка",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "obustava"
   },
   {
     "sr": "karta bez vraćanja",
     "ru": "билет в один конец",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "karta bez vraćanja"
   },
   {
     "sr": "povratna karta",
     "ru": "билет туда-обратно",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "povratna karta"
   },
   {
     "sr": "brzina",
     "ru": "скорость",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "brzina"
   },
   {
     "sr": "kazna",
     "ru": "штраф",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "kazna"
   },
   {
     "sr": "policajac",
     "ru": "полицейский",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "policajac"
   },
   {
     "sr": "kasko",
     "ru": "каско",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "kasko"
   },
   {
     "sr": "osiguranje",
     "ru": "страховка",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "osiguranje"
   },
   {
     "sr": "registracija",
     "ru": "регистрация",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "registracija"
   },
   {
     "sr": "servis",
     "ru": "сервис",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "servis"
   },
   {
     "sr": "guma",
     "ru": "шина",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "guma"
   },
   {
     "sr": "volan",
     "ru": "руль",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "volan"
   },
   {
     "sr": "kočnica",
     "ru": "тормоз",
     "tags": [
       "transport"
-    ]
+    ],
+    "sr_lat": "kočnica"
   },
   {
     "sr": "kiša",
     "ru": "дождь",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "kiša"
   },
   {
     "sr": "sneg",
     "ru": "снег",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "sneg"
   },
   {
     "sr": "vetar",
     "ru": "ветер",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "vetar"
   },
   {
     "sr": "oblak",
     "ru": "облако",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "oblak"
   },
   {
     "sr": "sunčano",
     "ru": "солнечно",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "sunčano"
   },
   {
     "sr": "oblačno",
     "ru": "облачно",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "oblačno"
   },
   {
     "sr": "magla",
     "ru": "туман",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "magla"
   },
   {
     "sr": "oluja",
     "ru": "буря",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "oluja"
   },
   {
     "sr": "grmljavina",
     "ru": "гром",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "grmljavina"
   },
   {
     "sr": "munja",
     "ru": "молния",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "munja"
   },
   {
     "sr": "temperatura",
     "ru": "температура",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "temperatura"
   },
   {
     "sr": "vlažnost",
     "ru": "влажность",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "vlažnost"
   },
   {
     "sr": "pritisak",
     "ru": "давление",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "pritisak"
   },
   {
     "sr": "prognoza",
     "ru": "прогноз",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "prognoza"
   },
   {
     "sr": "padavine",
     "ru": "осадки",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "padavine"
   },
   {
     "sr": "rosa",
     "ru": "роса",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "rosa"
   },
   {
     "sr": "mraz",
     "ru": "мороз",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "mraz"
   },
   {
     "sr": "led",
     "ru": "лёд",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "led"
   },
   {
     "sr": "snegopad",
     "ru": "снегопад",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "snegopad"
   },
   {
     "sr": "pljusak",
     "ru": "ливень",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "pljusak"
   },
   {
     "sr": "kisa",
     "ru": "дождь",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "kisa"
   },
   {
     "sr": "vetrovito",
     "ru": "ветрено",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "vetrovito"
   },
   {
     "sr": "hladno",
     "ru": "холодно",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "hladno"
   },
   {
     "sr": "toplo",
     "ru": "тепло",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "toplo"
   },
   {
     "sr": "vruće",
     "ru": "жарко",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "vruće"
   },
   {
     "sr": "promenljivo",
     "ru": "переменчиво",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "promenljivo"
   },
   {
     "sr": "vetar sa severa",
     "ru": "северный ветер",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "vetar sa severa"
   },
   {
     "sr": "jug",
     "ru": "юг",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "jug"
   },
   {
     "sr": "sever",
     "ru": "север",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "sever"
   },
   {
     "sr": "istok",
     "ru": "восток",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "istok"
   },
   {
     "sr": "zapad",
     "ru": "запад",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "zapad"
   },
   {
     "sr": "sunčev zrak",
     "ru": "солнечный луч",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "sunčev zrak"
   },
   {
     "sr": "senka",
     "ru": "тень",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "senka"
   },
   {
     "sr": "duga",
     "ru": "радуга",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "duga"
   },
   {
     "sr": "suvo",
     "ru": "сухо",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "suvo"
   },
   {
     "sr": "mokro",
     "ru": "мокро",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "mokro"
   },
   {
     "sr": "sparno",
     "ru": "душно",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "sparno"
   },
   {
     "sr": "osvežavajuće",
     "ru": "освежающе",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "osvežavajuće"
   },
   {
     "sr": "zahlađenje",
     "ru": "похолодание",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "zahlađenje"
   },
   {
     "sr": "zagrevanje",
     "ru": "потепление",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "zagrevanje"
   },
   {
     "sr": "klimatske promene",
     "ru": "изменение климата",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "klimatske promene"
   },
   {
     "sr": "suša",
     "ru": "засуха",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "suša"
   },
   {
     "sr": "poplava",
     "ru": "наводнение",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "poplava"
   },
   {
     "sr": "grad",
     "ru": "град",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "grad"
   },
   {
     "sr": "tornado",
     "ru": "торнадо",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "tornado"
   },
   {
     "sr": "uragan",
     "ru": "ураган",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "uragan"
   },
   {
     "sr": "zemljotres",
     "ru": "землетрясение",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "zemljotres"
   },
   {
     "sr": "vremenska prognoza",
     "ru": "прогноз погоды",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "vremenska prognoza"
   },
   {
     "sr": "meteorolog",
     "ru": "метеоролог",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "meteorolog"
   },
   {
     "sr": "stepen",
     "ru": "градус",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "stepen"
   },
   {
     "sr": "ispod nule",
     "ru": "ниже нуля",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "ispod nule"
   },
   {
     "sr": "na nuli",
     "ru": "на нуле",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "na nuli"
   },
   {
     "sr": "prolom oblaka",
     "ru": "просветление",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "prolom oblaka"
   },
   {
     "sr": "zamrzavanje",
     "ru": "замерзание",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "zamrzavanje"
   },
   {
     "sr": "odledjivanje",
     "ru": "оттепель",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "odledjivanje"
   },
   {
     "sr": "povetarac",
     "ru": "бриз",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "povetarac"
   },
   {
     "sr": "jak vetar",
     "ru": "сильный ветер",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "jak vetar"
   },
   {
     "sr": "tiho",
     "ru": "тихо",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "tiho"
   },
   {
     "sr": "nevreme",
     "ru": "непогода",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "nevreme"
   },
   {
     "sr": "lep dan",
     "ru": "хорошая погода",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "lep dan"
   },
   {
     "sr": "loše vreme",
     "ru": "плохая погода",
     "tags": [
       "weather"
-    ]
+    ],
+    "sr_lat": "loše vreme"
   },
   {
     "sr": "frižider",
     "ru": "холодильник",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "frižider"
   },
   {
     "sr": "šporet",
     "ru": "плита",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "šporet"
   },
   {
     "sr": "rerna",
     "ru": "духовка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "rerna"
   },
   {
     "sr": "mašina za veš",
     "ru": "стиральная машина",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "mašina za veš"
   },
   {
     "sr": "usisivač",
     "ru": "пылесос",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "usisivač"
   },
   {
     "sr": "mikrotalasna",
     "ru": "микроволновка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "mikrotalasna"
   },
   {
     "sr": "šolja",
     "ru": "чашка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "šolja"
   },
   {
     "sr": "tanjir",
     "ru": "тарелка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "tanjir"
   },
   {
     "sr": "viljuška",
     "ru": "вилка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "viljuška"
   },
   {
     "sr": "nož",
     "ru": "нож",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "nož"
   },
   {
     "sr": "kašika",
     "ru": "ложка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "kašika"
   },
   {
     "sr": "čaša",
     "ru": "стакан",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "čaša"
   },
   {
     "sr": "tepih",
     "ru": "ковёр",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "tepih"
   },
   {
     "sr": "zavesa",
     "ru": "занавеска",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "zavesa"
   },
   {
     "sr": "jastuk",
     "ru": "подушка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "jastuk"
   },
   {
     "sr": "ćebe",
     "ru": "одеяло",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "ćebe"
   },
   {
     "sr": "peškir",
     "ru": "полотенце",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "peškir"
   },
   {
     "sr": "ormar",
     "ru": "шкаф",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "ormar"
   },
   {
     "sr": "fioke",
     "ru": "ящики",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "fioke"
   },
   {
     "sr": "ogledalo",
     "ru": "зеркало",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "ogledalo"
   },
   {
     "sr": "lamпа",
     "ru": "лампа",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "lampa"
   },
   {
     "sr": "sijalica",
     "ru": "лампочка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "sijalica"
   },
   {
     "sr": "prekidač",
     "ru": "выключатель",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "prekidač"
   },
   {
     "sr": "utičnica",
     "ru": "розетка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "utičnica"
   },
   {
     "sr": "kabl",
     "ru": "кабель",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "kabl"
   },
   {
     "sr": "baterija",
     "ru": "батарейка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "baterija"
   },
   {
     "sr": "kanta za smeće",
     "ru": "мусорное ведро",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "kanta za smeće"
   },
   {
     "sr": "deterdžent",
     "ru": "моющее средство",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "deterdžent"
   },
   {
     "sr": "sapun",
     "ru": "мыло",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "sapun"
   },
   {
     "sr": "šampon",
     "ru": "шампунь",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "šampon"
   },
   {
     "sr": "četka za zube",
     "ru": "зубная щётка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "četka za zube"
   },
   {
     "sr": "pasta za zube",
     "ru": "зубная паста",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "pasta za zube"
   },
   {
     "sr": "češalj",
     "ru": "расчёска",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "češalj"
   },
   {
     "sr": "brijač",
     "ru": "бритва",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "brijač"
   },
   {
     "sr": "garnitura",
     "ru": "гарнитур",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "garnitura"
   },
   {
     "sr": "fotelja",
     "ru": "кресло",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "fotelja"
   },
   {
     "sr": "kauč",
     "ru": "диван",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "kauč"
   },
   {
     "sr": "stočić",
     "ru": "столик",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "stočić"
   },
   {
     "sr": "komoda",
     "ru": "комод",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "komoda"
   },
   {
     "sr": "noćni stočić",
     "ru": "тумбочка",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "noćni stočić"
   },
   {
     "sr": "balkon",
     "ru": "балкон",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "balkon"
   },
   {
     "sr": "terasa",
     "ru": "терраса",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "terasa"
   },
   {
     "sr": "dvorište",
     "ru": "двор",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "dvorište"
   },
   {
     "sr": "bašta",
     "ru": "сад",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "bašta"
   },
   {
     "sr": "ograda",
     "ru": "забор",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "ograda"
   },
   {
     "sr": "kapija",
     "ru": "ворота",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "kapija"
   },
   {
     "sr": "stepenice",
     "ru": "лестница",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "stepenice"
   },
   {
     "sr": "lift",
     "ru": "лифт",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "lift"
   },
   {
     "sr": "podrum",
     "ru": "подвал",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "podrum"
   },
   {
     "sr": "tavan",
     "ru": "чердак",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "tavan"
   },
   {
     "sr": "krov",
     "ru": "крыша",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "krov"
   },
   {
     "sr": "dimnjak",
     "ru": "труба",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "dimnjak"
   },
   {
     "sr": "cevovod",
     "ru": "трубопровод",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "cevovod"
   },
   {
     "sr": "grejanje",
     "ru": "отопление",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "grejanje"
   },
   {
     "sr": "klima uređaj",
     "ru": "кондиционер",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "klima uređaj"
   },
   {
     "sr": "ventilator",
     "ru": "вентилятор",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "ventilator"
   },
   {
     "sr": "radijator",
     "ru": "радиатор",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "radijator"
   },
   {
     "sr": "termostat",
     "ru": "термостат",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "termostat"
   },
   {
     "sr": "čistiti",
     "ru": "убирать",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "čistiti"
   },
   {
     "sr": "prati",
     "ru": "стирать",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "prati"
   },
   {
     "sr": "pegati",
     "ru": "гладить",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "pegati"
   },
   {
     "sr": "srediti",
     "ru": "прибрать",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "srediti"
   },
   {
     "sr": "oprati sudove",
     "ru": "мыть посуду",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "oprati sudove"
   },
   {
     "sr": "usisavati",
     "ru": "пылесосить",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "usisavati"
   },
   {
     "sr": "popraviti",
     "ru": "починить",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "popraviti"
   },
   {
     "sr": "pokvariti se",
     "ru": "сломаться",
     "tags": [
       "home"
-    ]
+    ],
+    "sr_lat": "pokvariti se"
   },
   {
     "sr": "posao",
     "ru": "работа",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "posao"
   },
   {
     "sr": "kancelarija",
     "ru": "офис",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "kancelarija"
   },
   {
     "sr": "plata",
     "ru": "зарплата",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "plata"
   },
   {
     "sr": "šef",
     "ru": "начальник",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "šef"
   },
   {
     "sr": "kolega",
     "ru": "коллега",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "kolega"
   },
   {
     "sr": "zaposleni",
     "ru": "сотрудник",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "zaposleni"
   },
   {
     "sr": "firma",
     "ru": "фирма",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "firma"
   },
   {
     "sr": "kompanija",
     "ru": "компания",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "kompanija"
   },
   {
     "sr": "ugovor",
     "ru": "договор",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "ugovor"
   },
   {
     "sr": "sastanak",
     "ru": "совещание",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "sastanak"
   },
   {
     "sr": "rok",
     "ru": "срок",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "rok"
   },
   {
     "sr": "zadatak",
     "ru": "задание",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "zadatak"
   },
   {
     "sr": "projekat",
     "ru": "проект",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "projekat"
   },
   {
     "sr": "tim",
     "ru": "команда",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "tim"
   },
   {
     "sr": "rukovodilac",
     "ru": "руководитель",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "rukovodilac"
   },
   {
     "sr": "direktor",
     "ru": "директор",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "direktor"
   },
   {
     "sr": "sekretarica",
     "ru": "секретарша",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "sekretarica"
   },
   {
     "sr": "računovođa",
     "ru": "бухгалтер",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "računovođa"
   },
   {
     "sr": "advokat",
     "ru": "адвокат",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "advokat"
   },
   {
     "sr": "inženjer",
     "ru": "инженер",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "inženjer"
   },
   {
     "sr": "lekar",
     "ru": "врач",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "lekar"
   },
   {
     "sr": "nastavnik",
     "ru": "учитель",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "nastavnik"
   },
   {
     "sr": "kuvar",
     "ru": "повар",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "kuvar"
   },
   {
     "sr": "prodavac",
     "ru": "продавец",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "prodavac"
   },
   {
     "sr": "radno vreme",
     "ru": "рабочее время",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "radno vreme"
   },
   {
     "sr": "smena",
     "ru": "смена",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "smena"
   },
   {
     "sr": "prekovremeni rad",
     "ru": "сверхурочная работа",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "prekovremeni rad"
   },
   {
     "sr": "odmor",
     "ru": "отпуск",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "odmor"
   },
   {
     "sr": "bolovanje",
     "ru": "больничный",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "bolovanje"
   },
   {
     "sr": "otkaz",
     "ru": "увольнение",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "otkaz"
   },
   {
     "sr": "zaposliti",
     "ru": "нанять",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "zaposliti"
   },
   {
     "sr": "intervju",
     "ru": "собеседование",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "intervju"
   },
   {
     "sr": "biografija",
     "ru": "резюме",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "biografija"
   },
   {
     "sr": "iskustvo",
     "ru": "опыт",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "iskustvo"
   },
   {
     "sr": "veština",
     "ru": "навык",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "veština"
   },
   {
     "sr": "obuka",
     "ru": "обучение",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "obuka"
   },
   {
     "sr": "kurs",
     "ru": "курс",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "kurs"
   },
   {
     "sr": "diploma",
     "ru": "диплом",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "diploma"
   },
   {
     "sr": "sertifikat",
     "ru": "сертификат",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "sertifikat"
   },
   {
     "sr": "prezentacija",
     "ru": "презентация",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "prezentacija"
   },
   {
     "sr": "izveštaj",
     "ru": "отчёт",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "izveštaj"
   },
   {
     "sr": "email",
     "ru": "электронная почта",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "email"
   },
   {
     "sr": "faks",
     "ru": "факс",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "faks"
   },
   {
     "sr": "kopir aparat",
     "ru": "копировальный аппарат",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "kopir aparat"
   },
   {
     "sr": "štampač",
     "ru": "принтер",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "štampač"
   },
   {
     "sr": "fascikla",
     "ru": "папка",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "fascikla"
   },
   {
     "sr": "hemijska olovka",
     "ru": "ручка",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "hemijska olovka"
   },
   {
     "sr": "marker",
     "ru": "маркер",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "marker"
   },
   {
     "sr": "beležnica",
     "ru": "блокнот",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "beležnica"
   },
   {
     "sr": "kalendar",
     "ru": "календар",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "kalendar"
   },
   {
     "sr": "raspored",
     "ru": "расписание",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "raspored"
   },
   {
     "sr": "pauza",
     "ru": "перерыв",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "pauza"
   },
   {
     "sr": "ručak u firmi",
     "ru": "обед в офисе",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "ručak u firmi"
   },
   {
     "sr": "kolegijalnost",
     "ru": "коллегиальность",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "kolegijalnost"
   },
   {
     "sr": "odgovornost",
     "ru": "ответственность",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "odgovornost"
   },
   {
     "sr": "disciplina",
     "ru": "дисциплина",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "disciplina"
   },
   {
     "sr": "motivacija",
     "ru": "мотивация",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "motivacija"
   },
   {
     "sr": "uspeh",
     "ru": "успех",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "uspeh"
   },
   {
     "sr": "neuspeh",
     "ru": "неудача",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "neuspeh"
   },
   {
     "sr": "promocija",
     "ru": "повышение",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "promocija"
   },
   {
     "sr": "sati",
     "ru": "часы работы",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "sati"
   },
   {
     "sr": "minimalna plata",
     "ru": "минимальная зарплата",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "minimalna plata"
   },
   {
     "sr": "bonus",
     "ru": "бонус",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "bonus"
   },
   {
     "sr": "penzija",
     "ru": "пенсия",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "penzija"
   },
   {
     "sr": "radni dan",
     "ru": "рабочий день",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "radni dan"
   },
   {
     "sr": "vikend",
     "ru": "выходные",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "vikend"
   },
   {
     "sr": "praznik",
     "ru": "праздник",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "praznik"
   },
   {
     "sr": "sindikat",
     "ru": "профсоюз",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "sindikat"
   },
   {
     "sr": "štrajk",
     "ru": "забастовка",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "štrajk"
   },
   {
     "sr": "ugovor o radu",
     "ru": "трудовой договор",
     "tags": [
       "work"
-    ]
+    ],
+    "sr_lat": "ugovor o radu"
   },
   {
     "sr": "zgodan",
     "ru": "красивый (м.)",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "zgodan"
   },
   {
     "sr": "zgodna",
     "ru": "красивая",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "zgodna"
   },
   {
     "sr": "simpatičan",
     "ru": "симпатичный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "simpatičan"
   },
   {
     "sr": "ljubazan",
     "ru": "вежливый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "ljubazan"
   },
   {
     "sr": "ne ljubazan",
     "ru": "невежливый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "ne ljubazan"
   },
   {
     "sr": "strpljiv",
     "ru": "терпеливый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "strpljiv"
   },
   {
     "sr": "nestrpljiv",
     "ru": "нетерпеливый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "nestrpljiv"
   },
   {
     "sr": "pametan",
     "ru": "умный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "pametan"
   },
   {
     "sr": "glup",
     "ru": "глупый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "glup"
   },
   {
     "sr": "veseo",
     "ru": "весёлый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "veseo"
   },
   {
     "sr": "dosadan",
     "ru": "скучный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "dosadan"
   },
   {
     "sr": "zanimljiv",
     "ru": "интересный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "zanimljiv"
   },
   {
     "sr": "dosadno",
     "ru": "скучно",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "dosadno"
   },
   {
     "sr": "oprezan",
     "ru": "осторожный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "oprezan"
   },
   {
     "sr": "neoprezan",
     "ru": "неосторожный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "neoprezan"
   },
   {
     "sr": "hrabar",
     "ru": "смелый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "hrabar"
   },
   {
     "sr": "plašljiv",
     "ru": "пугливый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "plašljiv"
   },
   {
     "sr": "pošten",
     "ru": "честный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "pošten"
   },
   {
     "sr": "ne pošten",
     "ru": "нечестный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "ne pošten"
   },
   {
     "sr": "ljubomoran",
     "ru": "ревнивый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "ljubomoran"
   },
   {
     "sr": "ponosan",
     "ru": "гордый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "ponosan"
   },
   {
     "sr": "skroman",
     "ru": "скромный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "skroman"
   },
   {
     "sr": "radosan",
     "ru": "радостный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "radosan"
   },
   {
     "sr": "uznemiren",
     "ru": "встревоженный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "uznemiren"
   },
   {
     "sr": "mirno",
     "ru": "спокойно",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "mirno"
   },
   {
     "sr": "uzbuđen",
     "ru": "взволнованный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "uzbuđen"
   },
   {
     "sr": "fina",
     "ru": "тонкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "fina"
   },
   {
     "sr": "grub",
     "ru": "грубый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "grub"
   },
   {
     "sr": "mekan",
     "ru": "мягкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "mekan"
   },
   {
     "sr": "tvrd",
     "ru": "твёрдый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "tvrd"
   },
   {
     "sr": "gladak",
     "ru": "гладкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "gladak"
   },
   {
     "sr": "hrapav",
     "ru": "шершавый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "hrapav"
   },
   {
     "sr": "širok",
     "ru": "широкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "širok"
   },
   {
     "sr": "uzak",
     "ru": "узкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "uzak"
   },
   {
     "sr": "dubok",
     "ru": "глубокий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "dubok"
   },
   {
     "sr": "plitak",
     "ru": "мелкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "plitak"
   },
   {
     "sr": "visok",
     "ru": "высокий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "visok"
   },
   {
     "sr": "nizak",
     "ru": "низкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "nizak"
   },
   {
     "sr": "dugačak",
     "ru": "длинный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "dugačak"
   },
   {
     "sr": "kratak",
     "ru": "короткий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "kratak"
   },
   {
     "sr": "debeo",
     "ru": "толстый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "debeo"
   },
   {
     "sr": "mršav",
     "ru": "худой",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "mršav"
   },
   {
     "sr": "jak",
     "ru": "сильный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "jak"
   },
   {
     "sr": "slab",
     "ru": "слабый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "slab"
   },
   {
     "sr": "bogat",
     "ru": "богатый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "bogat"
   },
   {
     "sr": "siromašan",
     "ru": "бедный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "siromašan"
   },
   {
     "sr": "zdrav",
     "ru": "здоровый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "zdrav"
   },
   {
     "sr": "bolesan",
     "ru": "больной",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "bolesan"
   },
   {
     "sr": "svež",
     "ru": "свежий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "svež"
   },
   {
     "sr": "ustajao",
     "ru": "черствый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "ustajao"
   },
   {
     "sr": "sitan",
     "ru": "мелкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "sitan"
   },
   {
     "sr": "krupan",
     "ru": "крупный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "krupan"
   },
   {
     "sr": "prazan",
     "ru": "пустой",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "prazan"
   },
   {
     "sr": "pun",
     "ru": "полный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "pun"
   },
   {
     "sr": "otvoren",
     "ru": "открытый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "otvoren"
   },
   {
     "sr": "zatvoren",
     "ru": "закрытый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "zatvoren"
   },
   {
     "sr": "spreman",
     "ru": "готовый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "spreman"
   },
   {
     "sr": "nespreman",
     "ru": "неготовый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "nespreman"
   },
   {
     "sr": "siguran",
     "ru": "уверенный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "siguran"
   },
   {
     "sr": "nesiguran",
     "ru": "неуверенный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "nesiguran"
   },
   {
     "sr": "redovan",
     "ru": "регулярный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "redovan"
   },
   {
     "sr": "nepravilan",
     "ru": "нерегулярный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "nepravilan"
   },
   {
     "sr": "pravi",
     "ru": "правильный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "pravi"
   },
   {
     "sr": "pogrešan",
     "ru": "неправильный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "pogrešan"
   },
   {
     "sr": "sličan",
     "ru": "похожий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "sličan"
   },
   {
     "sr": "različit",
     "ru": "разный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "različit"
   },
   {
     "sr": "istinit",
     "ru": "правдивый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "istinit"
   },
   {
     "sr": "lažan",
     "ru": "ложный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "lažan"
   },
   {
     "sr": "potreban",
     "ru": "нужный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "potreban"
   },
   {
     "sr": "nepotreban",
     "ru": "ненужный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "nepotreban"
   },
   {
     "sr": "korisno",
     "ru": "полезно",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "korisno"
   },
   {
     "sr": "škodljivo",
     "ru": "вредно",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "škodljivo"
   },
   {
     "sr": "pre podne",
     "ru": "до полудня",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "pre podne"
   },
   {
     "sr": "posle podne",
     "ru": "после полудня",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "posle podne"
   },
   {
     "sr": "jutros",
     "ru": "утром",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "jutros"
   },
   {
     "sr": "uveče",
     "ru": "вечером",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "uveče"
   },
   {
     "sr": "noću",
     "ru": "ночью",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "noću"
   },
   {
     "sr": "podne",
     "ru": "полдень",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "podne"
   },
   {
     "sr": "ponoć",
     "ru": "полночь",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "ponoć"
   },
   {
     "sr": "zora",
     "ru": "рассвет",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "zora"
   },
   {
     "sr": "sumrak",
     "ru": "сумерки",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "sumrak"
   },
   {
     "sr": "svakog dana",
     "ru": "каждый день",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "svakog dana"
   },
   {
     "sr": "ponekad",
     "ru": "иногда",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "ponekad"
   },
   {
     "sr": "uvek",
     "ru": "всегда",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "uvek"
   },
   {
     "sr": "nikad",
     "ru": "никогда",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "nikad"
   },
   {
     "sr": "često",
     "ru": "часто",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "često"
   },
   {
     "sr": "retko",
     "ru": "редко",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "retko"
   },
   {
     "sr": "uskoro",
     "ru": "скоро",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "uskoro"
   },
   {
     "sr": "davno",
     "ru": "давно",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "davno"
   },
   {
     "sr": "nedavno",
     "ru": "недавно",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "nedavno"
   },
   {
     "sr": "trenutno",
     "ru": "в настоящий момент",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "trenutno"
   },
   {
     "sr": "odmah",
     "ru": "сразу",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "odmah"
   },
   {
     "sr": "kasnije",
     "ru": "позже",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "kasnije"
   },
   {
     "sr": "prethodno",
     "ru": "ранее",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "prethodno"
   },
   {
     "sr": "sledeći",
     "ru": "следующий",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "sledeći"
   },
   {
     "sr": "prošli",
     "ru": "прошлый",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "prošli"
   },
   {
     "sr": "ovogodišnji",
     "ru": "этого года",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "ovogodišnji"
   },
   {
     "sr": "prošlogodišnji",
     "ru": "прошлогодний",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "prošlogodišnji"
   },
   {
     "sr": "nedeljni",
     "ru": "недельный",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "nedeljni"
   },
   {
     "sr": "mesečni",
     "ru": "месячный",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "mesečni"
   },
   {
     "sr": "godišnji",
     "ru": "годовой",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "godišnji"
   },
   {
     "sr": "sat vremena",
     "ru": "час времени",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "sat vremena"
   },
   {
     "sr": "pola sata",
     "ru": "полчаса",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "pola sata"
   },
   {
     "sr": "četvrt sata",
     "ru": "четверть часа",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "četvrt sata"
   },
   {
     "sr": "kvart",
     "ru": "квартал",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "kvart"
   },
   {
     "sr": "polugodište",
     "ru": "полугодие",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "polugodište"
   },
   {
     "sr": "dekada",
     "ru": "десятилетие",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "dekada"
   },
   {
     "sr": "vekovima",
     "ru": "веками",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "vekovima"
   },
   {
     "sr": "u međuvremenu",
     "ru": "тем временем",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "u međuvremenu"
   },
   {
     "sr": "istovremeno",
     "ru": "одновременно",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "istovremeno"
   },
   {
     "sr": "redom",
     "ru": "по порядку",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "redom"
   },
   {
     "sr": "na vreme",
     "ru": "вовремя",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "na vreme"
   },
   {
     "sr": "kasno",
     "ru": "поздно",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "kasno"
   },
   {
     "sr": "rano",
     "ru": "рано",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "rano"
   },
   {
     "sr": "pre vremena",
     "ru": "раньше времени",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "pre vremena"
   },
   {
     "sr": "na kraju",
     "ru": "в конце концов",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "na kraju"
   },
   {
     "sr": "na početku",
     "ru": "в начале",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "na početku"
   },
   {
     "sr": "u sredini",
     "ru": "в середине",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "u sredini"
   },
   {
     "sr": "do kraja",
     "ru": "до конца",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "do kraja"
   },
   {
     "sr": "od početka",
     "ru": "с начала",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "od početka"
   },
   {
     "sr": "tokom",
     "ru": "в течение",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "tokom"
   },
   {
     "sr": "za vreme",
     "ru": "во время",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "za vreme"
   },
   {
     "sr": "pre",
     "ru": "до",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "pre"
   },
   {
     "sr": "posle",
     "ru": "после",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "posle"
   },
   {
     "sr": "za",
     "ru": "через",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "za"
   },
   {
     "sr": "pre nekoliko dana",
     "ru": "несколько дней назад",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "pre nekoliko dana"
   },
   {
     "sr": "za nekoliko dana",
     "ru": "через несколько дней",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "za nekoliko dana"
   },
   {
     "sr": "svake nedelje",
     "ru": "каждую неделю",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "svake nedelje"
   },
   {
     "sr": "svakog meseca",
     "ru": "каждый месяц",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "svakog meseca"
   },
   {
     "sr": "svake godine",
     "ru": "каждый год",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "svake godine"
   },
   {
     "sr": "radnim danom",
     "ru": "в будний день",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "radnim danom"
   },
   {
     "sr": "vikendom",
     "ru": "на выходных",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "vikendom"
   },
   {
     "sr": "praznikom",
     "ru": "в праздник",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "praznikom"
   },
   {
     "sr": "sezona",
     "ru": "сезон",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "sezona"
   },
   {
     "sr": "van sezone",
     "ru": "вне сезона",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "van sezone"
   },
   {
     "sr": "prolećni",
     "ru": "весенний",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "prolećni"
   },
   {
     "sr": "letnji",
     "ru": "летний",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "letnji"
   },
   {
     "sr": "jesenji",
     "ru": "осенний",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "jesenji"
   },
   {
     "sr": "zimski",
     "ru": "зимний",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "zimski"
   },
   {
     "sr": "datum",
     "ru": "дата",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "datum"
   },
   {
     "sr": "termin",
     "ru": "срок/термин",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "termin"
   },
   {
     "sr": "vremenska zona",
     "ru": "часовой пояс",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "vremenska zona"
   }
 ]

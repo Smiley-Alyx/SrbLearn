@@ -9,6 +9,7 @@ from telegram import KeyboardButton, ReplyKeyboardMarkup
 from telegram.ext import ContextTypes, filters
 
 from srblearn.config import LEVELS
+from srblearn.script_prefs import SCRIPT_CYRILLIC, SCRIPT_LABELS, SCRIPT_LATIN
 
 BTN_QUIZ = "📝 Викторина"
 BTN_SETTINGS = "⚙️ Настройки"
@@ -48,6 +49,19 @@ def level_keyboard(prefix: str) -> list[list[tuple[str, str]]]:
     if row:
         rows.append(row)
     return rows
+
+
+def script_keyboard(prefix: str) -> list[list[tuple[str, str]]]:
+    return [
+        [
+            ("🔤 Кириллица", f"{prefix}:{SCRIPT_CYRILLIC}"),
+            ("🔤 Latinica", f"{prefix}:{SCRIPT_LATIN}"),
+        ],
+    ]
+
+
+def script_keyboard_markup(prefix: str):
+    return inline_keyboard(script_keyboard(prefix))
 
 
 def inline_keyboard(buttons: list[list[tuple[str, str]]]):

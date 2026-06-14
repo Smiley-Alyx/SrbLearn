@@ -4,2505 +4,2863 @@
     "ru": "привет",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "zdravo"
   },
   {
     "sr": "добар дан",
     "ru": "добрый день",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "dobar dan"
   },
   {
     "sr": "добро јутро",
     "ru": "доброе утро",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "dobro jutro"
   },
   {
     "sr": "добро вече",
     "ru": "добрый вечер",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "dobro veče"
   },
   {
     "sr": "лаку ноћ",
     "ru": "спокойной ночи",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "laku noć"
   },
   {
     "sr": "довиђења",
     "ru": "до свидания",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "doviđenja"
   },
   {
     "sr": "збогом",
     "ru": "прощай",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "zbogom"
   },
   {
     "sr": "ћао",
     "ru": "пока",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "ćao"
   },
   {
     "sr": "како си",
     "ru": "как дела",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "kako si"
   },
   {
     "sr": "добро сам",
     "ru": "хорошо",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "dobro sam"
   },
   {
     "sr": "хвала",
     "ru": "спасибо",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "hvala"
   },
   {
     "sr": "молим",
     "ru": "пожалуйста",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "molim"
   },
   {
     "sr": "извини",
     "ru": "извини",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "izvini"
   },
   {
     "sr": "опростите",
     "ru": "простите",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "oprostite"
   },
   {
     "sr": "добродошли",
     "ru": "добро пожаловать",
     "tags": [
       "greetings"
-    ]
+    ],
+    "sr_lat": "dobrodošli"
   },
   {
     "sr": "ја",
     "ru": "я",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ja"
   },
   {
     "sr": "ти",
     "ru": "ты",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ti"
   },
   {
     "sr": "он",
     "ru": "он",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "on"
   },
   {
     "sr": "она",
     "ru": "она",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ona"
   },
   {
     "sr": "оно",
     "ru": "оно",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ono"
   },
   {
     "sr": "ми",
     "ru": "мы",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "mi"
   },
   {
     "sr": "ви",
     "ru": "вы",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "vi"
   },
   {
     "sr": "они",
     "ru": "они",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "oni"
   },
   {
     "sr": "овај",
     "ru": "этот",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ovaj"
   },
   {
     "sr": "ова",
     "ru": "эта",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ova"
   },
   {
     "sr": "ово",
     "ru": "это",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ovo"
   },
   {
     "sr": "да",
     "ru": "да",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "da"
   },
   {
     "sr": "не",
     "ru": "нет",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ne"
   },
   {
     "sr": "можда",
     "ru": "может быть",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "možda"
   },
   {
     "sr": "овде",
     "ru": "здесь",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ovde"
   },
   {
     "sr": "тамо",
     "ru": "там",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "tamo"
   },
   {
     "sr": "где",
     "ru": "где",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "gde"
   },
   {
     "sr": "шта",
     "ru": "что",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "šta"
   },
   {
     "sr": "ко",
     "ru": "кто",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ko"
   },
   {
     "sr": "како",
     "ru": "как",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "kako"
   },
   {
     "sr": "зашто",
     "ru": "почему",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "zašto"
   },
   {
     "sr": "колико",
     "ru": "сколько",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "koliko"
   },
   {
     "sr": "и",
     "ru": "и",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "i"
   },
   {
     "sr": "или",
     "ru": "или",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ili"
   },
   {
     "sr": "али",
     "ru": "но",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ali"
   },
   {
     "sr": "јер",
     "ru": "потому что",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "jer"
   },
   {
     "sr": "са",
     "ru": "с",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "sa"
   },
   {
     "sr": "без",
     "ru": "без",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "bez"
   },
   {
     "sr": "у",
     "ru": "в",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "u"
   },
   {
     "sr": "на",
     "ru": "на",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "na"
   },
   {
     "sr": "од",
     "ru": "от",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "od"
   },
   {
     "sr": "до",
     "ru": "до",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "do"
   },
   {
     "sr": "за",
     "ru": "для",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "za"
   },
   {
     "sr": "из",
     "ru": "из",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "iz"
   },
   {
     "sr": "пре",
     "ru": "перед",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "pre"
   },
   {
     "sr": "после",
     "ru": "после",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "posle"
   },
   {
     "sr": "између",
     "ru": "между",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "između"
   },
   {
     "sr": "поред",
     "ru": "рядом",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "pored"
   },
   {
     "sr": "испод",
     "ru": "под",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "ispod"
   },
   {
     "sr": "изнад",
     "ru": "над",
     "tags": [
       "basics"
-    ]
+    ],
+    "sr_lat": "iznad"
   },
   {
     "sr": "нула",
     "ru": "ноль",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "nula"
   },
   {
     "sr": "један",
     "ru": "один",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "jedan"
   },
   {
     "sr": "два",
     "ru": "два",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "dva"
   },
   {
     "sr": "три",
     "ru": "три",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "tri"
   },
   {
     "sr": "четири",
     "ru": "четыре",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "četiri"
   },
   {
     "sr": "пет",
     "ru": "пять",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "pet"
   },
   {
     "sr": "шест",
     "ru": "шесть",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "šest"
   },
   {
     "sr": "седам",
     "ru": "семь",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "sedam"
   },
   {
     "sr": "осам",
     "ru": "восемь",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "osam"
   },
   {
     "sr": "девет",
     "ru": "девять",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "devet"
   },
   {
     "sr": "десет",
     "ru": "десять",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "deset"
   },
   {
     "sr": "једанаест",
     "ru": "одиннадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "jedanaest"
   },
   {
     "sr": "дванаест",
     "ru": "двенадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "dvanaest"
   },
   {
     "sr": "тринаест",
     "ru": "тринадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "trinaest"
   },
   {
     "sr": "четрнаест",
     "ru": "четырнадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "četrnaest"
   },
   {
     "sr": "петнаест",
     "ru": "пятнадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "petnaest"
   },
   {
     "sr": "шеснаест",
     "ru": "шестнадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "šesnaest"
   },
   {
     "sr": "седамнаест",
     "ru": "семнадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "sedamnaest"
   },
   {
     "sr": "осамнаест",
     "ru": "восемнадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "osamnaest"
   },
   {
     "sr": "деветнаест",
     "ru": "девятнадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "devetnaest"
   },
   {
     "sr": "двадесет",
     "ru": "двадцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "dvadeset"
   },
   {
     "sr": "тридесет",
     "ru": "тридцать",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "trideset"
   },
   {
     "sr": "четрдесет",
     "ru": "сорок",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "četrdeset"
   },
   {
     "sr": "педесет",
     "ru": "пятьдесят",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "pedeset"
   },
   {
     "sr": "шездесет",
     "ru": "шестьдесят",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "šezdeset"
   },
   {
     "sr": "седамдесет",
     "ru": "семьдесят",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "sedamdeset"
   },
   {
     "sr": "осамдесет",
     "ru": "восемьдесят",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "osamdeset"
   },
   {
     "sr": "деведесет",
     "ru": "девяносто",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "devedeset"
   },
   {
     "sr": "сто",
     "ru": "сто",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "sto"
   },
   {
     "sr": "хиљада",
     "ru": "тысяча",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "hiljada"
   },
   {
     "sr": "милион",
     "ru": "миллион",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "milion"
   },
   {
     "sr": "први",
     "ru": "первый",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "prvi"
   },
   {
     "sr": "други",
     "ru": "второй",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "drugi"
   },
   {
     "sr": "трећи",
     "ru": "третий",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "treći"
   },
   {
     "sr": "четврти",
     "ru": "четвёртый",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "četvrti"
   },
   {
     "sr": "пети",
     "ru": "пятый",
     "tags": [
       "numbers"
-    ]
+    ],
+    "sr_lat": "peti"
   },
   {
     "sr": "боја",
     "ru": "цвет",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "boja"
   },
   {
     "sr": "црвена",
     "ru": "красный",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "crvena"
   },
   {
     "sr": "плава",
     "ru": "синий",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "plava"
   },
   {
     "sr": "жута",
     "ru": "жёлтый",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "žuta"
   },
   {
     "sr": "зелена",
     "ru": "зелёный",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "zelena"
   },
   {
     "sr": "бела",
     "ru": "белый",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "bela"
   },
   {
     "sr": "црна",
     "ru": "чёрный",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "crna"
   },
   {
     "sr": "смеђа",
     "ru": "коричневый",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "smeđa"
   },
   {
     "sr": "сива",
     "ru": "серый",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "siva"
   },
   {
     "sr": "наранџаста",
     "ru": "оранжевый",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "narandžasta"
   },
   {
     "sr": "љубичаста",
     "ru": "фиолетовый",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "ljubičasta"
   },
   {
     "sr": "розе",
     "ru": "розовый",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "roze"
   },
   {
     "sr": "светла",
     "ru": "светлый",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "svetla"
   },
   {
     "sr": "тамна",
     "ru": "тёмный",
     "tags": [
       "colors"
-    ]
+    ],
+    "sr_lat": "tamna"
   },
   {
     "sr": "породица",
     "ru": "семья",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "porodica"
   },
   {
     "sr": "мајка",
     "ru": "мать",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "majka"
   },
   {
     "sr": "отац",
     "ru": "отец",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "otac"
   },
   {
     "sr": "син",
     "ru": "сын",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "sin"
   },
   {
     "sr": "ћерка",
     "ru": "дочь",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "ćerka"
   },
   {
     "sr": "брат",
     "ru": "брат",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "brat"
   },
   {
     "sr": "сестра",
     "ru": "сестра",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "sestra"
   },
   {
     "sr": "деда",
     "ru": "дедушка",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "deda"
   },
   {
     "sr": "баба",
     "ru": "бабушка",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "baba"
   },
   {
     "sr": "унук",
     "ru": "внук",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "unuk"
   },
   {
     "sr": "унука",
     "ru": "внучка",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "unuka"
   },
   {
     "sr": "муж",
     "ru": "муж",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "muž"
   },
   {
     "sr": "жена",
     "ru": "жена",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "žena"
   },
   {
     "sr": "тетка",
     "ru": "тётя",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "tetka"
   },
   {
     "sr": "ујак",
     "ru": "дядя",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "ujak"
   },
   {
     "sr": "кума",
     "ru": "кум",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "kuma"
   },
   {
     "sr": "кум",
     "ru": "кум",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "kum"
   },
   {
     "sr": "дете",
     "ru": "ребёнок",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "dete"
   },
   {
     "sr": "деца",
     "ru": "дети",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "deca"
   },
   {
     "sr": "родитељи",
     "ru": "родители",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "roditelji"
   },
   {
     "sr": "рођак",
     "ru": "родственник",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "rođak"
   },
   {
     "sr": "беба",
     "ru": "малыш",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "beba"
   },
   {
     "sr": "младенац",
     "ru": "младенец",
     "tags": [
       "family"
-    ]
+    ],
+    "sr_lat": "mladenac"
   },
   {
     "sr": "храна",
     "ru": "еда",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "hrana"
   },
   {
     "sr": "вода",
     "ru": "вода",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "voda"
   },
   {
     "sr": "хлеб",
     "ru": "хлеб",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "hleb"
   },
   {
     "sr": "месо",
     "ru": "мясо",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "meso"
   },
   {
     "sr": "риба",
     "ru": "рыба",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "riba"
   },
   {
     "sr": "јабука",
     "ru": "яблоко",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "jabuka"
   },
   {
     "sr": "банана",
     "ru": "банан",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "banana"
   },
   {
     "sr": "поморанџа",
     "ru": "апельсин",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "pomorandža"
   },
   {
     "sr": "парадајз",
     "ru": "помидор",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "paradajz"
   },
   {
     "sr": "краставац",
     "ru": "огурец",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "krastavac"
   },
   {
     "sr": "кромпир",
     "ru": "картофель",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "krompir"
   },
   {
     "sr": "лук",
     "ru": "лук",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "luk"
   },
   {
     "sr": "бели лук",
     "ru": "чеснок",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "beli luk"
   },
   {
     "sr": "сир",
     "ru": "сыр",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "sir"
   },
   {
     "sr": "јогурт",
     "ru": "йогурт",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "jogurt"
   },
   {
     "sr": "млеко",
     "ru": "молоко",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "mleko"
   },
   {
     "sr": "јаје",
     "ru": "яйцо",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "jaje"
   },
   {
     "sr": "кувати",
     "ru": "варить",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "kuvati"
   },
   {
     "sr": "печи",
     "ru": "печь",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "peči"
   },
   {
     "sr": "супа",
     "ru": "суп",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "supa"
   },
   {
     "sr": "салата",
     "ru": "салат",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "salata"
   },
   {
     "sr": "рижото",
     "ru": "ризотто",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "rižoto"
   },
   {
     "sr": "пица",
     "ru": "пицца",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "pica"
   },
   {
     "sr": "паста",
     "ru": "паста",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "pasta"
   },
   {
     "sr": "кола",
     "ru": "кола",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "kola"
   },
   {
     "sr": "чај",
     "ru": "чай",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "čaj"
   },
   {
     "sr": "кафа",
     "ru": "кофе",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "kafa"
   },
   {
     "sr": "пиво",
     "ru": "пиво",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "pivo"
   },
   {
     "sr": "вино",
     "ru": "вино",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "vino"
   },
   {
     "sr": "сок",
     "ru": "сок",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "sok"
   },
   {
     "sr": "шећер",
     "ru": "сахар",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "šećer"
   },
   {
     "sr": "со",
     "ru": "соль",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "so"
   },
   {
     "sr": "бибер",
     "ru": "перец",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "biber"
   },
   {
     "sr": "уље",
     "ru": "масло",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "ulje"
   },
   {
     "sr": "мед",
     "ru": "мёд",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "med"
   },
   {
     "sr": "кекс",
     "ru": "печенье",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "keks"
   },
   {
     "sr": "торта",
     "ru": "торт",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "torta"
   },
   {
     "sr": "воће",
     "ru": "фрукты",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "voće"
   },
   {
     "sr": "поврће",
     "ru": "овощи",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "povrće"
   },
   {
     "sr": "доручак",
     "ru": "завтрак",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "doručak"
   },
   {
     "sr": "ручак",
     "ru": "обед",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "ručak"
   },
   {
     "sr": "вечера",
     "ru": "ужин",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "večera"
   },
   {
     "sr": "укусно",
     "ru": "вкусно",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "ukusno"
   },
   {
     "sr": "гладан",
     "ru": "голодный",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "gladan"
   },
   {
     "sr": "жедан",
     "ru": "жаждущий",
     "tags": [
       "food"
-    ]
+    ],
+    "sr_lat": "žedan"
   },
   {
     "sr": "дан",
     "ru": "день",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "dan"
   },
   {
     "sr": "ноћ",
     "ru": "ночь",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "noć"
   },
   {
     "sr": "јутро",
     "ru": "утро",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "jutro"
   },
   {
     "sr": "вече",
     "ru": "вечер",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "veče"
   },
   {
     "sr": "подне",
     "ru": "полдень",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "podne"
   },
   {
     "sr": "понедељак",
     "ru": "понедельник",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "ponedeljak"
   },
   {
     "sr": "уторак",
     "ru": "вторник",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "utorak"
   },
   {
     "sr": "среда",
     "ru": "среда",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "sreda"
   },
   {
     "sr": "четвртак",
     "ru": "четверг",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "četvrtak"
   },
   {
     "sr": "петак",
     "ru": "пятница",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "petak"
   },
   {
     "sr": "субота",
     "ru": "суббота",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "subota"
   },
   {
     "sr": "недеља",
     "ru": "воскресенье",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "nedelja"
   },
   {
     "sr": "данас",
     "ru": "сегодня",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "danas"
   },
   {
     "sr": "сутра",
     "ru": "завтра",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "sutra"
   },
   {
     "sr": "јуче",
     "ru": "вчера",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "juče"
   },
   {
     "sr": "сад",
     "ru": "сейчас",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "sad"
   },
   {
     "sr": "час",
     "ru": "час",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "čas"
   },
   {
     "sr": "минут",
     "ru": "минута",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "minut"
   },
   {
     "sr": "секунд",
     "ru": "секунда",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "sekund"
   },
   {
     "sr": "месец",
     "ru": "месяц",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "mesec"
   },
   {
     "sr": "година",
     "ru": "год",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "godina"
   },
   {
     "sr": "пролеће",
     "ru": "весна",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "proleće"
   },
   {
     "sr": "лето",
     "ru": "лето",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "leto"
   },
   {
     "sr": "јесен",
     "ru": "осень",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "jesen"
   },
   {
     "sr": "зима",
     "ru": "зима",
     "tags": [
       "time"
-    ]
+    ],
+    "sr_lat": "zima"
   },
   {
     "sr": "тело",
     "ru": "тело",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "telo"
   },
   {
     "sr": "глава",
     "ru": "голова",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "glava"
   },
   {
     "sr": "лице",
     "ru": "лицо",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "lice"
   },
   {
     "sr": "око",
     "ru": "глаз",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "oko"
   },
   {
     "sr": "уши",
     "ru": "ухо",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "uši"
   },
   {
     "sr": "нос",
     "ru": "нос",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "nos"
   },
   {
     "sr": "уста",
     "ru": "рот",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "usta"
   },
   {
     "sr": "зуб",
     "ru": "зуб",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "zub"
   },
   {
     "sr": "језик",
     "ru": "язык",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "jezik"
   },
   {
     "sr": "врат",
     "ru": "шея",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "vrat"
   },
   {
     "sr": "рамена",
     "ru": "плечо",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "ramena"
   },
   {
     "sr": "рука",
     "ru": "рука",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "ruka"
   },
   {
     "sr": "шака",
     "ru": "кисть",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "šaka"
   },
   {
     "sr": "прст",
     "ru": "палец",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "prst"
   },
   {
     "sr": "нога",
     "ru": "нога",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "noga"
   },
   {
     "sr": "стопало",
     "ru": "ступня",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "stopalo"
   },
   {
     "sr": "колено",
     "ru": "колено",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "koleno"
   },
   {
     "sr": "стомак",
     "ru": "живот",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "stomak"
   },
   {
     "sr": "срце",
     "ru": "сердце",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "srce"
   },
   {
     "sr": "коса",
     "ru": "волосы",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "kosa"
   },
   {
     "sr": "кожа",
     "ru": "кожа",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "koža"
   },
   {
     "sr": "крв",
     "ru": "кровь",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "krv"
   },
   {
     "sr": "кост",
     "ru": "кость",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "kost"
   },
   {
     "sr": "мозак",
     "ru": "мозг",
     "tags": [
       "body"
-    ]
+    ],
+    "sr_lat": "mozak"
   },
   {
     "sr": "бити",
     "ru": "быть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "biti"
   },
   {
     "sr": "имати",
     "ru": "иметь",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "imati"
   },
   {
     "sr": "радити",
     "ru": "делать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "raditi"
   },
   {
     "sr": "ићи",
     "ru": "идти",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "ići"
   },
   {
     "sr": "доћи",
     "ru": "прийти",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "doći"
   },
   {
     "sr": "видети",
     "ru": "видеть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "videti"
   },
   {
     "sr": "чути",
     "ru": "слышать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "čuti"
   },
   {
     "sr": "говорити",
     "ru": "говорить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "govoriti"
   },
   {
     "sr": "рећи",
     "ru": "сказать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "reći"
   },
   {
     "sr": "знати",
     "ru": "знать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "znati"
   },
   {
     "sr": "мислити",
     "ru": "думать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "misliti"
   },
   {
     "sr": "хтети",
     "ru": "хотеть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "hteti"
   },
   {
     "sr": "моћи",
     "ru": "мочь",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "moći"
   },
   {
     "sr": "морати",
     "ru": "должен",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "morati"
   },
   {
     "sr": "јести",
     "ru": "есть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "jesti"
   },
   {
     "sr": "пити",
     "ru": "пить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "piti"
   },
   {
     "sr": "спавати",
     "ru": "спать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "spavati"
   },
   {
     "sr": "стати",
     "ru": "встать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "stati"
   },
   {
     "sr": "седети",
     "ru": "сидеть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "sedeti"
   },
   {
     "sr": "стојати",
     "ru": "стоять",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "stojati"
   },
   {
     "sr": "читати",
     "ru": "читать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "čitati"
   },
   {
     "sr": "писати",
     "ru": "писать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "pisati"
   },
   {
     "sr": "учити",
     "ru": "учить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "učiti"
   },
   {
     "sr": "разумети",
     "ru": "понимать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "razumeti"
   },
   {
     "sr": "волети",
     "ru": "любить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "voleti"
   },
   {
     "sr": "мрзети",
     "ru": "ненавидеть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "mrzeti"
   },
   {
     "sr": "дати",
     "ru": "дать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "dati"
   },
   {
     "sr": "узети",
     "ru": "взять",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "uzeti"
   },
   {
     "sr": "отворити",
     "ru": "открыть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "otvoriti"
   },
   {
     "sr": "затворити",
     "ru": "закрыть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "zatvoriti"
   },
   {
     "sr": "купити",
     "ru": "купить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "kupiti"
   },
   {
     "sr": "продати",
     "ru": "продать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "prodati"
   },
   {
     "sr": "тражити",
     "ru": "искать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "tražiti"
   },
   {
     "sr": "наћи",
     "ru": "найти",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "naći"
   },
   {
     "sr": "почети",
     "ru": "начать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "početi"
   },
   {
     "sr": "завршити",
     "ru": "закончить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "završiti"
   },
   {
     "sr": "чекати",
     "ru": "ждать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "čekati"
   },
   {
     "sr": "помоћи",
     "ru": "помочь",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "pomoći"
   },
   {
     "sr": "позвати",
     "ru": "позвать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "pozvati"
   },
   {
     "sr": "играти",
     "ru": "играть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "igrati"
   },
   {
     "sr": "певати",
     "ru": "петь",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "pevati"
   },
   {
     "sr": "плесати",
     "ru": "танцевать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "plesati"
   },
   {
     "sr": "трчати",
     "ru": "бежать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "trčati"
   },
   {
     "sr": "ходати",
     "ru": "ходить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "hodati"
   },
   {
     "sr": "возити",
     "ru": "возить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "voziti"
   },
   {
     "sr": "путовати",
     "ru": "путешествовать",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "putovati"
   },
   {
     "sr": "живети",
     "ru": "жить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "živeti"
   },
   {
     "sr": "умрети",
     "ru": "умереть",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "umreti"
   },
   {
     "sr": "родити",
     "ru": "родить",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "roditi"
   },
   {
     "sr": "расти",
     "ru": "расти",
     "tags": [
       "verbs"
-    ]
+    ],
+    "sr_lat": "rasti"
   },
   {
     "sr": "кућа",
     "ru": "дом",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "kuća"
   },
   {
     "sr": "школа",
     "ru": "школа",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "škola"
   },
   {
     "sr": "град",
     "ru": "город",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "grad"
   },
   {
     "sr": "село",
     "ru": "деревня",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "selo"
   },
   {
     "sr": "улица",
     "ru": "улица",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "ulica"
   },
   {
     "sr": "пут",
     "ru": "дорога",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "put"
   },
   {
     "sr": "парк",
     "ru": "парк",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "park"
   },
   {
     "sr": "продавница",
     "ru": "магазин",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "prodavnica"
   },
   {
     "sr": "пијаца",
     "ru": "рынок",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "pijaca"
   },
   {
     "sr": "банка",
     "ru": "банк",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "banka"
   },
   {
     "sr": "пошта",
     "ru": "почта",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "pošta"
   },
   {
     "sr": "болница",
     "ru": "больница",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "bolnica"
   },
   {
     "sr": "апотека",
     "ru": "аптека",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "apoteka"
   },
   {
     "sr": "ресторан",
     "ru": "ресторан",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "restoran"
   },
   {
     "sr": "хотел",
     "ru": "отель",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "hotel"
   },
   {
     "sr": "аеродром",
     "ru": "аэропорт",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "aerodrom"
   },
   {
     "sr": "станица",
     "ru": "станция",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "stanica"
   },
   {
     "sr": "аутобус",
     "ru": "автобус",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "autobus"
   },
   {
     "sr": "ауто",
     "ru": "машина",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "auto"
   },
   {
     "sr": "воз",
     "ru": "поезд",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "voz"
   },
   {
     "sr": "брод",
     "ru": "корабль",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "brod"
   },
   {
     "sr": "врата",
     "ru": "дверь",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "vrata"
   },
   {
     "sr": "прозор",
     "ru": "окно",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "prozor"
   },
   {
     "sr": "столица",
     "ru": "стул",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "stolica"
   },
   {
     "sr": "кревет",
     "ru": "кровать",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "krevet"
   },
   {
     "sr": "соба",
     "ru": "комната",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "soba"
   },
   {
     "sr": "кухиња",
     "ru": "кухня",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "kuhinja"
   },
   {
     "sr": "купатило",
     "ru": "ванная",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "kupatilo"
   },
   {
     "sr": "књига",
     "ru": "книга",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "knjiga"
   },
   {
     "sr": "новине",
     "ru": "газета",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "novine"
   },
   {
     "sr": "оловка",
     "ru": "карандаш",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "olovka"
   },
   {
     "sr": "папир",
     "ru": "бумага",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "papir"
   },
   {
     "sr": "торба",
     "ru": "сумка",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "torba"
   },
   {
     "sr": "новац",
     "ru": "деньги",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "novac"
   },
   {
     "sr": "телефон",
     "ru": "телефон",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "telefon"
   },
   {
     "sr": "рачунар",
     "ru": "компьютер",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "računar"
   },
   {
     "sr": "сат",
     "ru": "часы",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "sat"
   },
   {
     "sr": "кључ",
     "ru": "ключ",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "ključ"
   },
   {
     "sr": "сунце",
     "ru": "солнце",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "sunce"
   },
   {
     "sr": "звезда",
     "ru": "звезда",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "zvezda"
   },
   {
     "sr": "небо",
     "ru": "небо",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "nebo"
   },
   {
     "sr": "земља",
     "ru": "земля",
     "tags": [
       "places"
-    ]
+    ],
+    "sr_lat": "zemlja"
   },
   {
     "sr": "море",
     "ru": "море",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "more"
   },
   {
     "sr": "река",
     "ru": "река",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "reka"
   },
   {
     "sr": "планина",
     "ru": "гора",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "planina"
   },
   {
     "sr": "шума",
     "ru": "лес",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "šuma"
   },
   {
     "sr": "дрво",
     "ru": "дерево",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "drvo"
   },
   {
     "sr": "цвет",
     "ru": "цветок",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "cvet"
   },
   {
     "sr": "животиња",
     "ru": "животное",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "životinja"
   },
   {
     "sr": "пас",
     "ru": "собака",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "pas"
   },
   {
     "sr": "мачка",
     "ru": "кошка",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "mačka"
   },
   {
     "sr": "птица",
     "ru": "птица",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "ptica"
   },
   {
     "sr": "конј",
     "ru": "лошадь",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "konj"
   },
   {
     "sr": "крава",
     "ru": "корова",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "krava"
   },
   {
     "sr": "овца",
     "ru": "овца",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "ovca"
   },
   {
     "sr": "свиња",
     "ru": "свинья",
     "tags": [
       "nature"
-    ]
+    ],
+    "sr_lat": "svinja"
   },
   {
     "sr": "добар",
     "ru": "хороший",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "dobar"
   },
   {
     "sr": "лош",
     "ru": "плохой",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "loš"
   },
   {
     "sr": "велик",
     "ru": "большой",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "velik"
   },
   {
     "sr": "мал",
     "ru": "маленький",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "mal"
   },
   {
     "sr": "нов",
     "ru": "новый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "nov"
   },
   {
     "sr": "стар",
     "ru": "старый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "star"
   },
   {
     "sr": "млад",
     "ru": "молодой",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "mlad"
   },
   {
     "sr": "леп",
     "ru": "красивый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "lep"
   },
   {
     "sr": "ружан",
     "ru": "уродливый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "ružan"
   },
   {
     "sr": "брз",
     "ru": "быстрый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "brz"
   },
   {
     "sr": "спор",
     "ru": "медленный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "spor"
   },
   {
     "sr": "врућ",
     "ru": "горячий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "vruć"
   },
   {
     "sr": "хладан",
     "ru": "холодный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "hladan"
   },
   {
     "sr": "топао",
     "ru": "тёплый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "topao"
   },
   {
     "sr": "срећан",
     "ru": "счастливый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "srećan"
   },
   {
     "sr": "тужан",
     "ru": "грустный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "tužan"
   },
   {
     "sr": "болан",
     "ru": "больной",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "bolan"
   },
   {
     "sr": "здрав",
     "ru": "здоровый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "zdrav"
   },
   {
     "sr": "уморан",
     "ru": "уставший",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "umoran"
   },
   {
     "sr": "занет",
     "ru": "занятой",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "zanet"
   },
   {
     "sr": "слободан",
     "ru": "свободный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "slobodan"
   },
   {
     "sr": "важан",
     "ru": "важный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "važan"
   },
   {
     "sr": "лак",
     "ru": "лёгкий",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "lak"
   },
   {
     "sr": "тежак",
     "ru": "тяжёлый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "težak"
   },
   {
     "sr": "једноставан",
     "ru": "простой",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "jednostavan"
   },
   {
     "sr": "сложан",
     "ru": "сложный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "složan"
   },
   {
     "sr": "чист",
     "ru": "чистый",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "čist"
   },
   {
     "sr": "прљав",
     "ru": "грязный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "prljav"
   },
   {
     "sr": "пун",
     "ru": "полный",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "pun"
   },
   {
     "sr": "празан",
     "ru": "пустой",
     "tags": [
       "adjectives"
-    ]
+    ],
+    "sr_lat": "prazan"
   }
 ]
