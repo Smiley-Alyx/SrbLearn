@@ -34,10 +34,19 @@ def _clear_quiz_state(context: ContextTypes.DEFAULT_TYPE) -> None:
         context.user_data.pop(key, None)
 
 
-def _correct_answer_text(question: QuizQuestion, script: str) -> str:
-    if question.mode == QUIZ_MODE_SR_RU:
-        return question.word.ru
-    return display_sr(question.word, script)
+def _format_word_pair(word, script: str) -> str:
+    sr_text = display_sr(word, script)
+    return f"🇷🇸 *{sr_text}* — 🇷🇺 *{word.ru}*"
+
+
+def _format_answer_text(question: QuizQuestion, script: str, *, is_correct: bool) -> str:
+    mode_label = MODE_LABELS[question.mode]
+    result = "✅ Правильно!" if is_correct else "❌ Неверно!"
+    return (
+        f"📝 *{mode_label}*\n\n"
+        f"{_format_word_pair(question.word, script)}\n\n"
+        f"{result}"
+    )
 
 
 def _question_keyboard(question: QuizQuestion):
@@ -168,17 +177,7 @@ async def quiz_answer(
             total=total_count,
         )
 
-    if is_correct:
-        result_text = "✅ Правильно!"
-    else:
-        result_text = f"❌ Неверно! Правильный ответ: *{_correct_answer_text(question, engine.script)}*"
-
-    mode_label = MODE_LABELS[question.mode]
-    text = (
-        f"📝 *{mode_label}*\n\n"
-        f"Слово: *{question.prompt}*\n\n"
-        f"{result_text}"
-    )
+    text = _format_answer_text(question, engine.script, is_correct=is_correct)
     await query.edit_message_text(
         text,
         reply_markup=_after_answer_keyboard(),
